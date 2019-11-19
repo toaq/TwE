@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=1024">
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125924205-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-125924205-1');
+    </script>
+    <link rel="stylesheet" href="../assets/toaqwithease.css">
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+    <title>{{ page.title }} — Toaq with Ease</title>
+  </head>
+  <body>
+    <a class="logo" href="../">
+      <img src="../assets/TwE_Logo_small.png" alt="Logo">
+    </a>
+    <div class="content">
+      <main>
+        {{content}}
+      </main>
+      {% if page.collection == "lessons" %}
+      <footer class="navigation">
+        {% if page.next %}
+        <a class="continue" href="..{{ page.next.url | remove: 'index' }}">Continue</a>
+        {% else %}
+        <a class="continue but-dont" title="Coming soon!">Continue</a>
+        {% endif %}
+      </footer>
+      {% endif %}
+    </div>
+    <script src="../assets/accents.js"></script>
+  </body>
+</html>
