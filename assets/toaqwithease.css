@@ -1,4 +1,5 @@
 body {
+  font-family: Calibri, sans-serif;
   font-size: 20px;
 }
 
@@ -7,15 +8,14 @@ body {
 }
 
 div.content {
-  font-family: Calibri, sans-serif;
-	margin: 0px auto;
+  margin: 0px auto;
   padding: 50px;
   padding-top: 52px;
-	max-width: 800px;
-	text-align: justify;
-	background-image: url("linedpaper.png");
-	border: 1px solid hsl(120, 50%, 50%);
-	border-radius: 25px;
+  max-width: 800px;
+  text-align: justify;
+  background-image: url("linedpaper.png");
+  border: 1px solid hsl(120, 50%, 50%);
+  border-radius: 25px;
 }
 
 audio {
@@ -41,8 +41,8 @@ audio + p {
 }
 
 .logo {
-	text-align: center;
-	margin-bottom: 30px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 footer.navigation {
@@ -62,6 +62,16 @@ a.continue.but-dont {
   background-color: gray;
 }
 
+.nav-lessons {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.nav-lessons a[href] {
+  color: #00802b;
+}
+
 .spoiler { 
   color: white; 
   background-color: white;
@@ -71,7 +81,7 @@ a.continue.but-dont {
 }
 
 .spoiler:hover, .spoiler:focus { 
-	color: inherit;
+  color: inherit;
 }
 
 table {
@@ -101,7 +111,7 @@ h1 {
 }
 
 h2, h3 {
-	font-family: Sofia;
+  font-family: Sofia;
 }
 
 #mainaudio, h1 { margin-top: 10px; }
@@ -110,7 +120,7 @@ h2 { font-size: 30px; padding-bottom: 20px; }
 h3 { font-size: 20px; padding-top: 5px;  }
 
 img[src*="/tones/"] {
-	display: inline;
+  display: inline;
   vertical-align: text-bottom;
   height: 1em;
 }
@@ -173,7 +183,7 @@ ol li:nth-child(6)::before { content: '⑥'; }
 ol li:nth-child(7)::before { content: '⑦'; }
 ol li:nth-child(8)::before { content: '⑧'; }
 ol li:nth-child(9)::before { content: '⑨'; }
-ol li:nth-child(9)::before { content: '⑩'; }
+ol li:nth-child(10)::before { content: '⑩'; }
 
 li p:first-child {
   margin-top: 0;

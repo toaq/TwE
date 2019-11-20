@@ -1,7 +1,7 @@
 ---
 title: 'Gúkō chỉetōaı'
 ---
-# **Gúkō chỉetōaı** -- 1st Lesson
+# **Gúkō chỉetōaı** -- 2nd Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 

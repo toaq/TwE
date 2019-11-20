@@ -20,6 +20,12 @@
     <a class="logo" href="../">
       <img src="../assets/TwE_Logo_small.png" alt="Logo">
     </a>
+    <div class="nav-lessons">
+    {% for lesson in site.lessons %}
+      <a {% if page != lesson %} href="..{{ lesson.url | remove: 'index' }}" {% endif %}>{{ lesson.url | remove: 'index' | remove: '/' | replace: '00', 'Intro' }}</a>
+      {% unless forloop.last %}·{% endunless %}
+    {% endfor %}
+    </div>
     <div class="content">
       <main>
         {{content}}
