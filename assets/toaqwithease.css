@@ -21,6 +21,8 @@ div.content {
 audio {
   float: right;
   height: 50px;
+  position: relative;
+  z-index: 99;
 }
 
 p {
