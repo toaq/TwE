@@ -43,7 +43,7 @@ title: 'Fékō chỉetōaı'
 
 3. **bũ** means "not". For now, absorb the word as is.
 
-4. Here is the same sentence pattern but with **tu**, "every", instead. Interpreting **tu \<verb\>** works exactly like the **sa** counterpart, except that instead of "some", we have **every". Thus, **tu \<verb\>** means "everything which is or does the thing described by the verb". In the case of **tu chảq**, this gives us "everything which is a day", or, more simply, "every day". As before, the subsequent occurence of **cháq** refers to the same days.
+4. Here is the same sentence pattern but with **tu**, "every", instead. Interpreting **tu \<verb\>** works exactly like the **sa** counterpart, except that instead of "some", we have "every". Thus, **tu \<verb\>** means "everything which is or does the thing described by the verb". In the case of **tu chảq**, this gives us "everything which is a day", or, more simply, "every day". As before, the subsequent occurence of **cháq** refers to the same days.
 
 5. The pattern **mả ... moq** is used to form yes-no questions. The **moq** indicates that we're dealing with a question, much like **da** indicates that we're dealing with an assertion.
 
