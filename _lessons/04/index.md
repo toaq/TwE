@@ -45,7 +45,7 @@ title: 'Jókō chỉetōaı'
 
 4. **hó** "he/she/they" is another pronoun. It refers to one or more people and is gender-neutral.
 
-5. Note how in English, we say "I arrive **at/in]{.underline} the garden", but [tỉshā jí sóaq** literally means "arrive I garden".  It is not necessary to use "at" or "in". Whichever noun comes second is automatically understood to be the place of arrival.
+5. Note how in English, we say "I arrive at/in the garden", but **tỉshā jí sóaq** literally means "arrive I garden". It is not necessary to use "at" or "in". Whichever noun comes second is automatically understood to be the place of arrival.
 
 6. The function words **mó** and **teo** are placed around quoted text. Think of them as spoken quotation marks.
 
