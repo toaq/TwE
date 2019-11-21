@@ -43,7 +43,7 @@ title: 'Sáqkō chỉetōaı'
 
 2. **tỉ** means "to be at a place", "to be present at" and can be used any time two things exhibit spatial overlap.  **nỉe** "to be inside something" would be more specific.
 
-3. Now we see **kua** again, but this time with a rising tone ![](../tones/t2.png). While **kủa** means "to be a room", **kúa** means "the room(s)" (singular or plural not specified). The transformation from the verb meaning to the noun meaning follows a regular pattern: When applying a rising tone ![](../tones/t2.png){.tone} to a verb, the resulting expression refers to things that are or do the thing described by the verb. The meaning of **kủa** is "to be a room", so **kúa** must refer to something which "is a room" -- ergo, a room or rooms.
+3. Now we see **kua** again, but this time with a rising tone ![](../tones/t2.png). While **kủa** means "to be a room", **kúa** means "the room(s)" (singular or plural not specified). The transformation from the verb meaning to the noun meaning follows a regular pattern: When applying a rising tone ![](../tones/t2.png) to a verb, the resulting expression refers to things that are or do the thing described by the verb. The meaning of **kủa** is "to be a room", so **kúa** must refer to something which "is a room" -- ergo, a room or rooms.
 
 4. For now, remember **sa shỉ** "one", "someone", "something" as is.
 
