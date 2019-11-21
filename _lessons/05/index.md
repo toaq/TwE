@@ -5,6 +5,7 @@ title: 'Fékō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
+{: .sentences}
 | **Sa chảq bı gỉ cháq da.**            [①](#fn-1)[②](#fn-2) | Some days, they are good.                                                                            |
 | **Sa chảq bı hủı cháq da.**                                | Some days, they are bad.                                                                             |
 | **Óe...**                                                  | Okay...                                                                                              |

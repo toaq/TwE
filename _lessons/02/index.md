@@ -5,6 +5,7 @@ title: 'Gúkō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
+{: .sentences}
 | **Jỉo ní da.**      [①](#fn-1)[②](#fn-2) | This is a house.      |
 | **Bủa jí máq da.**  [③](#fn-3)[④](#fn-4) | I live in it.         |
 | **Nỉe jí jío da.**  [⑤](#fn-5)           | And I am eating.      |

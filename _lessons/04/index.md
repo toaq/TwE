@@ -5,6 +5,7 @@ title: 'Jókō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
+{: .sentences}
 | **Sỏaq da.**                             [①](#fn-1)           | There's a garden.               |
 | **Tỉ sa pỏq sóaq da.**                   [②](#fn-2)           | In the garden are some people.  |
 | **Kủeqtūa hó shámū da.**                 [③](#fn-3)[④](#fn-4) | They are collecting the apples. |

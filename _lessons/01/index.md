@@ -5,6 +5,7 @@ title: 'Shíkō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
+{: .sentences}
 | **Rủqshūa da.**  [①](#fn-1)[②](#fn-2) | It's raining.          |
 | **Keo chỏa da.** [③](#fn-3)           | But there is talking.  |
 | **Ru hỉaı da.**                       | And there is laughing. |

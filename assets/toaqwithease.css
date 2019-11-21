@@ -95,24 +95,24 @@ table a[href] {
   color: inherit;
 }
 
-table {
+table.sentences {
   width: 100%;
   margin: 25px auto;
   border-spacing: 0;
   border-collapse: collapse;
   text-align: start;
-  counter-reset: example;
+  counter-reset: sentence;
 }
 
-td {
+table.sentences td {
   width: 50%;
   vertical-align: top;
   box-sizing: border-box;
   padding-left: 3em;
 }
 
-td::before {
-  content: counter(example) "— ";
+table.sentences td::before {
+  content: counter(sentence) "— ";
   position: relative;
   display: block;
   height: 0px;
@@ -120,11 +120,11 @@ td::before {
   right: 2.25em;
 }
 
-tr {
-  counter-increment: example;
+table.sentences tr {
+  counter-increment: sentence;
 }
 
-td + td {
+table.sentences td + td {
   border-left: 1px dotted gray;
 }
 

@@ -5,6 +5,7 @@ title: 'Sáqkō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
+{: .sentences}
 | **Kủa ní da.**           [①](#fn-1)           | This is a room.                  |
 | **Tỉ jí ru súq kúa da.** [②](#fn-2)[③](#fn-3) | Me and you are in (at) the room. |
 | **Nủo sa shỉ da.**       [④](#fn-4)           | One is asleep.                   |
