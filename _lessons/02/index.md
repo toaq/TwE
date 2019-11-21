@@ -5,37 +5,26 @@ title: 'Gúkō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
-- **Jỉo ní da.** ①②  
-    This is a house.
-    
-- **Bủa jí máq da.** ③④
-    I live in it.
-    
-- **Nỉe jí jío da.** ⑤ 
-    And I am eating.
-    
-- **Ru chủq jí da.**
-    And I am eating.     
-    
-- **Chủq jí háq da.**
-    I am eating the food.
-    
-- **Chỏ jí jío da.**
-    I like the house.    
+| **Jỉo ní da.**      | [①](#fn-1)[②](#fn-2) | This is a house.      |
+| **Bủa jí máq da.**  | [③](#fn-3)[④](#fn-4) | I live in it.         |
+| **Nỉe jí jío da.**  | [⑤](#fn-5)           | And I am eating.      |
+| **Ru chủq jí da.**  |                      | And I am eating.      |
+| **Chủq jí háq da.** |                      | I am eating the food. |
+| **Chỏ jí jío da.**  |                      | I like the house.     |
 
 ---
 
 ## Notes
 
-1. With **jỉo**, we encounter a verb that may appear strange to an English speaker. It means "to be a house", "to be a building". Therefore, unlike English, **Toaq** does not use the equivalent of "to be" in this kind of phrase. **Toaq** has a lot of verbs that would be nouns in English.
+1. <a name="fn-1" /> With **jỉo**, we encounter a verb that may appear strange to an English speaker. It means "to be a house", "to be a building". Therefore, unlike English, **Toaq** does not use the equivalent of "to be" in this kind of phrase. **Toaq** has a lot of verbs that would be nouns in English.
 
-2. The word **ní** carries a rising tone ![](../tones/t2.png), which shows that this word is a noun. It means "this" or "that". Recall that in **Toaq**, the verb comes first in a sentence and is followed by the nouns. In this sentence, **ní** is the subject of the verb **jỉo**: "Is a house this."
+2. <a name="fn-2" /> The word **ní** carries a rising tone ![](../tones/t2.png), which shows that this word is a noun. It means "this" or "that". Recall that in **Toaq**, the verb comes first in a sentence and is followed by the nouns. In this sentence, **ní** is the subject of the verb **jỉo**: "Is a house this."
 
-3. We meet two more pronouns: the personal pronoun **jí** ("I", "me") and the pronoun **máq** ("it", "those things").
+3. <a name="fn-3" /> We meet two more pronouns: the personal pronoun **jí** ("I", "me") and the pronoun **máq** ("it", "those things").
 
-4. **bủa** means "to inhabit a place". This is the first sentence we have encountered in which there are two nouns. The first noun is the thing which inhabits, and the second noun is the thing which is inhabited: "Inhabit I it."
+4. <a name="fn-4" /> **bủa** means "to inhabit a place". This is the first sentence we have encountered in which there are two nouns. The first noun is the thing which inhabits, and the second noun is the thing which is inhabited: "Inhabit I it."
 
-5. This sentence works as the previous one. **jío** ("the house") carries a rising tone ![](../tones/t2.png). Do not confuse it with **jỉo** ("to be a house"). This similarity is not a coincidence -- we will take a closer look at this pattern in the next lesson.
+5. <a name="fn-5" /> This sentence works as the previous one. **jío** ("the house") carries a rising tone ![](../tones/t2.png). Do not confuse it with **jỉo** ("to be a house"). This similarity is not a coincidence -- we will take a closer look at this pattern in the next lesson.
 
 ---
 

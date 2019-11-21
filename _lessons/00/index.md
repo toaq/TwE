@@ -79,9 +79,9 @@ Five of the vowel letters look the same as in English, except for **ı**, which 
 
 The consonant **q** is usually pronounced as English "ng", but it can change its pronunciation depending on the consonant that follows:
 
-| default&nbsp;pronunciation&nbsp;– before&nbsp;**k**, **g**, **l**, **m**, **n**, **r**, **f**, **h**, **s**, **sh**, and&nbsp;at&nbsp;the&nbsp;end of&nbsp;a&nbsp;breath&nbsp;group: | <audio controls src="../sounds/q.mp3" /> |
-| before **t**, **d**, **c**, **ch**, **j**:                                                                                                                                           | same as **n**                            |
-| before **p**, **b**:                                                                                                                                                                 | same as **m**                            |
+* default&nbsp;pronunciation&nbsp;– before&nbsp;**k**, **g**, **l**, **m**, **n**, **r**, **f**, **h**, **s**, **sh**, and&nbsp;at&nbsp;the&nbsp;end of&nbsp;a&nbsp;breath&nbsp;group: <audio controls src="../sounds/q.mp3" />
+* before **t**, **d**, **c**, **ch**, **j**: same as **n**
+* before **p**, **b**: same as **m**
 
 ## Tones
 

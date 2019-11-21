@@ -10,7 +10,7 @@ body {
 div.content {
   margin: 0px auto;
   padding: 50px;
-  padding-top: 52px;
+  padding-top: 52.5px;
   max-width: 800px;
   text-align: justify;
   background-image: url("linedpaper.png");
@@ -23,6 +23,7 @@ audio {
   height: 50px;
   position: relative;
   z-index: 99;
+  margin-left: 25px;
 }
 
 p {
@@ -68,8 +69,18 @@ a.continue.but-dont {
   margin-bottom: 15px;
 }
 
-.nav-lessons a[href] {
+.nav-lessons a[href], table a[href] {
   color: #00802b;
+}
+
+.nav-lessons a[href]:hover,  table a[href]:hover,
+.nav-lessons a[href]:active, table a[href]:active,
+.nav-lessons a[href]:focus,  table a[href]:focus {
+  color: inherit;
+}
+
+table a[href] {
+  text-decoration: none;
 }
 
 .spoiler { 
@@ -85,7 +96,7 @@ a.continue.but-dont {
 }
 
 table {
-  margin: 0 auto;
+  margin: 25px auto;
   border-spacing: 0;
   border-collapse: collapse;
 }
@@ -94,11 +105,6 @@ td {
   height: 75px;
   padding: 12.5px 25px; 
   box-sizing: border-box;
-}
-
-td:first-child {
-  border-right: 1px dotted black;
-  text-align: right;
 }
 
 h1, h2, h3 {
@@ -140,12 +146,12 @@ img[src*="/tones/"] {
   overflow: hidden;
 }
 
-.t1:before { color: red; }
+.t1:before { color: red;    }
 .t2:before { color: orange; }
-.t3:before { color: gold; }
-.t4:before { color: green; }
-.t5:before { color: cyan; }
-.t6:before { color: blue; }
+.t3:before { color: gold;   }
+.t4:before { color: green;  }
+.t5:before { color: cyan;   }
+.t6:before { color: blue;   }
 .t7:before { color: purple; }
 
 .spoiler:not(:focus):not(:hover) .t:before {
@@ -174,15 +180,15 @@ ul li::before {
   content: counter(item) "— ";
 }
 
-ol li:nth-child(1)::before { content: '①'; }
-ol li:nth-child(2)::before { content: '②'; }
-ol li:nth-child(3)::before { content: '③'; }
-ol li:nth-child(4)::before { content: '④'; }
-ol li:nth-child(5)::before { content: '⑤'; }
-ol li:nth-child(6)::before { content: '⑥'; }
-ol li:nth-child(7)::before { content: '⑦'; }
-ol li:nth-child(8)::before { content: '⑧'; }
-ol li:nth-child(9)::before { content: '⑨'; }
+ol li:nth-child(1)::before  { content: '①'; }
+ol li:nth-child(2)::before  { content: '②'; }
+ol li:nth-child(3)::before  { content: '③'; }
+ol li:nth-child(4)::before  { content: '④'; }
+ol li:nth-child(5)::before  { content: '⑤'; }
+ol li:nth-child(6)::before  { content: '⑥'; }
+ol li:nth-child(7)::before  { content: '⑦'; }
+ol li:nth-child(8)::before  { content: '⑧'; }
+ol li:nth-child(9)::before  { content: '⑨'; }
 ol li:nth-child(10)::before { content: '⑩'; }
 
 li p:first-child {
