@@ -96,15 +96,36 @@ table a[href] {
 }
 
 table {
+  width: 100%;
   margin: 25px auto;
   border-spacing: 0;
   border-collapse: collapse;
+  text-align: start;
+  counter-reset: example;
 }
 
 td {
-  height: 75px;
-  padding: 12.5px 25px; 
+  width: 50%;
+  vertical-align: top;
   box-sizing: border-box;
+  padding-left: 3em;
+}
+
+td::before {
+  content: counter(example) "— ";
+  position: relative;
+  display: block;
+  height: 0px;
+  overflow: visible;
+  right: 2.25em;
+}
+
+tr {
+  counter-increment: example;
+}
+
+td + td {
+  border-left: 1px dotted gray;
 }
 
 h1, h2, h3 {

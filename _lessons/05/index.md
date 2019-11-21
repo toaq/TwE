@@ -5,16 +5,16 @@ title: 'Fékō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
-| **Sa chảq bı gỉ cháq da.**            | [①](#fn-1)[②](#fn-2) | Some days, they are good.                                                                            |
-| **Sa chảq bı hủı cháq da.**           |                      | Some days, they are bad.                                                                             |
-| **Óe...**                             |                      | Okay...                                                                                              |
-| **Bũ tu chảq bı gỉ cháq da.**         | [③](#fn-3)[④](#fn-4) | Not every day is good.                                                                               |
-| **Keo tu chảq bı pảq sa gỉ cháq da.** |                      | But every day has something good in it <br /> (every day is such that something good is part of it). |
-| **Ma nỏaq súq sa kủe moq?**           | [⑤](#fn-5)           | Did you read a book?                                                                                 |
-| **Sa kủe bı nỏaq há kúe da.**         | [⑥](#fn-6)           | Some books, you read them.                                                                           |
-| **Sa kủe bı chỏ há kúe da.**          |                      | Some books, you enjoy them.                                                                          |
-| **Keo sa kủe bı ...**                 |                      | But some books...                                                                                    |
-| **Ẻ, fả súq hı rảı moq?**             | [⑦](#fn-7)           | Hey, where are you going?                                                                            |
+| **Sa chảq bı gỉ cháq da.**            [①](#fn-1)[②](#fn-2) | Some days, they are good.                                                                            |
+| **Sa chảq bı hủı cháq da.**                                | Some days, they are bad.                                                                             |
+| **Óe...**                                                  | Okay...                                                                                              |
+| **Bũ tu chảq bı gỉ cháq da.**         [③](#fn-3)[④](#fn-4) | Not every day is good.                                                                               |
+| **Keo tu chảq bı pảq sa gỉ cháq da.**                      | But every day has something good in it (every day is such that something good is part of it). |
+| **Ma nỏaq súq sa kủe moq?**           [⑤](#fn-5)           | Did you read a book?                                                                                 |
+| **Sa kủe bı nỏaq há kúe da.**         [⑥](#fn-6)           | Some books, you read them.                                                                           |
+| **Sa kủe bı chỏ há kúe da.**                               | Some books, you enjoy them.                                                                          |
+| **Keo sa kủe bı ...**                                      | But some books...                                                                                    |
+| **Ẻ, fả súq hı rảı moq?**             [⑦](#fn-7)           | Hey, where are you going?                                                                            |
 
 ---
 
