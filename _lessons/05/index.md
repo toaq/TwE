@@ -5,17 +5,21 @@ title: 'Fékō chỉetōaı'
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
-{: .sentences}
-| **Sa chảq bı gỉ cháq da.**            [①](#fn-1)[②](#fn-2) | Some days, they are good.                                                                            |
-| **Sa chảq bı hủı cháq da.**                                | Some days, they are bad.                                                                             |
-| **Óe...**                                                  | Okay...                                                                                              |
-| **Bũ tu chảq bı gỉ cháq da.**         [③](#fn-3)[④](#fn-4) | Not every day is good.                                                                               |
-| **Keo tu chảq bı pảq sa gỉ cháq da.**                      | But every day has something good in it (every day is such that something good is part of it). |
-| **Ma nỏaq súq sa kủe moq?**           [⑤](#fn-5)           | Did you read a book?                                                                                 |
-| **Sa kủe bı nỏaq há kúe da.**         [⑥](#fn-6)           | Some books, you read them.                                                                           |
-| **Sa kủe bı chỏ há kúe da.**                               | Some books, you enjoy them.                                                                          |
-| **Keo sa kủe bı ...**                                      | But some books...                                                                                    |
-| **Ẻ, fả súq hı rảı moq?**             [⑦](#fn-7)           | Hey, where are you going?                                                                            |
+<table class="sentences">
+<tr class="speaker"><td>mí Ảlīsā</td><td>Alissa</td></tr>
+<tr><td>Sa chảq bı gỉ cháq da. <a href="#fn-1">①</a><a href="#fn-2">②</a></td><td>Some days, they are good.</td></tr>
+<tr><td>Sa chảq bı hủı cháq da.</td><td>Some days, they are bad.</td></tr>
+<tr class="speaker"><td>mí Bẻq</td><td>Ben</td></tr>
+<tr><td>Óe...</td><td>Okay...</td></tr>
+<tr class="speaker"><td>mí Ảlīsā</td><td>Alissa</td></tr>
+<tr><td>Bũ tu chảq bı gỉ cháq da. <a href="#fn-3">③</a><a href="#fn-4">④</a></td><td>Not every day is good.</td></tr>
+<tr><td>Keo tu chảq bı pảq sa gỉ cháq da.</td><td>But every day has something good in it (every day is such that something good is part of it).</td></tr>
+<tr><td>Ma nỏaq súq sa kủe moq? <a href="#fn-5">⑤</a></td><td>Did you read a book?</td></tr>
+<tr><td>Sa kủe bı nỏaq há kúe da. <a href="#fn-6">⑥</a></td><td>Some books, you read them.</td></tr>
+<tr><td>Sa kủe bı chỏ há kúe da.</td><td>Some books, you enjoy them.</td></tr>
+<tr><td>Keo sa kủe bı ...</td><td>But some books...</td></tr>
+<tr><td>Ẻ, fả súq hı rảı moq? <a href="#fn-7">⑦</a></td><td>Hey, where are you going?</td></tr>
+</table>
 
 ---
 

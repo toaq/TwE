@@ -80,6 +80,7 @@ a.continue.but-dont {
 }
 
 table a[href] {
+  font-weight: normal;
   text-decoration: none;
 }
 
@@ -111,8 +112,13 @@ table.sentences td {
   padding-left: 3em;
 }
 
+table.sentences td:first-of-type {
+  font-weight: bold;
+}
+
 table.sentences td::before {
   content: counter(sentence) "— ";
+  font-weight: normal;
   position: relative;
   display: block;
   height: 0px;
@@ -127,6 +133,10 @@ table.sentences tr {
 table.sentences td + td {
   border-left: 1px dotted gray;
 }
+
+table.sentences tr.speaker { counter-increment: sentence 0; }
+table.sentences tr.speaker td { font-weight: normal; font-style: italic; padding-top: 8px; }
+table.sentences tr.speaker td::before { content: ""; }
 
 h1, h2, h3 {
   margin: 0 0;
