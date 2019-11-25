@@ -6,16 +6,16 @@ title: 'Jókō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| Sỏaq da.                             [①](#fn-1)           | There's a garden.               |
-| Tỉ sa pỏq sóaq da.                   [②](#fn-2)           | In the garden are some people.  |
-| Kủeqtūa hó shámū da.                 [③](#fn-3)[④](#fn-4) | They are collecting the apples. |
-| Tỉshā jí sóaq da.                    [⑤](#fn-5)           | I arrive in the garden.         |
-| Kảqgāı kúeqtūa jí da.                                     | The collectors see me.          |
-| Kủq sa shỉ mó « Pảqtāo ba! » teo da. [⑥](#fn-6)[⑦](#fn-7) | Someone says: "Take part!"      |
-| Tıu sỏa jí hó da.                    [⑧](#fn-8)           | So I help them.                 |
-| Kủeqtūa jí da ru kủeqtūa jí da.                           | I collect and I collect.        |
-| Je nủaq da.                          [⑨](#fn-9)           | It is night-time.               |
-| Ru sẻakūaı tu pỏq da.                [⑩](#fn-10)          | And everyone is exhausted.      |
+| **Sỏaq da.**                             [①](#fn-1)           | There's a garden.               |
+| **Tỉ sa pỏq sóaq da.**                   [②](#fn-2)           | In the garden are some people.  |
+| **Kủeqtūa hó shámū da.**                 [③](#fn-3)[④](#fn-4) | They are collecting the apples. |
+| **Tỉshā jí sóaq da.**                    [⑤](#fn-5)           | I arrive in the garden.         |
+| **Kảqgāı kúeqtūa jí da.**                                     | The collectors see me.          |
+| **Kủq sa shỉ mó « Pảqtāo ba! » teo da.** [⑥](#fn-6)[⑦](#fn-7) | Someone says: "Take part!"      |
+| **Tıu sỏa jí hó da.**                    [⑧](#fn-8)           | So I help them.                 |
+| **Kủeqtūa hójī da ru kủeqtūa hójī da.**                       | We collect and we collect.      |
+| **Je nủaq da.**                          [⑨](#fn-9)           | It is night-time.               |
+| **Ru sẻakūaı tu pỏq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
 
 ---
 

@@ -6,16 +6,16 @@ title: 'Sáqkō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| Kủa ní da.           [①](#fn-1)           | This is a room.                  |
-| Tỉ jí ru súq kúa da. [②](#fn-2)[③](#fn-3) | Me and you are in (at) the room. |
-| Nủo sa shỉ da.       [④](#fn-4)           | One is asleep.                   |
-| Ru shỉe sa shỉ da.                        | And one is awake.                |
-| Sủq núo da.          [⑤](#fn-5)           | The one who is asleep is you.    |
-| Ru jỉ shíe da.       [⑥](#fn-6)           | And the one who is awake is me.  |
-| Bảo níjūı da.        [⑦](#fn-7)           | This here is white.              |
-| Ru kỉa níjāo da.     [⑦](#fn-7)           | And that there is red.           |
-| Pẻq báo da.          [⑧](#fn-8)           | The white thing is paper.        |
-| Ru rủa kía da.       [⑧](#fn-8)           | And the red thing is a flower.   |
+| **Kủa ní da.**           [①](#fn-1)           | This is a room.                  |
+| **Tỉ jí ru súq kúa da.** [②](#fn-2)[③](#fn-3) | Me and you are in (at) the room. |
+| **Nủo sa shỉ da.**       [④](#fn-4)           | One is asleep.                   |
+| **Ru shỉe sa shỉ da.**                        | And one is awake.                |
+| **Sủq núo da.**          [⑤](#fn-5)           | The one who is asleep is you.    |
+| **Ru jỉ shíe da.**       [⑥](#fn-6)           | And the one who is awake is me.  |
+| **Bảo níjūı da.**        [⑦](#fn-7)           | This here is white.              |
+| **Ru kỉa níjāo da.**     [⑦](#fn-7)           | And that there is red.           |
+| **Pẻq báo da.**          [⑧](#fn-8)           | The white thing is paper.        |
+| **Ru rủa kía da.**       [⑧](#fn-8)           | And the red thing is a flower.   |
 
 ---
 
