@@ -13,7 +13,7 @@ title: 'Jókō chỉetōaı'
 | **Kảqgāı kúeqtūa jí da.**                                     | The collectors see me.          |
 | **Kủq sa shỉ mó « Pảqtāo ba! » teo da.** [⑥](#fn-6)[⑦](#fn-7) | Someone says: "Take part!"      |
 | **Tıu sỏa jí hó da.**                    [⑧](#fn-8)           | So I help them.                 |
-| **Kủeqtūa hójī da ru kủeqtūa hójī da.**                       | We collect and we collect.      |
+| **Kủeqtūa jí da ru kủeqtūa jí da.**                           | I collect and I collect.        |
 | **Je nủaq da.**                          [⑨](#fn-9)           | It is night-time.               |
 | **Ru sẻakūaı tu pỏq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
 
