@@ -6,17 +6,17 @@ title: 'Cíkō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| **Jỏai déo kúnē da.**                    [①](#fn-1)           | The child is looking for the dog.  |
-| **Hu mámā, kúnē by, tỉ hó hı rảı moq?**  [②](#fn-2)[③](#fn-3) | Mother, the dog, where is it?   |
+| **Jỏaı déo kúnē da.**                    [①](#fn-1)           | The child is looking for the dog.  |
+| **Hu mámā, kúnē bı, tỉ hó hı rảı moq?**  [②](#fn-2)[③](#fn-3) | Mother, the dog, where is it?   |
 | **Kúnē bı, nỉe hó kúa da.**                                   | The dog, it's in the room.|
 | **Hı kủa?**                              [④](#fn-4)           | Which room? |
-| **Núokūa,**                               [⑤](#fn-5)          | The bedroom.|      
+| **Núokūa.**                               [⑤](#fn-5)          | The bedroom.|      
 | **Nỉe bũ hó núokūa da.**                 [⑥](#fn-6)           | It's not in the bedroom. |
 | **Nủı hó da… Mả tỉa hó sófā moq?**                            | It's small... Is it behind the sofa?| 
 | **Tỉa bũ hó sófā da.**                                        | It's not behind the sofa. |
 | **Fả súq tu kủa ba.**                    [⑦](#fn-7)           | Go to every room. |
-| **Hu mámā, kíao by rỉa máq da!**                              | Mother, the door, it's open! |
-| **Ỏ! Mả bủı kúnē moq? Joai múy ba.**     [⑧](#fn-8)           | Oh! Is the dog outside? Let us go looking. |
+| **Hu mámā, kíao bı rỉa máq da!**                              | Mother, the door, it's open! |
+| **Ỏ! Mả bủı kúnē moq? Jỏaı múy ba.**     [⑧](#fn-8)           | Oh! Is the dog outside? Let us go looking. |
 
 ---
 

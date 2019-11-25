@@ -143,6 +143,49 @@ table.sentences tr.speaker { counter-increment: sentence 0; }
 table.sentences tr.speaker td { font-weight: normal; font-style: italic; padding-top: 8px; }
 table.sentences tr.speaker td::before { content: ""; }
 
+table.grammar {
+  table-layout: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  background-color: #009900;
+  border-radius: 25px;
+  border:1px solid #009900;
+}
+
+table.grammar th {
+  font-weight: bold;  
+  color: white;
+  text-align: center;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+table.grammar tr, table.grammar td {
+  text-align: center;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+table.grammar tr + tr td {
+  background-color: white;
+  border-top: 1px solid #009900;
+  border-bottom: 0px none;
+  border-left: 0px none;
+  border-right: 0px none;
+}
+
+img.diagram {
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
 h1, h2, h3 {
   margin: 0 0;
   line-height: 100%;
@@ -227,8 +270,19 @@ ol li:nth-child(8)::before  { content: '⑧'; }
 ol li:nth-child(9)::before  { content: '⑨'; }
 ol li:nth-child(10)::before { content: '⑩'; }
 
-li p:first-child {
-  margin-top: 0;
+ul.example {
+  list-style-type: none; 
+}
+
+ul.example li::before {
+  position: absolute;
+  left: -2em;
+  content: " ";
+}
+
+ul.example li {
+  margin-left: 2em;
+  position: relative;
 }
 
 hr {
