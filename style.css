@@ -1,5 +1,5 @@
 body {
-  font-family: Calibri, sans-serif;
+  font-family: Sarabun, sans-serif;
   font-size: 20px;
 }
 
@@ -214,8 +214,7 @@ img[src*="/tones/"] {
   position: absolute;
   left: 0;
   top: 0;
-  height: calc(1em / 3);
-  padding-right: 0.1em;
+  height: calc(1em / 2);
   overflow: hidden;
 }
 
