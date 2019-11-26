@@ -7,8 +7,7 @@ body {
   line-height: 125%;
 }
 
-/* Don't wrap Toaq words */
-strong {
+strong .toa {
   white-space: nowrap;
 }
 
