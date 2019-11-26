@@ -1,7 +1,7 @@
 ---
 title: 'Fékō chỉetōaı'
 ---
-# **Fékō chỉetōaı** - 5th Lesson
+# **Fékō chỉetōaı** -- 5th Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 

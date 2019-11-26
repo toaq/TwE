@@ -18,7 +18,7 @@ div.content {
   padding-top: 52px;
   max-width: 800px;
   text-align: justify;
-  background-image: url("linedpaper.png");
+  background-image: url("assets/linedpaper.png");
   border: 1px solid hsl(120, 50%, 50%);
   border-radius: 25px;
 }
@@ -101,27 +101,31 @@ table a[href] {
   color: inherit;
 }
 
-table.sentences {
-  width: 100%;
+table {
   margin: 25px auto;
   border-spacing: 0;
   border-collapse: collapse;
   text-align: start;
+}
+
+table.sentences {
+  width: 100%;
   counter-reset: sentence;
 }
 
-table.sentences td {
+table:not(.sentences) td, table:not(.sentences) th {
+  height: 75px;
+  padding: 12.5px 25px;
+  box-sizing: border-box;
+}
+
+.sentences td {
   width: 50%;
   vertical-align: top;
-  box-sizing: border-box;
-  padding-left: 3em;
+  padding: 0 0 0 4em;
 }
 
-table.sentences td:first-of-type {
-  font-weight: bold;
-}
-
-table.sentences td::before {
+.sentences td::before {
   content: counter(sentence) "— ";
   font-weight: normal;
   position: relative;
@@ -131,63 +135,48 @@ table.sentences td::before {
   right: 2.25em;
 }
 
-table.sentences tr {
+.sentences tr {
   counter-increment: sentence;
 }
 
-table.sentences td + td {
+.sentences td + td {
   border-left: 1px dotted gray;
 }
 
-table.sentences tr.speaker { counter-increment: sentence 0; }
-table.sentences tr.speaker td { font-weight: normal; font-style: italic; padding-top: 8px; }
-table.sentences tr.speaker td::before { content: ""; }
-
-table.grammar {
-  table-layout: fixed;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  background-color: #009900;
-  border-radius: 25px;
-  border:1px solid #009900;
+table.fancy {
+  text-align: center;
+  display: block;
+  border-radius: 29px;
+  border: 2px solid green;
+  margin: 25px auto;
+  width: fit-content;
 }
 
-table.grammar th {
+.fancy tbody {
+  display: table;
+  margin: -2px;
+}
+
+.fancy tr:first-child th:first-child { border-top-left-radius: 25px; }
+.fancy tr:first-child th:last-child { border-top-right-radius: 25px; }
+
+th {
+  font-weight: inherit;
+}
+
+.fancy th {
   font-weight: bold;  
   color: white;
-  text-align: center;
-  padding: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
+  background-color: green;
 }
 
-table.grammar tr, table.grammar td {
-  text-align: center;
-  padding: 10px;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-table.grammar tr + tr td {
-  background-color: white;
-  border-top: 1px solid #009900;
-  border-bottom: 0px none;
-  border-left: 0px none;
-  border-right: 0px none;
-}
-
-img.diagram {
-  width: 90%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 25px;
-  margin-top: 25px;
+.fancy tr:not(:last-child) td {
+  border-bottom: 1px solid green;
+  padding-bottom: 11.5px;
 }
 
 h1, h2, h3 {
-  margin: 0 0;
+  margin: 0;
   line-height: 100%;
 }
 
@@ -201,8 +190,14 @@ h2, h3 {
 
 #mainaudio, h1 { margin-top: 10px; }
 h1 { font-size: 40px; height: 40px; margin-bottom: 10px; }
-h2 { font-size: 30px; padding-bottom: 20px; }
+h2 { font-size: 30px; padding-top: 25px; padding-bottom: 20px; }
 h3 { font-size: 20px; padding-top: 5px;  }
+
+main img:not([src*="/tones/"]) {
+  width: calc(100% - 50px);
+  margin: 25px;
+  display: block;
+}
 
 img[src*="/tones/"] {
   display: inline;
@@ -269,21 +264,6 @@ ol li:nth-child(7)::before  { content: '⑦'; }
 ol li:nth-child(8)::before  { content: '⑧'; }
 ol li:nth-child(9)::before  { content: '⑨'; }
 ol li:nth-child(10)::before { content: '⑩'; }
-
-ul.example {
-  list-style-type: none; 
-}
-
-ul.example li::before {
-  position: absolute;
-  left: -2em;
-  content: " ";
-}
-
-ul.example li {
-  margin-left: 2em;
-  position: relative;
-}
 
 hr {
   border: none;

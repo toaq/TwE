@@ -1,7 +1,7 @@
 ---
 title: 'Cíkō chỉetōaı'
 ---
-# **Fékō chỉetōaı** - Lesson 6
+# **Fékō chỉetōaı** -- Lesson 6
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
@@ -26,17 +26,17 @@ title: 'Cíkō chỉetōaı'
 
 2. <a name="fn-2" /> **hu** is a so-called *vocative marker*. It is placed in front of a noun and indicates that the noun is the party being addressed by the speaker. Here, it is the mother (**mámā**) who is being addressed.
 
-3. <a name="fn-3" /> Here we see another use for the particle **bı**: by allowing one to state a noun first, one can establish that noun as the topic of the sentence. In English, this is sometimes expressed via phrases like “As for the dog, ...”, or “About the dog, ...”.
+3. <a name="fn-3" /> Here we see another use for the particle **bı**: by allowing one to state a noun first, one can establish that noun as the topic of the sentence. In English, this is sometimes expressed via phrases like "As for the dog, ...", or "About the dog, ...".
 
-4. <a name="fn-4" /> **hı X** can generally be translated as “which X” or “what X”. Grammatically, it works just like **sa** and **tu**. **hı kủa** “which (thing that is a) room”, **hı kủnē** “which dog”. In the previous lesson, **hı rảı** was given as simply “what”. This is because the verb **raı** means “to be something”, so **hı rảı** means “which thing that is something“, which really just amounts to “what”.
+4. <a name="fn-4" /> **hı X** can generally be translated as "which X" or "what X". Grammatically, it works just like **sa** and **tu**. **hı kủa** "which (thing that is a) room", **hı kủnē** "which dog". In the previous lesson, **hı rảı** was given as simply "what". This is because the verb **raı** means "to be something", so **hı rảı** means "which thing that is something", which really just amounts to "what".
 
-5. <a name="fn-5" /> **nuokūa** “bedroom” is a compound whose components are **nuo** “sleep” and **kua** “room”. You should have no problem remembering that it means “bedroom“, since that’s the room which is mainly used for sleeping.
+5. <a name="fn-5" /> **nuokūa** "bedroom" is a compound whose components are **nuo** "sleep" and **kua** "room". You should have no problem remembering that it means "bedroom", since that’s the room which is mainly used for sleeping.
 
-6. <a name="fn-6" /> **bũ** “not” is often placed right after the verb. We will learn about this in much more detail in later lessons.
+6. <a name="fn-6" /> **bũ** "not" is often placed right after the verb. We will learn about this in much more detail in later lessons.
 
 7. <a name="fn-7" /> **ba** is what turns this sentence into a command.
 
-8. <a name="fn-8" /> **muy** is another pronoun. It means “we“, but specifically refers to the speaker and the listener, as opposed to the speaker and some third party.
+8. <a name="fn-8" /> **muy** is another pronoun. It means "we", but specifically refers to the speaker and the listener, as opposed to the speaker and some third party.
 
 ---
 

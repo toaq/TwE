@@ -1,7 +1,7 @@
 ---
 title: 'Jókō chỉetōaı'
 ---
-# **Jókō chỉetōaı** - 4th Lesson
+# **Jókō chỉetōaı** -- 4th Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
