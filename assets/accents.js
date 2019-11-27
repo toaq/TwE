@@ -1,5 +1,4 @@
 function accentify(element) {
-  console.log(element, element.nodeType);
   if(element.nodeType == Node.TEXT_NODE) {
     var words = element.data.split(/ /);
     var replacement = document.createElement('span');
@@ -20,7 +19,6 @@ function accentify(element) {
       }
       replacement.appendChild(toa);
     }
-    console.log(replacement);
     element.parentNode.replaceChild(replacement, element);
   } else {
     for(var i = 0; i < element.childNodes.length; i++) {
