@@ -1,6 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
 body {
   font-family: Sarabun, sans-serif;
   font-size: 20px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 * {
@@ -11,11 +20,11 @@ strong .toa {
   white-space: nowrap;
 }
 
-div.content {
-  margin: 0px auto;
+.content {
+  margin: 0 auto 25px;
   padding: 50px;
   padding-top: 62px;
-  max-width: 800px;
+  width: 700px;
   text-align: justify;
   background-image: url("assets/linedpaper.png");
   border: 1px solid green;
@@ -40,14 +49,14 @@ audio + p {
 
 .logo img {
   padding: 25px;
-  width: 400px;
+  width: 50%;
   display: block;
   margin: 0 auto;
 }
 
 .logo {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 footer.navigation {
@@ -311,3 +320,14 @@ ol li:nth-child(7)::before  { content: '⑦'; }
 ol li:nth-child(8)::before  { content: '⑧'; }
 ol li:nth-child(9)::before  { content: '⑨'; }
 ol li:nth-child(10)::before { content: '⑩'; }
+
+@media screen and (max-width: 800px) {
+  .content {
+    width: calc(100% - 100px);
+    border-width: 0;
+    border-top-width: 1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin: 0;
+  }
+}
