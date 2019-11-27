@@ -75,10 +75,12 @@ Below are examples showing how things which would be verbs, adjectives or nouns 
   "I eat."
 
 > **Nủı shámū da**  
-  "This is small." (lit. "This smalls")
+  "The apple is small." (lit. "The apple smalls")
 
 > **Kủnē ní da**  
   "This is a dog." (lit. "This dogs")
+
+---
 
 ## Making nouns
 
@@ -98,6 +100,8 @@ So far, you have encountered two ways of making nouns out of contentives: 1) usi
   "which building(s)"
 
 Nouns in Toaq are not marked for grammatical number. That is, whether an expression refers to one or more things, its form doesn’t change.
+
+---
 
 ## Table of pronouns
 
@@ -137,6 +141,8 @@ All of these pronouns are contentives, which means they can be used as verbs:
 > **Sủq núo da.**  
   "The one who sleeps is you."
 
+---
+
 ## Roots and compounds
 
 When a word has more than one syllable, every syllable but the first carries the even tone ![](../tones/t1.png). A lexical distinction is made between root words with more than syllable on the one hand, and compound words on the other hand. Compounds are words that are made of meangingful components. For example, **chıejīo** "school" is a compound whose components are **chıe** "learn" and **jıo** "building". On the other hand, **kunē** "dog" and **sofā** "sofa" are roots, as they have no semantic components.
@@ -161,6 +167,8 @@ These are the roots and compounds introduced so far, in chronological order.
     <tr><td><strong>sofā</strong> "to be a sofa"</td><td>root</td></tr>
   </table>
 </div>
+
+---
 
 ## Numbers
 
