@@ -142,37 +142,59 @@ table:not(.sentences) td, table:not(.sentences) th {
   border-left: 1px dotted gray;
 }
 
-table.fancy {
-  text-align: center;
+div.fancy {
   display: block;
-  border-radius: 29px;
-  border: 2px solid green;
-  margin: 25px auto;
-  width: fit-content;
+  width: 90%;
+  border-radius: 25px;
+  padding: 2px;
+  margin: 0 auto;
+  background-color: green;
 }
 
-.fancy tbody {
-  display: table;
-  margin: -2px;
+.fancy > table {
+  table-layout: fixed;
+  text-align: center;
+  margin: 0;
+  width: 100%;
 }
-
-.fancy tr:first-child th:first-child { border-top-left-radius: 25px; }
-.fancy tr:first-child th:last-child { border-top-right-radius: 25px; }
 
 th {
   font-weight: inherit;
 }
 
 .fancy th {
-  font-weight: bold;  
+  font-weight: bold;
   color: white;
   background-color: green;
+}
+
+.fancy td {
+  background-color: white;
+}
+
+.fancy td:first-child { padding-left: 23px; }
+.fancy td:last-child { padding-right: 23px; }
+
+.fancy table:first-child tr:first-child td,
+.fancy table:first-child tr:first-child th {
+  padding-top: 10.5px;
+  height: 73px;
+}
+.fancy table:last-child tr:last-child td,
+.fancy table:last-child tr:last-child th {
+  padding-bottom: 10.5px;
+  height: 73px;
 }
 
 .fancy tr:not(:last-child) td {
   border-bottom: 1px solid green;
   padding-bottom: 11.5px;
 }
+
+.fancy tr:first-child td:first-child, .fancy tr:first-child th:first-child  { border-top-left-radius: 23px; }
+.fancy tr:first-child td:last-child,  .fancy tr:first-child th:last-child  { border-top-right-radius: 23px; }
+.fancy table:last-child tr:last-child td:first-child  { border-bottom-left-radius: 23px; }
+.fancy table:last-child tr:last-child td:last-child  { border-bottom-right-radius: 23px; }
 
 h1, h2, h3 {
   margin: 0;
