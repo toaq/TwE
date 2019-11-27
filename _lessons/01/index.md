@@ -23,8 +23,6 @@ title: 'Shíkō chỉetōaı'
 
 5. <a name="fn-5" /> **cháq** means "the day". It carries a rising tone ![](../tones/t2.png). We will learn more about this tone in the next lesson.
 
----
-
 ## Exercises
 
 ### Translate:
