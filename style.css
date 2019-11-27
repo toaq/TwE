@@ -199,6 +199,7 @@ th {
 h1, h2, h3 {
   margin: 0;
   line-height: 100%;
+  font-weight: inherit;
 }
 
 h1 {
