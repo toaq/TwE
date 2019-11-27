@@ -63,7 +63,7 @@ title: 'Jókō chỉetōaı'
   **Kủq hó mó « Kỉa shámū da » teo da.**  
   <span class="spoiler">"He/she/they say 'The apples are red.'" (or 'the apple is red')</span>
 
-#### Fill in the blanks:
+### Fill in the blanks:
 
 - "I like the participants."  
   **Chỏ jí <span class="spoiler">páqtāo</span> da.**
