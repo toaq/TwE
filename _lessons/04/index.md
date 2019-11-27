@@ -17,8 +17,6 @@ title: 'Jókō chỉetōaı'
 | **Je nủaq da.**                          [⑨](#fn-9)           | It is night-time.               |
 | **Ru sẻakūaı tu pỏq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
 
----
-
 ## Notes
 
 1. <a name="fn-1" /> **Sỏaq da** "There is a garden". We saw sentences of this form in Lesson 1. When a verb is used without any nouns, it describes a situation where something is or does the thing described by the verb, without saying what thing in particular. Recall **Hỉaı da** "There is laughing" from Lesson 1. Another example: **Kỉa da** "There is red."
@@ -40,8 +38,6 @@ title: 'Jókō chỉetōaı'
 9. <a name="fn-9" /> **je** is another sentence prefix. Unlike **keo** and **tıu**, this one does not carry any additional meaning beyond marking the beginning of a new sentence. It is commonly used to mark breaks in speech or in text, like the beginning of a new paragraph or a new topic.
 
 10. <a name="fn-10" /> **tu pỏq** "everyone", "everybody", "each person". For now, remember this as a unit.
-
----
 
 ## Exercises
 

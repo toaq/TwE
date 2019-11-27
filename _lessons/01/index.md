@@ -11,8 +11,6 @@ title: 'Shíkō chỉetōaı'
 | **Ru hỉaı da.**                       | And there is laughing. |
 | **Dẻ cháq da.**  [④](#fn-4)[⑤](#fn-5) | It's a beautiful day.  |
 
----
-
 ## Notes
 
 1. <a name="fn-1" /> **rủqshūa** means "to rain". The first syllable **ruq** carries a falling tone ![](../tones/t4.png), which shows that this word is a verb.

@@ -18,8 +18,6 @@ title: 'Cíkō chỉetōaı'
 | **Hu mámā, kíao bı rỉa máq da!**                              | Mother, the door, it's open! |
 | **Ỏ! Mả bủı kúnē moq? Jỏaı múy ba.**     [⑧](#fn-8)           | Oh! Is the dog outside? Let us go looking. |
 
----
-
 ## Notes
 
 1. <a name="fn-1" /> **kunē** "dog" is a root word with more than one syllable. We met another such root in Lesson 4. An interesting point worth appreciating here again is that the words for "dog" and "apple" are verbs in Toaq. **kunē** means "to be a dog", **shamū** "to be an apple". The noun meanings are derived from these verbs, either via a rising tone ![](../tones/t2.png) (**kúnē** "the dog(s)", **shamū** "the apple(s)") or via **sa** (**sa kủnē** "some dog(s)", **sa shảmū** "some apple(s)") or **tu** (**tu kủnē** "every dog", **tu shảmū** "every apple").
@@ -37,8 +35,6 @@ title: 'Cíkō chỉetōaı'
 7. <a name="fn-7" /> **ba** is what turns this sentence into a command.
 
 8. <a name="fn-8" /> **muy** is another pronoun. It means "we", but specifically refers to the speaker and the listener, as opposed to the speaker and some third party.
-
----
 
 ## Exercises
 

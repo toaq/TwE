@@ -17,8 +17,6 @@ title: 'Fékō chỉetōaı'
 | **Keo sa kủe bı ...**                                      | But some books...                                                                                    |
 | **Ẻ, fả súq hı rảı moq?**             [⑦](#fn-7)           | Hey, where are you going?                                                                            |
 
----
-
 ## Notes
 
 1. <a name="fn-1" /> We now revisit the subject of **sa** and **tu**. In this sentence, we see **sa chảq**, which means "a/some day(s)". In general, to interpret **sa \<verb\>**, think "a/some thing(s) which is/are or do/does the thing described by the verb". **sa chảq** "some things which are days", or simply "some days".
@@ -34,8 +32,6 @@ title: 'Fékō chỉetōaı'
 6. <a name="fn-6" /> **há**, "one" or "you", is a generic impersonal pronoun. It is used to refer generically to a person or people, as in "One does not simply walk into Mordor". Like every other pronoun in Toaq, it is gender-neutral.
 
 7. <a name="fn-7" /> **hı rảı** means "what" or "which thing(s)". Here, it appears as the second noun of the verb **fả**, "to go (somewhere)", which is the destination. The literal meaning of "You go what?" should therefore be understood as "What is the destination of your going?", or, more simply, "Where are you going?".
-
----
 
 ## Exercises
 

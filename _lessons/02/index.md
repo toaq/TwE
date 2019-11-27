@@ -13,8 +13,6 @@ title: 'Gúkō chỉetōaı'
 | **Chủq jí háq da.**                      | I am eating the food. |
 | **Chỏ jí jío da.**                       | I like the house.     |
 
----
-
 ## Notes
 
 1. <a name="fn-1" /> With **jỉo**, we encounter a verb that may appear strange to an English speaker. It means "to be a house", "to be a building". Therefore, unlike English, **Toaq** does not use the equivalent of "to be" in this kind of phrase. **Toaq** has a lot of verbs that would be nouns in English.
@@ -26,8 +24,6 @@ title: 'Gúkō chỉetōaı'
 4. <a name="fn-4" /> **bủa** means "to inhabit a place". This is the first sentence we have encountered in which there are two nouns. The first noun is the thing which inhabits, and the second noun is the thing which is inhabited: "Inhabit I it."
 
 5. <a name="fn-5" /> This sentence works as the previous one. **jío** ("the house") carries a rising tone ![](../tones/t2.png). Do not confuse it with **jỉo** ("to be a house"). This similarity is not a coincidence -- we will take a closer look at this pattern in the next lesson.
-
----
 
 ## Exercises
 

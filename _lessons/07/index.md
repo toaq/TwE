@@ -5,8 +5,6 @@ title: 'Díaıkō chỉetōaı'
 
 Congratulations, you have reached the first review lesson. This lesson does not contain anything new. Instead, it summarizes the material covered in the previous six lessons and helps you organize and consolidate it.
 
----
-
 ## Pronunciation
 
 It is important that you learn to hear and pronounce the tones correctly. So far, you have seen (or heard) the falling tone ![](../tones/t4.png), the rising tone ![](../tones/t2.png), and the even tone ![](../tones/t1.png). All of these tones exist in English, too:
@@ -19,8 +17,6 @@ The even tone  ![](../tones/t1.png) sounds like the "mmm" you do while you are t
 
 Listen carefully to the audio recordings in each lesson and repeat after them. You can also record yourself and compare your pronunciation to the recordings.
 
----
-
 ## Sentence structure and word order
 
 The structure of sentences and the word order generally follows this template:
@@ -30,8 +26,6 @@ The structure of sentences and the word order generally follows this template:
 Sentence prefixes ("but", "so", ...) are optional.
 
 When there is a noun in topic position, the verb of the sentence must be preceded by the particle **bı**.
-
----
 
 ## The purpose of an utterance 
 
@@ -61,8 +55,6 @@ The particles **da**, **ba**, **moq** are used to indicate the aim of an utteran
 > **Gỉ hı shảmū moq.**  
   "Which apples are good?"
 
----
-
 ## Everything is a verb
 
 By now, you have heard a few times that things that would be nouns or adjectives in English are actually verbs in Toaq. What is really meant by that is that the words that carry meaning in Toaq (as opposed to words that mainly give structure to a sentence, like **keo**, **bı**, or **da**) are verbal in nature. Grammatically, they only assume their role as a verb when they carry a falling tone ![](../tones/t4.png) or as a noun when they carry the rising tone ![](../tones/t2.png). Before they receive a tone, they are what a linguist would call *contentives*, which comes from the fact that their primary property is that they have semantic content (unlike function words) — the are the containers of meaning.
@@ -79,8 +71,6 @@ Below are examples showing how things which would be verbs, adjectives or nouns 
 
 > **Kủnē ní da**  
   "This is a dog." (lit. "This dogs")
-
----
 
 ## Making nouns
 
@@ -100,8 +90,6 @@ So far, you have encountered two ways of making nouns out of contentives: 1) usi
   "which building(s)"
 
 Nouns in Toaq are not marked for grammatical number. That is, whether an expression refers to one or more things, its form doesn’t change.
-
----
 
 ## Table of pronouns
 
@@ -141,8 +129,6 @@ All of these pronouns are contentives, which means they can be used as verbs:
 > **Sủq núo da.**  
   "The one who sleeps is you."
 
----
-
 ## Roots and compounds
 
 When a word has more than one syllable, every syllable but the first carries the even tone ![](../tones/t1.png). A lexical distinction is made between root words with more than syllable on the one hand, and compound words on the other hand. Compounds are words that are made of meangingful components. For example, **chıejīo** "school" is a compound whose components are **chıe** "learn" and **jıo** "building". On the other hand, **kunē** "dog" and **sofā** "sofa" are roots, as they have no semantic components.
@@ -167,8 +153,6 @@ These are the roots and compounds introduced so far, in chronological order.
     <tr><td><strong>sofā</strong> "to be a sofa"</td><td>root</td></tr>
   </table>
 </div>
-
----
 
 ## Numbers
 

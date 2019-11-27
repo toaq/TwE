@@ -17,8 +17,6 @@ title: 'Sáqkō chỉetōaı'
 | **Pẻq báo da.**          [⑧](#fn-8)           | The white thing is paper.        |
 | **Ru rủa kía da.**       [⑧](#fn-8)           | And the red thing is a flower.   |
 
----
-
 ## Notes
 
 1. <a name="fn-1" /> In the last lesson we learned that there are many verbs in **Toaq** that would be nouns in English. **kủa** "to be a room" is another such word. Actually, the truth is that *every* word in **Toaq** is a verb (unless it is a function word, such as **da** or **ru**). We will see a more technical explanation of this in Lesson 7.
@@ -36,8 +34,6 @@ title: 'Sáqkō chỉetōaı'
 7. <a name="fn-7" /> **níjūı** "this (thing) here", "these (things) here" and **níjāo** "that (thing) there", "those (things) there" are more precise forms of **ní** "this/that", which you are already familiar with. Note that these words can be used with objects and people alike, without being impolite.
 
 8. <a name="fn-8" /> And one more time, **báo** with a rising tone ![](../tones/t2.png) refers to something which is or does the thing described by the verb "to be white", therefore it refers to something which is white -- it means "the white thing(s)". And analogously: **kía** "the red thing(s)".
-
----
 
 ## Exercises
 
