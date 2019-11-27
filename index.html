@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset='utf-8'>
-    <meta name="viewport" content="width=1024">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125924205-1"></script>
     <script>
@@ -15,10 +15,20 @@
     <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
     <style>
       .container {
-          position: absolute;
+        position: absolute;
         top: 45%; left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
+      }
+      #arrow {
+        width: 100px;
+        width: 15vmin;
+        display: block;
+        margin: 0 auto;
+      }
+      #flower {
+        width: 400px;
+        width: 90vmin;
       }
     </style>
     <link rel="icon" type="image/png" href="./favicon-16x16.png">
@@ -27,8 +37,8 @@
   </head>
   <body>
     <main class="container">
-      <div><img src="assets/arrow.gif" width="100px"></div>
-      <a href="00/"><img src="assets/TwE_Logo.png" title="Click to start" alt="Flower"></a>
+      <img id="arrow" src="assets/arrow.gif">
+      <a href="00/"><img id="flower" src="assets/TwE_Logo.png" title="Click to start" alt="Flower"></a>
     </main>
   </body>
 </html>

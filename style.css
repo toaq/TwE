@@ -49,7 +49,7 @@ audio + p {
 
 .logo img {
   padding: 25px;
-  width: 50%;
+  width: 400px;
   display: block;
   margin: 0 auto;
 }
@@ -329,5 +329,8 @@ ol li:nth-child(10)::before { content: '⑩'; }
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     margin: 0;
+  }
+  .logo img {
+    width: 50%;
   }
 }
