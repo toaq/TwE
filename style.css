@@ -117,6 +117,7 @@ table {
 }
 
 table.sentences {
+  margin: 0 auto;
   width: 100%;
   counter-reset: sentence;
 }
@@ -130,17 +131,18 @@ table:not(.sentences) td, table:not(.sentences) th {
 .sentences td {
   width: 50%;
   vertical-align: top;
-  padding: 0 2em 0 4em;
+  padding: 0 0.5em 0 2em;
 }
 
+
 .sentences td::before {
-  content: counter(sentence) "— ";
+  content: counter(sentence) "· ";
   font-weight: normal;
   position: relative;
   display: block;
   height: 0px;
   overflow: visible;
-  right: 2.25em;
+  left: -1.5em;
 }
 
 .sentences tr {
@@ -327,12 +329,14 @@ ol li:nth-child(10)::before { content: '⑩'; }
     font-size: 16px;
   }
   .content {
-    width: calc(100% - 100px);
+    width: calc(100% - 50px);
     border-width: 0;
     border-top-width: 1px;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     margin: 0;
+    padding: 25px;
+    padding-top: 37px;
   }
   .logo img {
     width: 50%;
