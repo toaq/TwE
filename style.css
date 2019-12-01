@@ -13,7 +13,7 @@ body {
 }
 
 * {
-  line-height: 125%;
+  line-height: 25px;
 }
 
 strong .toa {
@@ -97,15 +97,15 @@ table a[href] {
   text-decoration: none;
 }
 
-.spoiler { 
-  color: white; 
+.spoiler {
+  color: white;
   background-color: white;
   font-style: italic;
   border-bottom: 1px solid black;
   padding: 0 0.5em;
 }
 
-.spoiler:hover, .spoiler:focus { 
+.spoiler:hover, .spoiler:focus {
   color: inherit;
 }
 
@@ -130,7 +130,7 @@ table:not(.sentences) td, table:not(.sentences) th {
 .sentences td {
   width: 50%;
   vertical-align: top;
-  padding: 0 0 0 4em;
+  padding: 0 2em 0 4em;
 }
 
 .sentences td::before {
@@ -207,16 +207,17 @@ th {
 
 h1, h2, h3 {
   margin: 0;
-  line-height: 100%;
   font-weight: inherit;
 }
 
 h1 {
   display: inline-block;
+  line-height: 50px;
 }
 
 h2, h3 {
   font-family: Sofia;
+  line-height: 100%;
 }
 
 /* Don't use h4 for now */
@@ -272,7 +273,7 @@ img[src*="/tones/"] {
   position: absolute;
   left: 0;
   top: 0;
-  height: calc(1em / 2);
+  height: 0.2em;
   overflow: hidden;
 }
 
@@ -322,6 +323,9 @@ ol li:nth-child(9)::before  { content: '⑨'; }
 ol li:nth-child(10)::before { content: '⑩'; }
 
 @media screen and (max-width: 800px) {
+  body {
+    font-size: 16px;
+  }
   .content {
     width: calc(100% - 100px);
     border-width: 0;
