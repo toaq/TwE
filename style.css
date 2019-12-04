@@ -136,7 +136,7 @@ table:not(.sentences) td, table:not(.sentences) th {
 
 
 .sentences td::before {
-  content: counter(sentence) "· ";
+  content: counter(sentence) "— ";
   font-weight: normal;
   position: relative;
   display: block;
