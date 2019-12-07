@@ -6,16 +6,11 @@ title: 'Fékō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| **Sa chảq bı gỉ cháq da.**            [①](#fn-1)[②](#fn-2) | Some days, they are good.                                                                            |
-| **Sa chảq bı hủı cháq da.**                                | Some days, they are bad.                                                                             |
+| **Sa chảq bı gỉ cháq da. [①](#fn-1) Sa chảq bı hủı cháq da.** [②](#fn-2) | Some days, they are good. Some days, they are bad.                                                                             |
 | **Óe...**                                                  | Okay...                                                                                              |
-| **Bũ tu chảq bı gỉ cháq da.**         [③](#fn-3)[④](#fn-4) | Not every day is good.                                                                               |
-| **Keo tu chảq bı pảq sa gỉ cháq da.**                      | But every day has something good in it (every day is such that something good is part of it). |
-| **Ma nỏaq súq sa kủe moq?**           [⑤](#fn-5)           | Did you read a book?                                                                                 |
-| **Sa kủe bı nỏaq há kúe da.**         [⑥](#fn-6)           | Some books, you read them.                                                                           |
-| **Sa kủe bı chỏ há kúe da.**                               | Some books, you enjoy them.                                                                          |
-| **Keo sa kủe bı ...**                                      | But some books...                                                                                    |
-| **Ẻ, fả súq hı rảı moq?**             [⑦](#fn-7)           | Hey, where are you going?                                                                            |
+| **Bũ tu chảq bı gỉ cháq da. [③](#fn-3)[④](#fn-4) Keo tu chảq bı pảq sa gỉ cháq da.**          | Not every day is good. But every day has something good in it (every day is such that something good is part of it).                                                                              |
+| **Ma nỏaq súq sa kủe moq?** [⑤](#fn-5)           | Did you read a book?                                                                                 |
+| **Sa kủe bı nỏaq há kúe da. [⑥](#fn-6) Sa kủe bı chỏ há kúe da. Keo sa kủe bı ... Ẻ, fả súq hı rảı moq?** [⑦](#fn-7)           | Some books, you read them. Some books, you enjoy them. But some books... Hey, where are you going?                                                                           |
 
 ## Notes
 
@@ -27,7 +22,7 @@ title: 'Fékō chỉetōaı'
 
 4. <a name="fn-4" /> Here is the same sentence pattern but with **tu**, "every", instead. Interpreting **tu \<verb\>** works exactly like the **sa** counterpart, except that instead of "some", we have "every". Thus, **tu \<verb\>** means "everything which is or does the thing described by the verb". In the case of **tu chảq**, this gives us "everything which is a day", or, more simply, "every day". As before, the subsequent occurence of **cháq** refers to the same days.
 
-5. <a name="fn-5" /> The pattern **mả ... moq** is used to form yes-no questions. The **moq** indicates that we're dealing with a question, much like **da** indicates that we're dealing with an assertion.
+5. <a name="fn-5" /> The pattern **mả ... moq** is used to form yes-no questions. The **moq** indicates that we're dealing with a question, much like **da** indicates that we're dealing with an assertion. The past tense in this sentence is only implied. We will see how to express tense explicitly in a future lesson.
 
 6. <a name="fn-6" /> **há**, "one" or "you", is a generic impersonal pronoun. It is used to refer generically to a person or people, as in "One does not simply walk into Mordor". Like every other pronoun in Toaq, it is gender-neutral.
 
