@@ -1,7 +1,7 @@
 ---
 title: 'Cíkō chỉetōaı'
 ---
-# **Fékō chỉetōaı** -- Lesson 6
+# **Cíkō chỉetōaı** -- Lesson 6
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
@@ -57,7 +57,7 @@ title: 'Cíkō chỉetōaı'
   <span class="spoiler">"What is the dog looking for?"</span>
   
 - <audio controls src="ex5.mp3"></audio>
-  **Kủq déo mó« Sa pỏq bı jỏaı hó súq, hy mámā »teo da.**  
+  **Kủq déo mó« Sa pỏq bı jỏaı hó súq, hu mámā »teo da.**  
   <span class="spoiler">"The child says 'Some person, they are looking for you, Mother'."</span>
 
 ### Fill in the blanks:
