@@ -6,7 +6,7 @@ title: 'Néıkō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| **Kaqgai ba. Hỉa ní moq?** [①](#fn-1)     | Look! What is that? |
+| **Kảqgāı ba. Hỉa ní moq?** [①](#fn-1)     | Look! What is that? |
 | **Kảqjūa ní da. [②](#fn-2)** | That is strange-looking. |
 | **Mỉu jí pôq ní da. Keo dủa bũ jí tâo ní hı rảı da.** [③](#fn-3) | I think that is a person. But I don't know what it is doing. |
 | **Kỏy múy ní ba.**  | Let us talk to it. |
@@ -15,9 +15,9 @@ title: 'Néıkō chỉetōaı'
 | **Mả pỏq súq moq?**  | Are you a person? |
 | **Ỉ!** [⑤](#fn-5) | Yes! |
 | **Ỏ! Chủa hı rảı súq moq?**  | Oh! What is your name? |
-| **Mỉ Boko jí da!** [⑥](#fn-6) | I am Boko! |
+| **Mỉ Bỏkō jí da!** [⑥](#fn-6) | I am Boko! |
 | **Mả dủy bũ súq moq?** | Do you not move? |
-| **Guosia dûy mí Boko da!** [⑦](#fn-7) | Boko never moves! |
+| **Gủosīa dûy mí Bỏkō da!** [⑦](#fn-7) | Boko never moves! |
 | **Lủaı súq da.** | You are funny. |
 | **Kủaq kỉe ka!** [⑧](#fn-8) | Thank you! |
 
