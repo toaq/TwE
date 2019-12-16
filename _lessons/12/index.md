@@ -6,7 +6,7 @@ title: 'Héıgūkō chỉetōaı'
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
-| **Dủashāo jí sa rảı da. Mả jẻo lû baq ẻlū bı gủosīa môaq hó moq?** [①](#fn-1)[②](#fn-2) | There is something I want to know. Is it true that elephants never forget? |
+| **Dủashāo jí sa rảı da. Mả jẻo lû baq ẻlū bı gủosīa môaqshāı hó moq?** [①](#fn-1)[②](#fn-2) | There is something I want to know. Is it true that elephants never forget? |
 | **Dủa bũ jí mâ jẻo hóq da.** [③](#fn-3) | I don't know whether that's true. |
 | **Je mả jẻo lû míao bı nỉe sa pỏq míao moq?** [④](#fn-4) | And is it true that, as for the moon, some people are inside it? |
 | **Chỉ bũ jí hóq da.** | I don't believe that. |
@@ -14,7 +14,7 @@ title: 'Héıgūkō chỉetōaı'
 | **Dảı hóq da. Jảq sâo jíaq da.** | That's possible. The world is very big. |
 | **Je pủ rûaq sa pỏq jîq baq ảıpū da.** [②](#fn-2) **Mỉu súq hı rảı moq?** | Some people people said that ghosts exist. What do you think? |
 | **Sa rảı bı dủa sıa pỏq ráı da. Jí bı mỉu jí lû baq ảıpū bı dảı jîq hó da.** [⑤](#fn-5) | There are things which nobody knows. As for me, I think that it's possible that ghosts exist. |
-| **M ̉. Je mả beı *sa* rảı bı dủa súq ráı moq?** | Okay. Is there *anything* you do know? |
+| **M̉. Je mả beı *sa* rảı bı dủa súq ráı moq?** | Okay. Is there *anything* you do know? |
 | **Dủa jí pûı téoq da. Nảı tûa súq rîa kíao ba. Pỉkūaı jí da!** [⑥](#fn-6) | I know that those were a lot of questions. Now open the door. I have to pee! |
 
 ## Notes
