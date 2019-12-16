@@ -8,7 +8,7 @@ title: 'Héıkō chỉetōaı'
 {: .sentences}
 | **Hỉo ka. Zảı jí chô súq níaıbūe da.**      | Hello. I hope you like the animal shelter. |
 | **Kủaq kỉe ka. Líqfū bı shảo hó kôe hó sa nỉaı da.** [①](#fn-1) | Thank you. (My) daughter wants to pick out an animal. |
-| **M ̉. Pủı níaı da. Tỉ sa kủnē ru sa kảtō da.**  | Right. There are many animals. There are dogs and cats here. |
+| **M̉. Pủı níaı da. Tỉ sa kủnē ru sa kảtō da.**  | Right. There are many animals. There are dogs and cats here. |
 | **Mả tỉ sa nỉo moq?**  | Are there young ones here? |
 | **Mỉu jí tî sa nỉo da.**  | I think there are some young ones. |
 | **Tỉopūı bé moq?** [②](#fn-2) | How many babies are there? |
