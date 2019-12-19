@@ -7,7 +7,7 @@ Congratulations. You have reached the second review lesson. Here's a summary of 
 
 ## Content clauses and the rising-falling tone ![](../tones/t5.png)
 
-The most important addition in the last six lessons was the rising-falling tone ![](../tones/t5.png). This tone creates what we call *content clauses*. A content clause is a sentences that is turned into noun, such that it can be used inside other sentences. We can also call them *that*-clauses, because they often start with "that" in English.
+The most important addition in the last six lessons was the rising-falling tone ![](../tones/t5.png). This tone creates what we call *content clauses*. A content clause is a sentence that is turned into noun, such that it can be used inside another sentence. We can also call them *that*-clauses, because they often start with "that" in English.
 
 > **Tỉa súq jío da.**  
   "You are behind the building."
