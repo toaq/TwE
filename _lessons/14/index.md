@@ -184,9 +184,9 @@ Toaq expresses tense via ordinary verbs. No special grammar is needed.
 <div class="fancy">
   <table class="fancy">
     <tr><th colspan="2">Tenses</th></tr>
-    <tr><td><strong>Present tense</strong></td><td>naı</td></tr>
-    <tr><td><strong>Past tense</strong></td><td>pu</td></tr>
-    <tr><td><strong>Future tense</strong></td><td>jıa</td></tr>
+    <tr><td>Present tense</td><td><strong>naı</strong></td></tr>
+    <tr><td>Past tense</td><td><strong>pu</strong></td></tr>
+    <tr><td>Future tense</td><td><strong>jıa</strong></td></tr>
   </table>
 </div>
 
