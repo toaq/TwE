@@ -15,7 +15,7 @@ title: 'Héısāqkō chỉetōaı'
 | **Púchāq bı pủ fâ jí méı ru múaomē da.** [④](#fn-4) | Yesterday, I went to the mountains and the woods. |
 | **Jíachāq bı jỉa gêq jí mí Sảmī da. Bủa mí Sảmī ní da.** | Tomorrow, I will meet Sami. Sami lives here. |
 | **Jỉa fâ mýı dóaq da. Gẻo máq da.** | We will go to the village. It is old. |
-| **Jỉa tûa hó kảqgāı jí chíjīo ru (pu)sejīo da.** [⑤](#fn-5) | They will make me see the church and the museum. |
+| **Jỉa tûa hó kâqgāı jí chíjīo ru (pu)sejīo da.** [⑤](#fn-5) | They will make me see the church and the museum. |
 | **Jíajōa bı jỉa rîufā jí búe da.** [⑥](#fn-6) | Next week, I will return home. |
 | **Súq bı gỉ tu rảı ba. Hỉo ka.** | As for you, may everything be well. Goodbye. |
 
