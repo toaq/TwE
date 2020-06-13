@@ -33,7 +33,7 @@ title: 'Néıkō chỉetōaı'
 
 5. <a name="fn-5" /> **Ỉ** is an affirmative interjection, which can be translated as "yes".
 
-6. <a name="fn-6" /> The word **mı** is used to create *name verbs*. **mı <name>** is a verb meaning "to be named <name>". **mı Bỏkō** "to be named Boko", **mỉ Bỏkō jí** "I am named Boko", or simply, "I am Boko."
+6. <a name="fn-6" /> The word **mı** is used to create *name verbs*. **mı NAME** is a verb meaning "to be named NAME". **mı Bỏkō** "to be named Boko", **mỉ Bỏkō jí** "I am named Boko".
  
 7. <a name="fn-7" /> Here we see the name verb **mı Bỏkō** turned into a noun via the rising tone ![](../tones/t2.png). **mı Bỏkō** "to be named Boko", **mí Bỏkō** "that which is named Boko".
 
