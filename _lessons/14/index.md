@@ -164,7 +164,7 @@ The word **shu** behaves similarly, quoting the following word, but unlike **mı
 > **Dẻ shú rỉaq da.**  
   "The word 'rỉaq' (place) is beautiful."
 
-> **Mả pủ kûq jí shú rủa moq?**  
+> **Mả pủ kûq súq shú rủa moq?**  
   "Did you say the word 'rủa' (flower)?"
 
 For the sake of completeness, the way to quote full text (i.e., direct speech) is given here as well, because even though it only appeared in lesson 4, it wasn't covered in the previous review lesson. Full text quotes are done by wrapping the quoted text in **mo … teo**. The result is, as with **mı** and **shu**, a verb: "to be the quoted text":
