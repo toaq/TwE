@@ -81,7 +81,7 @@ title: 'Héıkō chỉetōaı'
   **<span class="spoiler">Bảo</span> kúnē da. Keo <span class="spoiler">kủo</span> kátō da.**
   
 - "Do you know whether they are asleep?"  
-  **<span class="spoiler">Mả</span> dủa sú <span class="spoiler">mâ</span> nủo hó <span class="spoiler">moq</span>?**
+  **<span class="spoiler">Mả</span> dủa súq <span class="spoiler">mâ</span> nủo hó <span class="spoiler">moq</span>?**
   
 - "We are many."  
   **<span class="spoiler">Pủı</span> mýı da.**
