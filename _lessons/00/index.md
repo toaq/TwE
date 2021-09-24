@@ -91,8 +91,8 @@ The consonant **q** is usually pronounced as English "ng", but it can change its
 | ![](../tones/t2.png) | rising tone         | **ná** | <audio controls src="../tones/t2.mp3" /> |
 | ![](../tones/t3.png) | rising glottal tone | **nä** | <audio controls src="../tones/t3.mp3" /> |
 | ![](../tones/t4.png) | falling tone        | **nả** | <audio controls src="../tones/t4.mp3" /> |
-| ![](../tones/t5.png) | peaking tone        | **nâ** | <audio controls src="../tones/t5.mp3" /> |
-| ![](../tones/t6.png) | low tone            | **nà** | <audio controls src="../tones/t6.mp3" /> |
+| ![](../tones/t5.png) | rising-falling tone | **nâ** | <audio controls src="../tones/t5.mp3" /> |
+| ![](../tones/t6.png) | mid tone            | **nà** | <audio controls src="../tones/t6.mp3" /> |
 | ![](../tones/t7.png) | low glottal tone    | **nã** | <audio controls src="../tones/t7.mp3" /> |
 
 Once you have made yourself familiar with the letters and the tones and have got yourself a comfortable spot, all that is left for us to do is wish you good luck with this course... and why not in **Toaq**:
