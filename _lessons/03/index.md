@@ -1,7 +1,7 @@
 ---
-title: 'Sáqkō chỉetōaı'
+title: 'Sáqko chỉetoaı'
 ---
-# **Sáqkō chỉetōaı** -- 3rd Lesson
+# **Sáqko chỉetoaı** -- 3rd Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
@@ -12,8 +12,8 @@ title: 'Sáqkō chỉetōaı'
 | **Ru shỉe sa shỉ da.**                        | And one is awake.                |
 | **Sủq núo da.**          [⑤](#fn-5)           | The one who is asleep is you.    |
 | **Ru jỉ shíe da.**       [⑥](#fn-6)           | And the one who is awake is me.  |
-| **Bảo níjūı da.**        [⑦](#fn-7)           | This here is white.              |
-| **Ru kỉa níjāo da.**     [⑦](#fn-7)           | And that there is red.           |
+| **Bảo níjuı da.**        [⑦](#fn-7)           | This here is white.              |
+| **Ru kỉa níjao da.**     [⑦](#fn-7)           | And that there is red.           |
 | **Pẻq báo da.**          [⑧](#fn-8)           | The white thing is paper.        |
 | **Ru rủa kía da.**       [⑧](#fn-8)           | And the red thing is a flower.   |
 
@@ -31,7 +31,7 @@ title: 'Sáqkō chỉetōaı'
 
 6. <a name="fn-6" /> By now you can probably guess that **jỉ** has to mean "to be me".
 
-7. <a name="fn-7" /> **níjūı** "this (thing) here", "these (things) here" and **níjāo** "that (thing) there", "those (things) there" are more precise forms of **ní** "this/that", which you are already familiar with. Note that these words can be used with objects and people alike, without being impolite.
+7. <a name="fn-7" /> **níjuı** "this (thing) here", "these (things) here" and **níjao** "that (thing) there", "those (things) there" are more precise forms of **ní** "this/that", which you are already familiar with. Note that these words can be used with objects and people alike, without being impolite.
 
 8. <a name="fn-8" /> And one more time, **báo** with a rising tone ![](../tones/t2.png) refers to something which is or does the thing described by the verb "to be white", therefore it refers to something which is white -- it means "the white thing(s)". And analogously: **kía** "the red thing(s)".
 
@@ -44,7 +44,7 @@ title: 'Sáqkō chỉetōaı'
   <span class="spoiler">"The red one eats the white one."</span>
   
 - <audio controls src="ex2.mp3"></audio>
-  **Tỉ rúa níjāo da.**  
+  **Tỉ rúa níjao da.**  
   <span class="spoiler">"The flower is in (at) that thing there."</span>
   
 - <audio controls src="ex3.mp3"></audio>
@@ -52,11 +52,11 @@ title: 'Sáqkō chỉetōaı'
   <span class="spoiler">"You are inside the room."</span>
   
 - <audio controls src="ex4.mp3"></audio>
-  **Chỏ jí rúqshūa da.**  
+  **Chỏ jí rúqshua da.**  
   <span class="spoiler">"I like the rain."</span>
   
 - <audio controls src="ex5.mp3"></audio>
-  **Hảq níjūı da.**  
+  **Hảq níjuı da.**  
   <span class="spoiler">"This here is food."</span>
   
 - <audio controls src="ex6.mp3"></audio>
@@ -72,10 +72,10 @@ title: 'Sáqkō chỉetōaı'
   **<span class="spoiler">Bảo</span> rúa da.**
   
 - "This here and that there is beautiful."  
-  **Dẻ <span class="spoiler">níjūı</span> ru <span class="spoiler">níjāo</span> da.**
+  **Dẻ <span class="spoiler">níjuı</span> ru <span class="spoiler">níjao</span> da.**
   
 - "The food is that there."  
-  **<span class="spoiler">Nỉjāo</span> háq da.**
+  **<span class="spoiler">Nỉjao</span> háq da.**
   
 - "You are me."  
   **<span class="spoiler">Jỉ</span> <span class="spoiler">súq</span> da.**

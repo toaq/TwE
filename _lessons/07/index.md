@@ -1,19 +1,17 @@
 ---
-title: 'Díaıkō chỉetōaı'
+title: 'Díaıko chỉetoaı'
 ---
-# **Díaıkō chỉetōaı** -- Lesson 7
+# **Díaıko chỉetoaı** -- Lesson 7
 
 Congratulations, you have reached the first review lesson. This lesson does not contain anything new. Instead, it summarizes the material covered in the previous six lessons and helps you organize and consolidate it.
 
 ## Pronunciation
 
-It is important that you learn to hear and pronounce the tones correctly. So far, you have seen (or heard) the falling tone ![](../tones/t4.png), the rising tone ![](../tones/t2.png), and the even tone ![](../tones/t1.png). All of these tones exist in English, too:
+It is important that you learn to hear and pronounce the tones correctly. So far, you have seen (or heard) the falling tone ![](../tones/t4.png) and the rising tone ![](../tones/t2.png). All of these tones exist in English, too:
 
 The falling tone ![](../tones/t4.png) sounds like the "go!" in "ready, set, GO!". Conveniently, "go" is a verb, and the falling tone is the verb tone. 
 
 The rising tone ![](../tones/t2.png) sounds like "huh?" or "what?" and it makes nouns.
-
-The even tone  ![](../tones/t1.png) sounds like the "mmm" you do while you are thinking about what to say next.
 
 Listen carefully to the audio recordings in each lesson and repeat after them. You can also record yourself and compare your pronunciation to the recordings.
 
@@ -49,10 +47,10 @@ The particles **da**, **ba**, **moq** are used to indicate the aim of an utteran
 
 **moq** makes questions:
 
-> **Mả kảqgāı súq kúnē moq?**  
+> **Mả kảqgaı súq kúne moq?**  
   "Do you see the dog?"
 
-> **Gỉ hı shảmū moq.**  
+> **Gỉ hı shảmu moq.**  
   "Which apples are good?"
 
 ## Everything is a verb
@@ -66,10 +64,10 @@ Below are examples showing how things which would be verbs, adjectives or nouns 
 > **Chủq jí da**  
   "I eat."
 
-> **Nủı shámū da**  
+> **Nủı shámu da**  
   "The apple is small." (lit. "The apple smalls")
 
-> **Kủnē ní da**  
+> **Kủne ní da**  
   "This is a dog." (lit. "This dogs")
 
 ## Making nouns
@@ -103,7 +101,7 @@ This is a table showing the various pronouns encountered thus far.
     <tr><td><strong>ho</strong></td><td>he, she, they</td></tr>
     <tr><td><strong>ha</strong></td><td>one, you (generic)</td></tr>
     <tr><td><strong>muy</strong></td><td>we (you and I)</td></tr>
-    <tr><td><strong>myı</strong></td><td>we (he/she/they and I)</td></tr>
+    <tr><td><strong>mıy</strong></td><td>we (he/she/they and I)</td></tr>
   </table>
   <table>
     <tr><th colspan="2">Inanimate</th></tr>
@@ -118,7 +116,7 @@ Toaq makes a distinction between different senses of "we", depending on whether 
 > **Chủq múy ba.**  
   "Let us eat."
 
-> **Chỏ mýı súq da.**  
+> **Chỏ míy súq da.**  
   "We like you."
 
 All of these pronouns are contentives, which means they can be used as verbs:
@@ -131,26 +129,28 @@ All of these pronouns are contentives, which means they can be used as verbs:
 
 ## Roots and compounds
 
-When a word has more than one syllable, every syllable but the first carries the even tone ![](../tones/t1.png). A lexical distinction is made between root words with more than syllable on the one hand, and compound words on the other hand. Compounds are words that are made of meangingful components. For example, **chıejīo** "school" is a compound whose components are **chıe** "learn" and **jıo** "building". On the other hand, **kunē** "dog" and **sofā** "sofa" are roots, as they have no semantic components.
+A lexical distinction is made between root words with more than syllable on the one hand, and compound words on the other hand. Compounds are words that are made of meangingful components. For example, **chıejıo** "school" is a compound whose components are **chıe** "learn" and **jıo** "building". On the other hand, **kune** "dog" and **sofa** "sofa" are roots, as they have no semantic components.
 
-When applying a tone to a word with more than one syllable, only the tone of the first syllable of a word changes. In other words, it is the first syllable of a word that determines to which part of speech it belongs.
+When applying a tone to a word with more than one syllable, the tone contour is spread out over the whole word. (If the word is really long, our voice can only keep rising/falling for so long, so it's okay to flatten out past a certain point.)
+
+We learned that care must be taken to pronounce the neutral tone in a way that "breaks" the previous word's tone contour. This way, we will not accidentally form one long word **kủneda** when we want to say **Kủne da.**
 
 These are the roots and compounds introduced so far, in chronological order.
 
 <div class="fancy">
   <table class="fancy">
     <tr><th colspan="2">Roots and compounds</th></tr>
-    <tr><td><strong>ruqshūa</strong> "to rain"</td><td><strong>ruq</strong> "rain" + <strong>shua</strong> "fall"</td></tr>
-    <tr><td><strong>shamū</strong> "to be an apple"</td><td>root</td></tr>
-    <tr><td><strong>tıshā</strong> "to arrive"</td><td><strong>tı</strong> "at" + <strong>shā</strong> "arrive"</td></tr>
-    <tr><td><strong>kaqgāı</strong> "to see"</td><td><strong>kaq</strong> "see" + <strong>gaı</strong> "perceive"</td></tr>
-    <tr><td><strong>kueqtūa</strong> "to collect"</td><td><strong>kueq</strong> "gather" + <strong>tua</strong> "make"</td></tr>
-    <tr><td><strong>paqtāo</strong> "to participate"</td><td><strong>paq</strong> "part" + <strong>tao</strong> "act"</td></tr>
-    <tr><td><strong>seakūaı</strong> "to be exhausted"</td><td><strong>sea</strong> "relax" + <strong>kuaı</strong> "need"</td></tr>
-    <tr><td><strong>kunē</strong> "to be a dog"</td><td>root</td></tr>
-    <tr><td><strong>mamā</strong> "to be a mother"</td><td>root</td></tr>
-    <tr><td><strong>nuokūa</strong> "to be a bedroom"</td><td><strong>nuo</strong> "sleep" + <strong>kua</strong> "room"</td></tr>
-    <tr><td><strong>sofā</strong> "to be a sofa"</td><td>root</td></tr>
+    <tr><td><strong>ruqshua</strong> "to rain"</td><td><strong>ruq</strong> "rain" + <strong>shua</strong> "fall"</td></tr>
+    <tr><td><strong>shamu</strong> "to be an apple"</td><td>root</td></tr>
+    <tr><td><strong>tısha</strong> "to arrive"</td><td><strong>tı</strong> "at" + <strong>sha</strong> "arrive"</td></tr>
+    <tr><td><strong>kaqgaı</strong> "to see"</td><td><strong>kaq</strong> "see" + <strong>gaı</strong> "perceive"</td></tr>
+    <tr><td><strong>kueqtua</strong> "to collect"</td><td><strong>kueq</strong> "gather" + <strong>tua</strong> "make"</td></tr>
+    <tr><td><strong>paqtao</strong> "to participate"</td><td><strong>paq</strong> "part" + <strong>tao</strong> "act"</td></tr>
+    <tr><td><strong>seakuaı</strong> "to be exhausted"</td><td><strong>sea</strong> "relax" + <strong>kuaı</strong> "need"</td></tr>
+    <tr><td><strong>kune</strong> "to be a dog"</td><td>root</td></tr>
+    <tr><td><strong>mama</strong> "to be a mother"</td><td>root</td></tr>
+    <tr><td><strong>nuokua</strong> "to be a bedroom"</td><td><strong>nuo</strong> "sleep" + <strong>kua</strong> "room"</td></tr>
+    <tr><td><strong>sofa</strong> "to be a sofa"</td><td>root</td></tr>
   </table>
 </div>
 
@@ -161,30 +161,30 @@ As you may have noticed, the title of every lesson contains a number. For your c
 <div class="fancy">
   <table>
     <tr><th>Number</th><th>Cardinal</th><th>Number</th><th>Ordinal</th></tr>
-    <tr><td>1</td><td><strong>shı</strong></td><td>1.</td><td><strong>shıkō</strong></td></tr>
-    <tr><td>2</td><td><strong>gu</strong></td><td>2.</td><td><strong>gukō</strong></td></tr>
-    <tr><td>3</td><td><strong>saq</strong></td><td>3.</td><td><strong>saqkō</strong></td></tr>
-    <tr><td>4</td><td><strong>jo</strong></td><td>4.</td><td><strong>jokō</strong></td></tr>
-    <tr><td>5</td><td><strong>fe</strong></td><td>5.</td><td><strong>fekō</strong></td></tr>
-    <tr><td>6</td><td><strong>cı</strong></td><td>6.</td><td><strong>cıkō</strong></td></tr>
-    <tr><td>7</td><td><strong>dıaı</strong></td><td>7.</td><td><strong>dıaıkō</strong></td></tr>
-    <tr><td>8</td><td><strong>roaı</strong></td><td>8.</td><td><strong>roaıkō</strong></td></tr>
-    <tr><td>9</td><td><strong>neı</strong></td><td>9.</td><td><strong>neıkō</strong></td></tr>
-    <tr><td>10</td><td><strong>heı</strong></td><td>10.</td><td><strong>heıkō</strong></td></tr>
+    <tr><td>1</td><td><strong>shı</strong></td><td>1.</td><td><strong>shıko</strong></td></tr>
+    <tr><td>2</td><td><strong>gu</strong></td><td>2.</td><td><strong>guko</strong></td></tr>
+    <tr><td>3</td><td><strong>saq</strong></td><td>3.</td><td><strong>saqko</strong></td></tr>
+    <tr><td>4</td><td><strong>jo</strong></td><td>4.</td><td><strong>joko</strong></td></tr>
+    <tr><td>5</td><td><strong>fe</strong></td><td>5.</td><td><strong>feko</strong></td></tr>
+    <tr><td>6</td><td><strong>cı</strong></td><td>6.</td><td><strong>cıko</strong></td></tr>
+    <tr><td>7</td><td><strong>dıaı</strong></td><td>7.</td><td><strong>dıaıko</strong></td></tr>
+    <tr><td>8</td><td><strong>roaı</strong></td><td>8.</td><td><strong>roaıko</strong></td></tr>
+    <tr><td>9</td><td><strong>neı</strong></td><td>9.</td><td><strong>neıko</strong></td></tr>
+    <tr><td>10</td><td><strong>heı</strong></td><td>10.</td><td><strong>heıko</strong></td></tr>
   </table>
 </div>
 
-The suffix **-kō** is attached to any number to create an ordinal number: **shı** "one", **shıkō** "first".
+The suffix **-ko** is attached to any number to create an ordinal number: **shı** "one", **shıko** "first".
 
 Toaq’s cardinal numbers are verbs that describe the numerosity of the referents of an expression:
 
 > **Gủ múy da.**  
   "We (you & I) are two."
 
-> **Sảq shámū da.**  
+> **Sảq shámu da.**  
   "The apples are three in number."
 
-It is not necessary to memorize any of this. If you feel like it practicing the numbers, you can click on a random lesson number and check what its Toaq translation is
+It is not necessary to memorize any of this. If you feel like practicing the numbers, you can click on a random lesson number and check what its Toaq translation is.
 
 ---
 

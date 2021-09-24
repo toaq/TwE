@@ -1,7 +1,7 @@
 ---
-title: 'Fékō chỉetōaı'
+title: 'Féko chỉetoaı'
 ---
-# **Fékō chỉetōaı** -- 5th Lesson
+# **Féko chỉetoaı** -- 5th Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
@@ -33,7 +33,7 @@ title: 'Fékō chỉetōaı'
 ### Translate:
 
 - <audio controls src="ex1.mp3"></audio>
-  **Kảqgāı jí sa hủı da.**  
+  **Kảqgaı jí sa hủı da.**  
   <span class="spoiler">"I see something bad."</span>
   
 - <audio controls src="ex2.mp3"></audio>
