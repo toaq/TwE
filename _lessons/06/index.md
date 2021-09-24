@@ -16,7 +16,7 @@ title: 'Cíko chỉetoaı'
 | **Tỉa bũ hó sófa da.**                                        | It's not behind the sofa. |
 | **Fả súq tu kủa ba.**                    [⑦](#fn-7)           | Go to every room. |
 | **Hu máma, kíao bı rỉa máq da!**                              | Mother, the door, it's open! |
-| **Ỏ! Mả bủı kúne moq? Jỏaı múy ba.**     [⑧](#fn-8)           | Oh! Is the dog outside? Let us go looking. |
+| **Oaı! Mả bủı kúne moq? Jỏaı múy ba.**     [⑧](#fn-8)           | Uh-oh! Is the dog outside? Let us go looking. |
 
 ## Notes
 

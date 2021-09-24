@@ -23,7 +23,9 @@ title: 'Jóko chỉetoaı'
 
 2. <a name="fn-2" /> **sa pỏq** "a person", "somebody", "some people".  **sa** before a verb makes an indefinite noun. We already encountered **sa shỉ** "someone"/"something" in the previous lesson. Compare this to **póq**, which would mean "the person" or "the people".
 
-3. <a name="fn-3" /> In this lesson, we are taking a closer look at compounds.  **kủeqtua** "to gather/collect something" and **shảmu** "to be an apple" (**shámu** "the apple(s)") are examples of such compounds. Compounds are verbs that are made up of two or more syllables. The even tone ![](../tones/t1.png) is used to glue the syllables together -- if you hear or read a syllable that carries the even tone ![](../tones/t1.png), it always means that it is part of the same word as the previous syllable. Note that the first syllable of a word *never* carries the even tone ![](../tones/t1.png). Instead, the first syllable of a word carries the tone that determines which part of speech the word belongs to, i.e., whether it is a verb, a noun, or something else (we will learn about several others in the remainder of this course).
+3. <a name="fn-3" /> Let's take a closer look at compounds and tone.  **kủeqtua** "to gather/collect something" and **shảmu** "to be an apple" (**shámu** "the apple(s)") are examples of compounds: verbs that are made up of two or more syllables. The tone marked on the first vowel is spread out over the entire word.
+
+  In writing, spaces helpfully mark where words start and end. When speaking, we always "break" the previous tone contour to mark the start of a new word. This means that **shámu da** is pronounced with a small drop on the **da**, to distinguish it from a would-be three-syllable compound **shámuda**. Similarly, **kủeqtua da** is pronounced with the **da** a little higher, to distinguish it from **kủeqtuada**.
 
 4. <a name="fn-4" /> **hó** "he/she/they" is another pronoun. It refers to one or more people and is gender-neutral.
 

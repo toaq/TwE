@@ -3,7 +3,7 @@ title: 'Introduction'
 ---
 # Introduction
 
-**Toaq** is a tonal language which was constructed between 2013 and 2017. It possesses a simple and logical grammar which is free of exceptions. This makes the language considerably easier and enables the learner to construct meaningful sentences after a relatively short period of study. The main difficulty the learner will face is **Toaq**'s system of *tones*. However, by using this course, the tones will soon become second nature.
+**Toaq** is a tonal language which was constructed between 2013 and 2021. It possesses a simple and logical grammar which is free of exceptions. This makes the language considerably easier and enables the learner to construct meaningful sentences after a relatively short period of study. The main difficulty the learner will face is **Toaq**'s system of *tones*. However, by using this course, the tones will soon become second nature.
 
 ## About this course
 

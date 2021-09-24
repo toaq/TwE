@@ -13,7 +13,7 @@ title: 'Shíko chỉetoaı'
 
 ## Notes
 
-1. <a name="fn-1" /> **rủqshua** means "to rain". The first syllable **ruq** carries a falling tone ![](../tones/t4.png), which shows that this word is a verb.
+1. <a name="fn-1" /> **rủqshua** means "to rain". It carries a falling tone ![](../tones/t4.png), which shows that this word is a verb.
 
 2. <a name="fn-2" /> **da** marks a sentence as an assertion. It is always found at the end of a sentence. There are also other equivalent particles for questions and imperatives, which we will come across in future lessons. You may have noticed that **da** does not carry a tone mark. In **Toaq**, most function words are toneless. This means that their meaning does not change from an alteration in pitch, making these words very easy.
 

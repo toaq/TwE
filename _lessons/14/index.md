@@ -20,25 +20,25 @@ The most important addition in the last six lessons was the rising-falling tone 
 
 A possible mnemonic for the rising-falling tone ![](../tones/t5.png) is that it's rising because it creates a noun (![](../tones/t2.png)), and falling because it contains a sentence and sentences begin with verb (![](../tones/t4.png)).
 
-Instead of using the rising-falling tone ![](../tones/t5.png) on the verb of a sentence to turn the sentence into a noun, it is also possible to use the word **lû** in place of the bare ![](../tones/t5.png). The following two sentences are equivalent:
+Instead of using the rising-falling tone ![](../tones/t5.png) on the verb of a sentence to turn the sentence into a noun, it is also possible to use the word **lâ** in place of the bare ![](../tones/t5.png). The following two sentences are equivalent:
 
 > **zâo súq jí**  
   "that you know me"
 
-> **lû zảo súq jí**  
+> **lâ zảo súq jí**  
   "that you know me"
 
-Using **lû** becomes necessary when the content clause does not begin with a verb. This is the case when there is at least one noun in the topic position of the content clause:
+Using **lâ** becomes necessary when the content clause does not begin with a verb. This is the case when there is at least one noun in the topic position of the content clause:
 
-> **lû sa rảı bı shảo jí dûa súq ráı**  
+> **lâ sa rảı bı shảo jí dûa súq ráı**  
   "that there is something I want you to know"
   
-> **lû líqfu bı lỏı hó baq kảto**  
+> **lâ líqfu bı lỏı hó baq kảto**  
   "that as for the daughter, she hates cats"
 
-Otherwise, one is free to choose between **lû** and a bare rising-falling tone ![](../tones/t5.png).
+Otherwise, one is free to choose between **lâ** and a bare rising-falling tone ![](../tones/t5.png).
 
-The word **lû** has the question word counterparts **mâ** "whether" and **tîo** "how (much)", which follow the same grammatical rules. Examples of those can be found in the section *Questions and indirect questions* below.
+The word **lâ** has the question word counterparts **mâ** "whether" and **tîo** "how (much)", which follow the same grammatical rules. Examples of those can be found in the section *Questions and indirect questions* below.
 
 ## Vocabulary
 
@@ -270,7 +270,7 @@ Examples:
 > **Dủashao hó hîa ní da.**  
   "They want to know what this is."
 
-## ka - "hereby ..."
+## Sentence enders: ka and nha
 
 Like **da**, **moq**, and **ba**, the word **ka** is placed at the end of a sentence. Its function is to mark a sentence as being true by virtue of being uttered, such as in declarations or pronouncements. It is best translated as "hereby".
 
@@ -292,6 +292,14 @@ Like **da**, **moq**, and **ba**, the word **ka** is placed at the end of a sent
 
 > **Nảı chêo sẻo súq ka.**  
   "You are now married to each other."
+
+The other new sentence ender we saw is **nha**, which marks a sentence as not an assertion of a factual truth, but a promise that the speaker intends to fulfill.
+
+> **Mỏaq jí hóq nha.**
+  "(I promise) I'll remember it."
+
+> **Tảı múy nha.**
+  "(I promise) We'll succeed."
 
 ---
 

@@ -7,13 +7,11 @@ Congratulations, you have reached the first review lesson. This lesson does not 
 
 ## Pronunciation
 
-It is important that you learn to hear and pronounce the tones correctly. So far, you have seen (or heard) the falling tone ![](../tones/t4.png), the rising tone ![](../tones/t2.png), and the even tone ![](../tones/t1.png). All of these tones exist in English, too:
+It is important that you learn to hear and pronounce the tones correctly. So far, you have seen (or heard) the falling tone ![](../tones/t4.png) and the rising tone ![](../tones/t2.png). All of these tones exist in English, too:
 
 The falling tone ![](../tones/t4.png) sounds like the "go!" in "ready, set, GO!". Conveniently, "go" is a verb, and the falling tone is the verb tone. 
 
 The rising tone ![](../tones/t2.png) sounds like "huh?" or "what?" and it makes nouns.
-
-The even tone  ![](../tones/t1.png) sounds like the "mmm" you do while you are thinking about what to say next.
 
 Listen carefully to the audio recordings in each lesson and repeat after them. You can also record yourself and compare your pronunciation to the recordings.
 
@@ -103,7 +101,7 @@ This is a table showing the various pronouns encountered thus far.
     <tr><td><strong>ho</strong></td><td>he, she, they</td></tr>
     <tr><td><strong>ha</strong></td><td>one, you (generic)</td></tr>
     <tr><td><strong>muy</strong></td><td>we (you and I)</td></tr>
-    <tr><td><strong>myı</strong></td><td>we (he/she/they and I)</td></tr>
+    <tr><td><strong>mıy</strong></td><td>we (he/she/they and I)</td></tr>
   </table>
   <table>
     <tr><th colspan="2">Inanimate</th></tr>
@@ -118,7 +116,7 @@ Toaq makes a distinction between different senses of "we", depending on whether 
 > **Chủq múy ba.**  
   "Let us eat."
 
-> **Chỏ mýı súq da.**  
+> **Chỏ míy súq da.**  
   "We like you."
 
 All of these pronouns are contentives, which means they can be used as verbs:
@@ -131,9 +129,11 @@ All of these pronouns are contentives, which means they can be used as verbs:
 
 ## Roots and compounds
 
-When a word has more than one syllable, every syllable but the first carries the even tone ![](../tones/t1.png). A lexical distinction is made between root words with more than syllable on the one hand, and compound words on the other hand. Compounds are words that are made of meangingful components. For example, **chıejıo** "school" is a compound whose components are **chıe** "learn" and **jıo** "building". On the other hand, **kune** "dog" and **sofa** "sofa" are roots, as they have no semantic components.
+A lexical distinction is made between root words with more than syllable on the one hand, and compound words on the other hand. Compounds are words that are made of meangingful components. For example, **chıejıo** "school" is a compound whose components are **chıe** "learn" and **jıo** "building". On the other hand, **kune** "dog" and **sofa** "sofa" are roots, as they have no semantic components.
 
-When applying a tone to a word with more than one syllable, only the tone of the first syllable of a word changes. In other words, it is the first syllable of a word that determines to which part of speech it belongs.
+When applying a tone to a word with more than one syllable, the tone contour is spread out over the whole word. (If the word is really long, our voice can only keep rising/falling for so long, so it's okay to flatten out past a certain point.)
+
+We learned that care must be taken to pronounce the neutral tone in a way that "breaks" the previous word's tone contour. This way, we will not accidentally form one long word **kủneda** when we want to say **Kủne da.**
 
 These are the roots and compounds introduced so far, in chronological order.
 
@@ -184,7 +184,7 @@ Toaq’s cardinal numbers are verbs that describe the numerosity of the referent
 > **Sảq shámu da.**  
   "The apples are three in number."
 
-It is not necessary to memorize any of this. If you feel like it practicing the numbers, you can click on a random lesson number and check what its Toaq translation is
+It is not necessary to memorize any of this. If you feel like practicing the numbers, you can click on a random lesson number and check what its Toaq translation is.
 
 ---
 

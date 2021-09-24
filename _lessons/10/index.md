@@ -12,7 +12,7 @@ title: 'Héıko chỉetoaı'
 | **Mả tỉ sa nỉo moq?**  | Are there young ones here? |
 | **Mỉu jí tî sa nỉo da.**  | I think there are some young ones. |
 | **Tỉopuı bé moq?** [②](#fn-2) | How many babies are there? |
-| **Kảqgaı ba. Sảq bé da.** [③](#fn-3)  | Look. There are three babies. |
+| **Enı, sảq bé da.** [③](#fn-3)  | Here are three babies. |
 | **Chỏ bũ jí ní, hu ába da. [④](#fn-4) Dẻ bũ ní da. Baq hảbı bı hỉa moq.** [⑤](#fn-5) | I don't like those, father. They are not beautiful. How about birds? |
 | **Mmm mỏaq bũ jí mâ tỉ sa hảbı da...** [⑥](#fn-6) | Uhm, I don't remember whether there are birds... |
 | **Tıu tủa súq kâqgaı mýı káto ba.** [⑦](#fn-7) | Then show us the cats. |
@@ -33,7 +33,7 @@ title: 'Héıko chỉetoaı'
 
 2. <a name="fn-2" /> **Tỉopuı** is another *verb question*. While **hỉa** asks what something is, **tỉopuı** asks how many things a given expression refers to. In Toaq, instead of asking "How many babies are there?", we ask "How numerous are the babies", **Tỉopuı bé moq?**.
 
-3. <a name="fn-3" /> Number verbs express the numerosity of a thing: **Sảq bé** "The babies are three in number".
+3. <a name="fn-3" /> **Enı** is an interjection meaning “here, take this / look at this”. Number verbs express the numerosity of a thing: **Sảq bé** "The babies are three in number".
 
 4. <a name="fn-4" /> We already met **mama** "to be a mother". Now we meet **aba** "to be a father".
 
@@ -84,7 +84,7 @@ title: 'Héıko chỉetoaı'
   **<span class="spoiler">Mả</span> dủa súq <span class="spoiler">mâ</span> nủo hó <span class="spoiler">moq</span>?**
   
 - "We are many."  
-  **<span class="spoiler">Pủı</span> mýı da.**
+  **<span class="spoiler">Pủı</span> míy da.**
   
 - "I like dogs."  
   **<span class="spoiler">Chỏ</span> jí <span class="spoiler">baq</span> kủne da.**

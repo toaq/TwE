@@ -13,8 +13,8 @@ title: 'Néıko chỉetoaı'
 | **Hỉo ka.** [④](#fn-4) | Hello. |
 | **Hỉo ka.** | Hello. |
 | **Mả pỏq súq moq?**  | Are you a person? |
-| **Ỉ!** [⑤](#fn-5) | Yes! |
-| **Ỏ! Chủa hı rảı súq moq?**  | Oh! What is your name? |
+| **Nho!** [⑤](#fn-5) | Yes! |
+| **Obe! Chủa hı rảı súq moq?**  | Oh! What is your name? |
 | **Mỉ Bỏko jí da!** [⑥](#fn-6) | I am Boko! |
 | **Mả dủy bũ súq moq?** | Do you not move? |
 | **Gủosıa dûy mí Bỏko da!** [⑦](#fn-7) | Boko never moves! |
@@ -31,7 +31,7 @@ title: 'Néıko chỉetoaı'
 
 4. <a name="fn-4" /> The word **ka** is a family member of **da**, **moq** and **ba**. Its appearance at the end of a sentence indicates that the sentence is true by virtue of being uttered. A common example of such a sentence in English would be "I now pronounce you husband and wife". A good general translation of **ka** into English would be "hereby". **hıo** means "to greet (someone)", thus **Hỉo ka** has the literal meaning "Hereby, there is greeting", which is the most common way to say "hello" in Toaq. A slightly longer version is **Hỉo jí ka** "Hereby, I greet", or **Hỉo jí súq ka** "Hereby, I greet you".
 
-5. <a name="fn-5" /> **Ỉ** is an affirmative interjection, which can be translated as "yes".
+5. <a name="fn-5" /> **Nho** is an affirmative interjection, which can be translated as "yes".
 
 6. <a name="fn-6" /> The word **mı** is used to create *name verbs*. **mı NAME** is a verb meaning "to be named NAME". **mı Bỏko** "to be named Boko", **mỉ Bỏko jí** "I am named Boko".
  

@@ -7,9 +7,9 @@ title: 'Héıshıko chỉetoaı'
 
 {: .sentences}
 | **Kỏa da.** | It's cold. |
-| **Dủ bîa súq da. Tỉshue súq núofua ba.** [①](#fn-1) **Jỉa bâi jí baq chảı ba.** [②](#fn-2) | It seems like you are sick. You should stay in bed. I will make tea.  |
+| **Dủ bîa súq da. Tỉshue súq núofua ba.** [①](#fn-1) **Jỉa bâi jí baq chảı nha.** [②](#fn-2) | It seems like you are sick. You should stay in bed. I will make tea.  |
 | **Kủaq kỉe ka.** | Thank you. |
-| **[voila]. Lỏq chái da. Pỉe ba.** | Here. The tea is hot. Drink. |
+| **Enı. Lỏq cháı da. Pỉe ba.** | Here. The tea is hot. Drink. |
 | **Jảq lôq da.** | It is very hot. |
 | **Mả nỏqgı moq? Pủ tûa jí nîe baq mảtu chái da.** [③](#fn-3) | Is it delicious? I put honey in the tea. |
 | **Gỉ da.** | It's good. |
@@ -24,7 +24,7 @@ title: 'Héıshıko chỉetoaı'
 
 1. <a name="fn-1" /> **nuofua** "to be a bed" has the familiar component **nuo** "to be asleep", and **fua** "to be a piece of furniture".
 
-2. <a name="fn-2" /> **Jıa** "to be the case in the future" is the verb that expresses the future tense. **Jỉa fâ jí** "It is the case that I will go", or simply "I will go". **baq chảı** "tea in general", as opposed to any particular instance of tea, is used in **Bảı jí baq chảı** "I make tea" because the (finished) tea does not exist prior to making it.  
+2. <a name="fn-2" /> **Jıa** "to be the case in the future" is the verb that expresses the future tense. **Jỉa fâ jí** "It will be the case [that I go]", or simply "I will go". **baq chảı** "tea in general", as opposed to any particular instance of tea, is used in **Bảı jí baq chảı** "I make tea" because the (finished) tea does not exist prior to making it. **nha** is a new sentence-ending particle that indicates a promise.
 
 3. <a name="fn-3" /> **Pu** "to be the case in the past", is the verb that expresses the past tense. **Pủ fâ jí** "I went".
 
