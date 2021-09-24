@@ -7,7 +7,7 @@ function accentify(element) {
       toa.className = 'toa';
       toa.innerHTML = words[i]
      // .replace(/[auıoey]/g, '<span class="t t8" data-content="$&">$&</span>')
-        .replace(/[āūīōēȳ]/g, '<span class="t t1" data-content="$&">$&</span>')
+        .replace(/[auıoey]/g, '<span class="t t1" data-content="$&">$&</span>')
         .replace(/[áúíóéý]/g, '<span class="t t2" data-content="$&">$&</span>')
         .replace(/[äüïöëÿ]/g, '<span class="t t3" data-content="$&">$&</span>')
         .replace(/[ảủỉỏẻỷ]/g, '<span class="t t4" data-content="$&">$&</span>')

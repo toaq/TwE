@@ -1,7 +1,7 @@
 ---
-title: 'Gúkō chỉetōaı'
+title: 'Gúko chỉetoaı'
 ---
-# **Gúkō chỉetōaı** -- 2nd Lesson
+# **Gúko chỉetoaı** -- 2nd Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 

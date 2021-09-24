@@ -41,7 +41,7 @@ The second kind of exercise in each lesson is a fill in the blanks exercise, whi
 
 **Toaq**'s alphabet consists of 25 graphemes (letters). Most of these should pose little to no challenge to an English speaker. The graphemes are:
 
-> **a, b, c, ch, d, e, f, g, h, ı, j, k, l, m, n, o, p, q, r, s, sh, t, u, y, z**
+> **a, b, c, ch, d, e, f, g, h, ı, j, k, l, m, n, nh, o, p, q, r, s, sh, t, u, y, z**
 
 Compared to the English alphabet, the letters **v**, **w** and **x** are "missing".
 
@@ -70,6 +70,7 @@ Five of the vowel letters look the same as in English, except for **ı**, which 
 | l  | <audio controls src="../sounds/l.mp3" />  |
 | m  | <audio controls src="../sounds/m.mp3" />  |
 | n  | <audio controls src="../sounds/n.mp3" />  |
+| nh | <audio controls src="../sounds/nh.mp3" />  |
 | p  | <audio controls src="../sounds/p.mp3" />  |
 | r  | <audio controls src="../sounds/r.mp3" />  |
 | s  | <audio controls src="../sounds/s.mp3" />  |
@@ -85,15 +86,14 @@ The consonant **q** is usually pronounced as English "ng", but it can change its
 
 ## Tones
 
-**Toaq** is a *tonal* language -- it uses changes in pitch to distinguish grammatical meaning. **Toaq** is unique in that every tone corresponds to a part of speech (nouns, verbs, adverbs, etc), and vice-versa. This means that the same part of speech always carries the same tone, or, in other words, that each tone uniquely identifies a word as belonging to a specific part of speech. The functions of the tones will be introduced bit by bit. For now it is enough that you are aware of their existence. Below is a table of **Toaq**'s tones along with their pronunciation (on the dummy syllable **na**). There are seven tones in total:
+**Toaq** is a *tonal* language -- it uses changes in pitch to distinguish grammatical meaning. **Toaq** is unique in that every tone corresponds to a part of speech (nouns, verbs, adverbs, etc), and vice-versa. This means that the same part of speech always carries the same tone, or, in other words, that each tone uniquely identifies a word as belonging to a specific part of speech. The functions of the tones will be introduced bit by bit. For now it is enough that you are aware of their existence. Below is a table of **Toaq**'s tones along with their pronunciation (on the dummy syllable **na**). There are six tones in total:
 
-| ![](../tones/t1.png) | even tone    | **nā** | <audio controls src="../tones/t1.mp3" /> |
-| ![](../tones/t2.png) | rising tone  | **ná** | <audio controls src="../tones/t2.mp3" /> |
-| ![](../tones/t3.png) | dipping tone | **nǎ** | <audio controls src="../tones/t3.mp3" /> |
-| ![](../tones/t4.png) | falling tone | **nả** | <audio controls src="../tones/t4.mp3" /> |
-| ![](../tones/t5.png) | peaking tone | **nâ** | <audio controls src="../tones/t5.mp3" /> |
-| ![](../tones/t6.png) | low tone     | **nà** | <audio controls src="../tones/t6.mp3" /> |
-| ![](../tones/t7.png) | glottal tone | **nã** | <audio controls src="../tones/t7.mp3" /> |
+| ![](../tones/t2.png) | rising tone         | **ná** | <audio controls src="../tones/t2.mp3" /> |
+| ![](../tones/t3.png) | rising glottal tone | **nä** | <audio controls src="../tones/t3.mp3" /> |
+| ![](../tones/t4.png) | falling tone        | **nả** | <audio controls src="../tones/t4.mp3" /> |
+| ![](../tones/t5.png) | peaking tone        | **nâ** | <audio controls src="../tones/t5.mp3" /> |
+| ![](../tones/t6.png) | low tone            | **nà** | <audio controls src="../tones/t6.mp3" /> |
+| ![](../tones/t7.png) | low glottal tone    | **nã** | <audio controls src="../tones/t7.mp3" /> |
 
 Once you have made yourself familiar with the letters and the tones and have got yourself a comfortable spot, all that is left for us to do is wish you good luck with this course... and why not in **Toaq**:
 

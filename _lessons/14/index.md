@@ -1,7 +1,7 @@
 ---
-title: 'Héıjōkō chỉetōaı'
+title: 'Héıjoko chỉetoaı'
 ---
-# **Héıjōkō chỉetōaı** -- Lesson 14
+# **Héıjoko chỉetoaı** -- Lesson 14
 
 Congratulations. You have reached the second review lesson. Here's a summary of what you have learned since the last review lesson.
 
@@ -33,7 +33,7 @@ Using **lû** becomes necessary when the content clause does not begin with a ve
 > **lû sa rảı bı shảo jí dûa súq ráı**  
   "that there is something I want you to know"
   
-> **lû líqfū bı lỏı hó baq kảtō**  
+> **lû líqfu bı lỏı hó baq kảto**  
   "that as for the daughter, she hates cats"
 
 Otherwise, one is free to choose between **lû** and a bare rising-falling tone ![](../tones/t5.png).
@@ -64,10 +64,10 @@ Next, these are all the kinship terms that have appeared so far:
 <div class="fancy">
   <table class="fancy">
     <tr><th colspan="2">Kinship terms</th></tr>
-    <tr><td><strong>mamā</strong></td><td>to be a mother</td></tr>
-    <tr><td><strong>abā</strong></td><td>to be a father</td></tr>
+    <tr><td><strong>mama</strong></td><td>to be a mother</td></tr>
+    <tr><td><strong>aba</strong></td><td>to be a father</td></tr>
     <tr><td><strong>fu</strong></td><td>to be an offspring</td></tr>
-    <tr><td><strong>lıqfū</strong></td><td>to be a daughter</td></tr>
+    <tr><td><strong>lıqfu</strong></td><td>to be a daughter</td></tr>
   </table>
 </div>
 
@@ -77,12 +77,12 @@ This is the animal-related vocabulary you have seen:
   <table class="fancy">
     <tr><th colspan="2">Animal vocabulary</th></tr>
     <tr><td><strong>nıaı</strong></td><td>to be an animal</td></tr>
-    <tr><td><strong>kunē</strong></td><td>to be a dog</td></tr>
-    <tr><td><strong>elū</strong></td><td>to be an elephant</td></tr>
-    <tr><td><strong>katō</strong></td><td>to be a cat</td></tr>
-    <tr><td><strong>habī</strong></td><td>to be a bird</td></tr>
-    <tr><td><strong>korūo</strong></td><td>to be a raven</td></tr>
-    <tr><td><strong>(aıpū)</strong></td><td>(to be a ghost)</td></tr>
+    <tr><td><strong>kune</strong></td><td>to be a dog</td></tr>
+    <tr><td><strong>elu</strong></td><td>to be an elephant</td></tr>
+    <tr><td><strong>kato</strong></td><td>to be a cat</td></tr>
+    <tr><td><strong>habı</strong></td><td>to be a bird</td></tr>
+    <tr><td><strong>koruo</strong></td><td>to be a raven</td></tr>
+    <tr><td><strong>(aıpu)</strong></td><td>(to be a ghost)</td></tr>
   </table>
 </div>
 
@@ -136,27 +136,27 @@ The word **mı** is placed before words to turn them into name verbs. **mı X** 
 
 As the main verb of a sentence:
 
-> **Mỉ Sảrā hó da.**  
+> **Mỉ Sảra hó da.**  
   "They are a Sara."  
   "Their name is Sara."
 
 As a rising tone ![](../tones/t2.png) noun:
 
-> **Tỉ mí Tỏmī hı rảı moq?**  
+> **Tỉ mí Tỏmı hı rảı moq?**  
   "Where is Tommy?"
 
 As the verb of a content clause:
 
-> **Dủa jí mî Sảrā súq da.**  
+> **Dủa jí mî Sảra súq da.**  
   "I know that you are a Sara."  
   "I know that your name is Sara."
 
 After quantifiers and determiners:
 
-> **Chỏ tu mỉ Jủlīa baq rủa da.**  
+> **Chỏ tu mỉ Jủlıa baq rủa da.**  
   "Every Julia likes flowers."
 
-> **Nỉe hı mỉ Dẻrēq kúa moq?**  
+> **Nỉe hı mỉ Dẻreq kúa moq?**  
   "Which Derren is inside the room?"
 
 The word **shu** behaves similarly, quoting the following word, but unlike **mı**, it refers to the word itself. **shu X** means "to be the word X".
@@ -196,7 +196,7 @@ Examples:
   "That I eat is the case now."  
   "(Now) I eat."
 
-> **Pủ kâqgāı hó sa jủa da.**  
+> **Pủ kâqgaı hó sa jủa da.**  
   "That they see something strange was the case in the past."  
   "They saw something strange."
 
@@ -214,7 +214,7 @@ These are the question words introduced so far:
     <tr><td><strong>hı X</strong></td><td>which X, what X</td></tr>
     <tr><td><strong>Mả ... moq?<br>mâ ...</strong></td><td>Is it true that ...?<br>whether ...</td></tr>
     <tr><td><strong>Tỉo … moq?<br>tîo ...</strong></td><td>How much is ... the case?<br>how much ... is the case</td></tr>
-    <tr><td><strong>Tỉopūı X moq?</strong></td><td>How numerous are X?</td></tr>
+    <tr><td><strong>Tỉopuı X moq?</strong></td><td>How numerous are X?</td></tr>
     <tr><td><strong>Hỉa X moq?</strong></td><td>What is X? What are X? What does X do? What verb is true of X?</td></tr>
   </table>
 </div>
@@ -229,7 +229,7 @@ Examples:
 > **Hı rỉaq bı shảo súq fâ súq ríaq moq?**  
   "Which place [is such that] you want to go to the place?"
 
-> **Mỏaq jí tî kúnē hı kủa da.**  
+> **Mỏaq jí tî kúne hı kủa da.**  
   "I remember in which room the dog is."
 
 **ma** - *whether*
@@ -237,10 +237,10 @@ Examples:
 > **Mả nủo súq moq?**  
   "Are you asleep?"
 
-> **Dủa mámā mâ jảı bé da.**  
+> **Dủa máma mâ jảı bé da.**  
   "The mother knows whether the baby is happy."
 
-> **Mả mỏaq súq tî kátō hı kủa moq?**  
+> **Mả mỏaq súq tî káto hı kủa moq?**  
   "Do you remember in which room the cat is?"
 
 **tıo** - *how (much)*
@@ -251,15 +251,15 @@ Examples:
 > **Dủa bũ súq tîo dẻ súq da.**  
   "You don't know how beautiful you are."
 
-> **Mả mỏaq sa tỉ tîo nỏqgī baq mảtū moq?**  
+> **Mả mỏaq sa tỉ tîo nỏqgı baq mảtu moq?**  
   "Does anyone here remember how delicious honey is?"
 
-**tıopūı** - *how numerous*
+**tıopuı** - *how numerous*
 
-> **Tỉopūı élū moq?**  
+> **Tỉopuı élu moq?**  
   "How many are the elephants?"
 
-> **Dủa bũ súq tîopūı mýı da.**  
+> **Dủa bũ súq tîopuı mýı da.**  
   "You don't know how many we are."
 
 **hıa** - *is/does what*
@@ -267,7 +267,7 @@ Examples:
 > **Hỉa ní moq?**  
   "What's this?"
 
-> **Dủashāo hó hîa ní da.**  
+> **Dủashao hó hîa ní da.**  
   "They want to know what this is."
 
 ## ka - "hereby ..."

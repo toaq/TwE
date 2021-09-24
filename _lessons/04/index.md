@@ -1,21 +1,21 @@
 ---
-title: 'Jókō chỉetōaı'
+title: 'Jóko chỉetoaı'
 ---
-# **Jókō chỉetōaı** -- 4th Lesson
+# **Jóko chỉetoaı** -- 4th Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
 {: .sentences}
 | **Sỏaq da.**                             [①](#fn-1)           | There's a garden.               |
 | **Tỉ sa pỏq sóaq da.**                   [②](#fn-2)           | In the garden are some people.  |
-| **Kủeqtūa hó shámū da.**                 [③](#fn-3)[④](#fn-4) | They are collecting the apples. |
-| **Tỉshā jí sóaq da.**                    [⑤](#fn-5)           | I arrive in the garden.         |
-| **Kảqgāı kúeqtūa jí da.**                                     | The collectors see me.          |
-| **Kủq sa shỉ mó « Pảqtāo ba! » teo da.** [⑥](#fn-6)[⑦](#fn-7) | Someone says: "Take part!"      |
+| **Kủeqtua hó shámu da.**                 [③](#fn-3)[④](#fn-4) | They are collecting the apples. |
+| **Tỉsha jí sóaq da.**                    [⑤](#fn-5)           | I arrive in the garden.         |
+| **Kảqgaı kúeqtua jí da.**                                     | The collectors see me.          |
+| **Kủq sa shỉ mó « Pảqtao ba! » teo da.** [⑥](#fn-6)[⑦](#fn-7) | Someone says: "Take part!"      |
 | **Tıu sỏa jí hó da.**                    [⑧](#fn-8)           | So I help them.                 |
-| **Kủeqtūa jí da ru kủeqtūa jí da.**                           | I collect and I collect.        |
+| **Kủeqtua jí da ru kủeqtua jí da.**                           | I collect and I collect.        |
 | **Je nủaq da.**                          [⑨](#fn-9)           | It is night-time.               |
-| **Ru sẻakūaı tu pỏq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
+| **Ru sẻakuaı tu pỏq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
 
 ## Notes
 
@@ -23,11 +23,11 @@ title: 'Jókō chỉetōaı'
 
 2. <a name="fn-2" /> **sa pỏq** "a person", "somebody", "some people".  **sa** before a verb makes an indefinite noun. We already encountered **sa shỉ** "someone"/"something" in the previous lesson. Compare this to **póq**, which would mean "the person" or "the people".
 
-3. <a name="fn-3" /> In this lesson, we are taking a closer look at compounds.  **kủeqtūa** "to gather/collect something" and **shảmū** "to be an apple" (**shámū** "the apple(s)") are examples of such compounds. Compounds are verbs that are made up of two or more syllables. The even tone ![](../tones/t1.png) is used to glue the syllables together -- if you hear or read a syllable that carries the even tone ![](../tones/t1.png), it always means that it is part of the same word as the previous syllable. Note that the first syllable of a word *never* carries the even tone ![](../tones/t1.png). Instead, the first syllable of a word carries the tone that determines which part of speech the word belongs to, i.e., whether it is a verb, a noun, or something else (we will learn about several others in the remainder of this course).
+3. <a name="fn-3" /> In this lesson, we are taking a closer look at compounds.  **kủeqtua** "to gather/collect something" and **shảmu** "to be an apple" (**shámu** "the apple(s)") are examples of such compounds. Compounds are verbs that are made up of two or more syllables. The even tone ![](../tones/t1.png) is used to glue the syllables together -- if you hear or read a syllable that carries the even tone ![](../tones/t1.png), it always means that it is part of the same word as the previous syllable. Note that the first syllable of a word *never* carries the even tone ![](../tones/t1.png). Instead, the first syllable of a word carries the tone that determines which part of speech the word belongs to, i.e., whether it is a verb, a noun, or something else (we will learn about several others in the remainder of this course).
 
 4. <a name="fn-4" /> **hó** "he/she/they" is another pronoun. It refers to one or more people and is gender-neutral.
 
-5. <a name="fn-5" /> Note how in English, we say "I arrive at/in the garden", but **tỉshā jí sóaq** literally means "arrive I garden". It is not necessary to use "at" or "in". Whichever noun comes second is automatically understood to be the place of arrival.
+5. <a name="fn-5" /> Note how in English, we say "I arrive at/in the garden", but **tỉsha jí sóaq** literally means "arrive I garden". It is not necessary to use "at" or "in". Whichever noun comes second is automatically understood to be the place of arrival.
 
 6. <a name="fn-6" /> The function words **mó** and **teo** are placed around quoted text. Think of them as spoken quotation marks.
 
@@ -44,7 +44,7 @@ title: 'Jókō chỉetōaı'
 ### Translate:
 
 - <audio controls src="ex1.mp3"></audio>
-  **Kảqgāı súq shámū da.**  
+  **Kảqgaı súq shámu da.**  
   <span class="spoiler">"You see the apple(s)."</span>
   
 - <audio controls src="ex2.mp3"></audio>
@@ -52,7 +52,7 @@ title: 'Jókō chỉetōaı'
   <span class="spoiler">"He/she/they help everyone."</span>
   
 - <audio controls src="ex3.mp3"></audio>
-  **Shỉe jí da. Tıu kủeqtūa jí sa rúa da.**  
+  **Shỉe jí da. Tıu kủeqtua jí sa rúa da.**  
   <span class="spoiler">"I am awake. So I collect some flowers."</span>
   
 - <audio controls src="ex4.mp3"></audio>
@@ -60,13 +60,13 @@ title: 'Jókō chỉetōaı'
   <span class="spoiler">"It is night-time. But I am eating."</span>
   
 - <audio controls src="ex5.mp3"></audio>
-  **Kủq hó mó « Kỉa shámū da » teo da.**  
+  **Kủq hó mó « Kỉa shámu da » teo da.**  
   <span class="spoiler">"He/she/they say 'The apples are red.'" (or 'the apple is red')</span>
 
 ### Fill in the blanks:
 
 - "I like the participants."  
-  **Chỏ jí <span class="spoiler">páqtāo</span> da.**
+  **Chỏ jí <span class="spoiler">páqtao</span> da.**
   
 - "Help!"  
   **<span class="spoiler">Sỏa</span> ba.**
@@ -78,4 +78,4 @@ title: 'Jókō chỉetōaı'
   **<span class="spoiler">Kủq</span> <span class="spoiler">jí</span> mó « <span class="spoiler">Dẻ súq</span> » teo da.**
   
 - "They see the apples. Those things are apples."  
-  **<span class="spoiler">Kảqgāı</span> <span class="spoiler">hó</span> shámū da. <span class="spoiler">Shảmū</span> máq da.**
+  **<span class="spoiler">Kảqgaı</span> <span class="spoiler">hó</span> shámu da. <span class="spoiler">Shảmu</span> máq da.**
