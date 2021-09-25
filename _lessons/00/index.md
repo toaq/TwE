@@ -39,7 +39,7 @@ The second kind of exercise in each lesson is a fill in the blanks exercise, whi
 
 ## Toaq Pronunciation
 
-**Toaq**'s alphabet consists of 25 graphemes (letters). Most of these should pose little to no challenge to an English speaker. The graphemes are:
+**Toaq**'s alphabet consists of 26 graphemes (letters). Most of these should pose little to no challenge to an English speaker. The graphemes are:
 
 > **a, b, c, ch, d, e, f, g, h, ı, j, k, l, m, n, nh, o, p, q, r, s, sh, t, u, y, z**
 
