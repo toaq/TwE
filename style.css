@@ -27,6 +27,7 @@ strong .toa {
   width: 700px;
   text-align: justify;
   background-image: url("assets/linedpaper.png");
+  color: black;
   border: 1px solid green;
   border-radius: 25px;
 }
