@@ -29,24 +29,24 @@ title: 'Shíko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Rủqshua da. Keo hỉaı da.**  
-  <span class="spoiler">"It's raining, but there is laughing."</span>
+  <span class="spoiler" tabindex=0>"It's raining, but there is laughing."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Dẻ cháq da. Keo rủqshua da.**  
-  <span class="spoiler">"It's a beautiful day, but it's raining."</span>
+  <span class="spoiler" tabindex=0>"It's a beautiful day, but it's raining."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Hỉaı da. Ru chỏa da.**  
-  <span class="spoiler">"There is laughing, and there is talking."</span>
+  <span class="spoiler" tabindex=0>"There is laughing, and there is talking."</span>
 
 ### Fill in the blanks:
 
 - "It's raining."  
-  **Rủqshua <span class="spoiler">da</span>.**
+  **Rủqshua <span class="spoiler" tabindex=0>da</span>.**
   
 - "There is beauty."  
-  **<span class="spoiler">Dẻ</span> da.**
+  **<span class="spoiler" tabindex=0>Dẻ</span> da.**
   
 - "It's raining, but it's a beautiful day."  
-  **<span class="spoiler">Rủqshua</span> da. <span class="spoiler">Keo</span> dẻ cháq da.**
+  **<span class="spoiler" tabindex=0>Rủqshua</span> da. <span class="spoiler" tabindex=0>Keo</span> dẻ cháq da.**
   

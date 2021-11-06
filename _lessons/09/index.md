@@ -45,37 +45,37 @@ title: 'Néıko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Kỏy déo máma da.**  
-  <span class="spoiler">"The child talks to the mother."</span>
+  <span class="spoiler" tabindex=0>"The child talks to the mother."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Gủosia kôy déo máma da.**  
-  <span class="spoiler">"The child never talks to the mother."</span>
+  <span class="spoiler" tabindex=0>"The child never talks to the mother."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Tảo kúne sa jủa da.**  
-  <span class="spoiler">"The dog does something strange."</span>
+  <span class="spoiler" tabindex=0>"The dog does something strange."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Lủai chô bũ kúne súq da.**  
-  <span class="spoiler">"It is funny that the dog does not like you."</span>
+  <span class="spoiler" tabindex=0>"It is funny that the dog does not like you."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Mả zảo súq mí Sảra moq?**  
-  <span class="spoiler">"Do you know Sara?"</span>
+  <span class="spoiler" tabindex=0>"Do you know Sara?"</span>
 
 ### Fill in the blanks:
 
 - "I don't know at what place I am."  
-  **<span class="spoiler">Dủa</span> bũ jí <span class="spoiler">tî</span> jí <span class="spoiler">hı</span> rỉaq da.**
+  **<span class="spoiler" tabindex=0>Dủa</span> bũ jí <span class="spoiler" tabindex=0>tî</span> jí <span class="spoiler" tabindex=0>hı</span> rỉaq da.**
   
 - "They talk to Amira."  
-  **<span class="spoiler">Kỏy</span> hó <span class="spoiler">mí</span> Ảmıra da.**
+  **<span class="spoiler" tabindex=0>Kỏy</span> hó <span class="spoiler" tabindex=0>mí</span> Ảmıra da.**
   
 - "What is the name of the dog?"  
-  **<span class="spoiler">Chủa</span> hı <span class="spoiler">rảı</span> kúne <span class="spoiler">moq</span>?**
+  **<span class="spoiler" tabindex=0>Chủa</span> hı <span class="spoiler" tabindex=0>rảı</span> kúne <span class="spoiler" tabindex=0>moq</span>?**
   
 - "I see something funny."  
-  **<span class="spoiler">Kảqgaı</span> jí sa <span class="spoiler">lủaı</span> da.**
+  **<span class="spoiler" tabindex=0>Kảqgaı</span> jí sa <span class="spoiler" tabindex=0>lủaı</span> da.**
   
 - "You do nothing that's good."  
-  **<span class="spoiler">Tảo</span> súq <span class="spoiler">sıa</span> gỉ da.**
+  **<span class="spoiler" tabindex=0>Tảo</span> súq <span class="spoiler" tabindex=0>sıa</span> gỉ da.**

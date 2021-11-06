@@ -99,15 +99,16 @@ table a[href] {
 }
 
 .spoiler {
-  color: white;
-  background-color: white;
+  color: rgba(0,0,0,0);
+  background-color: #d0e0d0;
   font-style: italic;
   border-bottom: 1px solid black;
   padding: 0 0.5em;
 }
 
 .spoiler:hover, .spoiler:focus {
-  color: inherit;
+  background-color: #e0e8e0;
+  color: rgba(0,0,0,0.8);
 }
 
 table {

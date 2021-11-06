@@ -34,37 +34,37 @@ title: 'Féko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Kảqgaı jí sa hủı da.**  
-  <span class="spoiler">"I see something bad."</span>
+  <span class="spoiler" tabindex=0>"I see something bad."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Mả gỉ ní moq?**  
-  <span class="spoiler">"Is this good?"</span>
+  <span class="spoiler" tabindex=0>"Is this good?"</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Tu pỏq bı chỏ jí póq da**  
-  <span class="spoiler">"Everybody, I like them."</span>
+  <span class="spoiler" tabindex=0>"Everybody, I like them."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Fả há ní ba.**  
-  <span class="spoiler">"One shall come here."</span>
+  <span class="spoiler" tabindex=0>"One shall come here."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Sa rủa bı dẻ rúa da.**  
-  <span class="spoiler">"Some flowers, they are beautiful."</span>
+  <span class="spoiler" tabindex=0>"Some flowers, they are beautiful."</span>
 
 ### Fill in the blanks:
 
 - "Every day is good."  
-  **Tu chảq <span class="spoiler">bı</span> gỉ <span class="spoiler">cháq</span> da.**
+  **Tu chảq <span class="spoiler" tabindex=0>bı</span> gỉ <span class="spoiler" tabindex=0>cháq</span> da.**
   
 - "Do you like the book?"  
-  **<span class="spoiler">Mả</span> chỏ súq <span class="spoiler">kúe</span> moq?**
+  **<span class="spoiler" tabindex=0>Mả</span> chỏ súq <span class="spoiler" tabindex=0>kúe</span> moq?**
   
 - "There are good things and bad things inside the building."  
-  **<span class="spoiler">Nỉe</span> sa <span class="spoiler">gỉ</span> ru sa <span class="spoiler">hủı</span> jío da.**
+  **<span class="spoiler" tabindex=0>Nỉe</span> sa <span class="spoiler" tabindex=0>gỉ</span> ru sa <span class="spoiler" tabindex=0>hủı</span> jío da.**
   
 - "Is the book red?"  
-  **Mả <span class="spoiler">kỉa</span> kúe <span class="spoiler">moq</span>?**
+  **Mả <span class="spoiler" tabindex=0>kỉa</span> kúe <span class="spoiler" tabindex=0>moq</span>?**
   
 - "Some people, they read."  
-  **<span class="spoiler">Sa</span> pỏq bı <span class="spoiler">nỏaq</span> póq da.**
+  **<span class="spoiler" tabindex=0>Sa</span> pỏq bı <span class="spoiler" tabindex=0>nỏaq</span> póq da.**

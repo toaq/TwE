@@ -31,42 +31,42 @@ title: 'Gúko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Dẻ jío da.**  
-  <span class="spoiler">"The house is beautiful."</span>
+  <span class="spoiler" tabindex=0>"The house is beautiful."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Chỏ jí cháq da.**  
-  <span class="spoiler">"I like the day."</span>
+  <span class="spoiler" tabindex=0>"I like the day."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Nỉe máq háq da.**  
-  <span class="spoiler">"It is inside the food."</span>
+  <span class="spoiler" tabindex=0>"It is inside the food."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Chủq jí ní da.**  
-  <span class="spoiler">"I am eating this."</span>
+  <span class="spoiler" tabindex=0>"I am eating this."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Jỉo máq da.**  
-  <span class="spoiler">"It is a house."</span>
+  <span class="spoiler" tabindex=0>"It is a house."</span>
   
 - <audio controls src="ex6.mp3"></audio>
   **Chủq jí da. Ru hỉaı jí da.**  
-  <span class="spoiler">"I am eating. And I am laughing."</span>
+  <span class="spoiler" tabindex=0>"I am eating. And I am laughing."</span>
 	
 ### Fill in the blanks:
 	
 -  "I like this."  
-  **<span class="spoiler">Chỏ</span> jí <span class="spoiler">ní</span> da.**
+  **<span class="spoiler" tabindex=0>Chỏ</span> jí <span class="spoiler" tabindex=0>ní</span> da.**
   
 -  "The food is inside the house."  
-  **<span class="spoiler">Nỉe</span> háq <span class="spoiler">jío</span> da.**
+  **<span class="spoiler" tabindex=0>Nỉe</span> háq <span class="spoiler" tabindex=0>jío</span> da.**
   
 -  "I am eating this."  
-  **<span class="spoiler">Chủq</span> <span class="spoiler">jí</span> ní da.**
+  **<span class="spoiler" tabindex=0>Chủq</span> <span class="spoiler" tabindex=0>jí</span> ní da.**
   
 -  "It is beautiful."  
-  **Dẻ <span class="spoiler">máq</span> da.**
+  **Dẻ <span class="spoiler" tabindex=0>máq</span> da.**
   
 -  "I live in it."  
-  **<span class="spoiler">Bủa</span> jí máq da.**
+  **<span class="spoiler" tabindex=0>Bủa</span> jí máq da.**
 
