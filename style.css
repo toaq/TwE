@@ -80,7 +80,6 @@ a.continue.but-dont {
 .nav-lessons {
   text-align: center;
   font-size: 16px;
-  margin-bottom: 15px;
 }
 
 .nav-lessons a[href], table a[href] {
@@ -106,7 +105,12 @@ table a[href] {
   padding: 0 0.5em;
 }
 
-.spoiler:hover, .spoiler:focus {
+.spoiler:hover {
+  cursor: pointer;
+  background-color: #e0e8e0;
+}
+
+.spoiler:focus {
   background-color: #e0e8e0;
   color: rgba(0,0,0,0.8);
 }
@@ -343,4 +347,26 @@ ol li:nth-child(10)::before { content: '⑩'; }
   .logo img {
     width: 50%;
   }
+}
+
+@media screen and (min-width: 800px) {
+  header img {
+    position: absolute;
+    left: 50px;
+    top: 5px;
+  }
+}
+
+header {
+  min-height: 80px;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header img {
+  height: 70px;
 }
