@@ -370,3 +370,17 @@ header {
 header img {
   height: 70px;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background-color: #333;
+  }
+  .content {
+    color: #eee;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("assets/linedpaper.png");
+  }
+  .nav-lessons a[href], table a[href] {
+    color: #80f08b;
+  }
+}
