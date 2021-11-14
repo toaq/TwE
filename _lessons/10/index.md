@@ -53,41 +53,41 @@ title: 'Héıko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Bủa sa nỉaı jío da. Pủı níaı da.**  
-  <span class="spoiler">"Some animals live in the building. The animals are numerous."</span>
+  <span class="spoiler" tabindex=0>"Some animals live in the building. The animals are numerous."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Zảı ába chô líqfu hábı da.**  
-  <span class="spoiler">"The father hopes that the daughter likes the bird."</span>
+  <span class="spoiler" tabindex=0>"The father hopes that the daughter likes the bird."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Dủa máma shâo bé nûo hó da.**  
-  <span class="spoiler">"The mother knows that the baby wants to sleep."</span>
+  <span class="spoiler" tabindex=0>"The mother knows that the baby wants to sleep."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Kủo káto ru kóruo da.**  
-  <span class="spoiler">"The cat and the raven are black."</span>
+  <span class="spoiler" tabindex=0>"The cat and the raven are black."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Tủa súq jâı jí da.**  
-  <span class="spoiler">"You make me happy."</span>
+  <span class="spoiler" tabindex=0>"You make me happy."</span>
   
 - <audio controls src="ex6.mp3"></audio>
   **Mả mỏaq súq tî hó hı rảı moq?**  
-  <span class="spoiler">"Do you remember where they are?"</span>
+  <span class="spoiler" tabindex=0>"Do you remember where they are?"</span>
 
 ### Fill in the blanks:
 
 - "The dog is white. But the cat is black."  
-  **<span class="spoiler">Bảo</span> kúne da. Keo <span class="spoiler">kủo</span> káto da.**
+  **<span class="spoiler" tabindex=0>Bảo</span> kúne da. Keo <span class="spoiler" tabindex=0>kủo</span> káto da.**
   
 - "Do you know whether they are asleep?"  
-  **<span class="spoiler">Mả</span> dủa súq <span class="spoiler">mâ</span> nủo hó <span class="spoiler">moq</span>?**
+  **<span class="spoiler" tabindex=0>Mả</span> dủa súq <span class="spoiler" tabindex=0>mâ</span> nủo hó <span class="spoiler" tabindex=0>moq</span>?**
   
 - "We are many."  
-  **<span class="spoiler">Pủı</span> míy da.**
+  **<span class="spoiler" tabindex=0>Pủı</span> míy da.**
   
 - "I like dogs."  
-  **<span class="spoiler">Chỏ</span> jí <span class="spoiler">baq</span> kủne da.**
+  **<span class="spoiler" tabindex=0>Chỏ</span> jí <span class="spoiler" tabindex=0>baq</span> kủne da.**
   
 - "I hope Julia does not hate me."  
-  **<span class="spoiler">Zảı</span> jí <span class="spoiler">lôı</span> bũ <span class="spoiler">mí</span> Jủlıa jí da.**
+  **<span class="spoiler" tabindex=0>Zảı</span> jí <span class="spoiler" tabindex=0>lôı</span> bũ <span class="spoiler" tabindex=0>mí</span> Jủlıa jí da.**

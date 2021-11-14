@@ -42,37 +42,37 @@ title: 'Cíko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Nủo déo ru máma da.**  
-  <span class="spoiler">"The child and the mother are asleep."</span>
+  <span class="spoiler" tabindex=0>"The child and the mother are asleep."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Mả nủı sófa moq?**  
-  <span class="spoiler">"Is the sofa small?"</span>
+  <span class="spoiler" tabindex=0>"Is the sofa small?"</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Sa kủne bı nỉe hó núokua da.**  
-  <span class="spoiler">"Some dogs, they are in the bedroom."</span>
+  <span class="spoiler" tabindex=0>"Some dogs, they are in the bedroom."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Jỏaı kúne hı rảı moq?**  
-  <span class="spoiler">"What is the dog looking for?"</span>
+  <span class="spoiler" tabindex=0>"What is the dog looking for?"</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Kủq déo mó« Sa pỏq bı jỏaı hó súq, hu máma »teo da.**  
-  <span class="spoiler">"The child says 'Some person, they are looking for you, Mother'."</span>
+  <span class="spoiler" tabindex=0>"The child says 'Some person, they are looking for you, Mother'."</span>
 
 ### Fill in the blanks:
 
 - "What's behind the sofa?"  
-  **<span class="spoiler">Tỉa</span> hı <span class="spoiler">rảı</span> sófa <span class="spoiler">moq</span>?**
+  **<span class="spoiler" tabindex=0>Tỉa</span> hı <span class="spoiler" tabindex=0>rảı</span> sófa <span class="spoiler" tabindex=0>moq</span>?**
   
 - "As for the dog, the dog is small."  
-  **<span class="spoiler">Kúne</span> bı <span class="spoiler">nủı</span> <span class="spoiler">kúne</span> da.**
+  **<span class="spoiler" tabindex=0>Kúne</span> bı <span class="spoiler" tabindex=0>nủı</span> <span class="spoiler" tabindex=0>kúne</span> da.**
   
 - "As for those who sleep, they are in the bedroom."  
-  **<span class="spoiler">Núo</span> bı nỉe hó <span class="spoiler">núokua</span> da.**
+  **<span class="spoiler" tabindex=0>Núo</span> bı nỉe hó <span class="spoiler" tabindex=0>núokua</span> da.**
   
 - "Let us eat some apples."  
-  **Chủq <span class="spoiler">múy</span> sa <span class="spoiler">shảmu</span> <span class="spoiler">ba</span>.**
+  **Chủq <span class="spoiler" tabindex=0>múy</span> sa <span class="spoiler" tabindex=0>shảmu</span> <span class="spoiler" tabindex=0>ba</span>.**
   
 - "Which dog are you looking for?"  
-  **<span class="spoiler">Hı</span> kủne bı <span class="spoiler">jỏaı</span> súq <span class="spoiler">hó/kúne</span> moq?**
+  **<span class="spoiler" tabindex=0>Hı</span> kủne bı <span class="spoiler" tabindex=0>jỏaı</span> súq <span class="spoiler" tabindex=0>hó/kúne</span> moq?**

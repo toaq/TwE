@@ -39,37 +39,37 @@ title: 'Héısaqko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Nủı jío da. Keo sảo méı da.**  
-  <span class="spoiler">"The building is small. But the mountain is big."</span>
+  <span class="spoiler" tabindex=0>"The building is small. But the mountain is big."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Chủfaq tûı sa gẻo núofua da.**  
-  <span class="spoiler">"Someone old is sitting on the bed."</span>
+  <span class="spoiler" tabindex=0>"Someone old is sitting on the bed."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Dủa mí Sảmı mêı ní da.**  
-  <span class="spoiler">"Sami knows that this is a mountain."</span>
+  <span class="spoiler" tabindex=0>"Sami knows that this is a mountain."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Pủ hûosı súq hı rảı moq?**  
-  <span class="spoiler">"What did you listen to?"</span>
+  <span class="spoiler" tabindex=0>"What did you listen to?"</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Mả zỏaıcıa súq tî sa chỉjıo dóaq moq?**  
-  <span class="spoiler">"Are you certain that there is a church in the village?"</span>
+  <span class="spoiler" tabindex=0>"Are you certain that there is a church in the village?"</span>
 
 ### Fill in the blanks:
 
 - "I am watching the dog go."  
-  **<span class="spoiler">Kảqsı</span> jí <span class="spoiler">fâ</span> kúne da.**
+  **<span class="spoiler" tabindex=0>Kảqsı</span> jí <span class="spoiler" tabindex=0>fâ</span> kúne da.**
   
 - "Everybody listen!"  
-  **<span class="spoiler">Hủosı</span> tu <span class="spoiler">pỏq</span> ba!**
+  **<span class="spoiler" tabindex=0>Hủosı</span> tu <span class="spoiler" tabindex=0>pỏq</span> ba!**
   
 - "Which friend will you meet?"  
-  **<span class="spoiler">Hı</span> pảı bı jỉa <span class="spoiler">gêq</span> súq <span class="spoiler">páı</span> moq?**
+  **<span class="spoiler" tabindex=0>Hı</span> pảı bı jỉa <span class="spoiler" tabindex=0>gêq</span> súq <span class="spoiler" tabindex=0>páı</span> moq?**
   
 - "Is the place old?"  
-  **Mả <span class="spoiler">gẻo</span> ríaq moq?**
+  **Mả <span class="spoiler" tabindex=0>gẻo</span> ríaq moq?**
   
 - "They want us to sit."  
-  **Shảo hó <span class="spoiler">tûı</span> múy da.**
+  **Shảo hó <span class="spoiler" tabindex=0>tûı</span> múy da.**

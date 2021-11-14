@@ -41,41 +41,41 @@ title: 'Sáqko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Chủq kía báo da.**  
-  <span class="spoiler">"The red one eats the white one."</span>
+  <span class="spoiler" tabindex=0>"The red one eats the white one."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Tỉ rúa níjao da.**  
-  <span class="spoiler">"The flower is in (at) that thing there."</span>
+  <span class="spoiler" tabindex=0>"The flower is in (at) that thing there."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Nỉe súq kúa da.**  
-  <span class="spoiler">"You are inside the room."</span>
+  <span class="spoiler" tabindex=0>"You are inside the room."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Chỏ jí rúqshua da.**  
-  <span class="spoiler">"I like the rain."</span>
+  <span class="spoiler" tabindex=0>"I like the rain."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Hảq níjuı da.**  
-  <span class="spoiler">"This here is food."</span>
+  <span class="spoiler" tabindex=0>"This here is food."</span>
   
 - <audio controls src="ex6.mp3"></audio>
   **Rủa máq da.**  
-  <span class="spoiler">"It is a flower."</span>
+  <span class="spoiler" tabindex=0>"It is a flower."</span>
 
 ### Fill in the blanks:
 
 - "The room is inside the house."  
-  **Nỉe <span class="spoiler">kúa</span> jío da.**
+  **Nỉe <span class="spoiler" tabindex=0>kúa</span> jío da.**
   
 - "The flower is white."  
-  **<span class="spoiler">Bảo</span> rúa da.**
+  **<span class="spoiler" tabindex=0>Bảo</span> rúa da.**
   
 - "This here and that there is beautiful."  
-  **Dẻ <span class="spoiler">níjuı</span> ru <span class="spoiler">níjao</span> da.**
+  **Dẻ <span class="spoiler" tabindex=0>níjuı</span> ru <span class="spoiler" tabindex=0>níjao</span> da.**
   
 - "The food is that there."  
-  **<span class="spoiler">Nỉjao</span> háq da.**
+  **<span class="spoiler" tabindex=0>Nỉjao</span> háq da.**
   
 - "You are me."  
-  **<span class="spoiler">Jỉ</span> <span class="spoiler">súq</span> da.**
+  **<span class="spoiler" tabindex=0>Jỉ</span> <span class="spoiler" tabindex=0>súq</span> da.**

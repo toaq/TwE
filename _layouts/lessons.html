@@ -17,14 +17,18 @@
     <title>{{ page.title }} — Toaq with Ease</title>
   </head>
   <body>
-    <a class="logo" href="../">
+    <!--<a class="logo" href="../">
       <img src="../assets/TwE_Logo_small.png" alt="Logo">
-    </a>
-    <div class="nav-lessons">
-    {% for lesson in site.lessons %}
-      <a {% if page != lesson %} href="..{{ lesson.url | remove: 'index' }}" {% endif %}>{{ lesson.url | remove: 'index' | remove: '/' | replace: '00', 'Intro' }}</a> {% unless forloop.last %}·{% endunless %}
-    {% endfor %}
-    </div>
+    </a>-->
+    <header>
+      <a href="https://toaq.net"><img src="https://toaq.net/assets/images/jemu.png" alt="Return to toaq.net"></a>
+      <div>Toaq with Ease</div>
+      <div class="nav-lessons">
+        {% for lesson in site.lessons %}
+          <a {% if page != lesson %} href="..{{ lesson.url | remove: 'index' }}" {% endif %}>{{ lesson.url | remove: 'index' | remove: '/' | replace: '00', 'Intro' }}</a> {% unless forloop.last %}·{% endunless %}
+        {% endfor %}
+        </div>    
+    </header>
     <div class="content">
       <main>
         {{content}}

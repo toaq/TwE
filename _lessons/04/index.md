@@ -47,37 +47,37 @@ title: 'Jóko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Kảqgaı súq shámu da.**  
-  <span class="spoiler">"You see the apple(s)."</span>
+  <span class="spoiler" tabindex=0>"You see the apple(s)."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Sỏa hó tu pỏq da.**  
-  <span class="spoiler">"He/she/they help everyone."</span>
+  <span class="spoiler" tabindex=0>"He/she/they help everyone."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Shỉe jí da. Tıu kủeqtua jí sa rúa da.**  
-  <span class="spoiler">"I am awake. So I collect some flowers."</span>
+  <span class="spoiler" tabindex=0>"I am awake. So I collect some flowers."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Nủaq da. Keo chủq jí da.**  
-  <span class="spoiler">"It is night-time. But I am eating."</span>
+  <span class="spoiler" tabindex=0>"It is night-time. But I am eating."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Kủq hó mó « Kỉa shámu da » teo da.**  
-  <span class="spoiler">"He/she/they say 'The apples are red.'" (or 'the apple is red')</span>
+  <span class="spoiler" tabindex=0>"He/she/they say 'The apples are red.'" (or 'the apple is red')</span>
 
 ### Fill in the blanks:
 
 - "I like the participants."  
-  **Chỏ jí <span class="spoiler">páqtao</span> da.**
+  **Chỏ jí <span class="spoiler" tabindex=0>páqtao</span> da.**
   
 - "Help!"  
-  **<span class="spoiler">Sỏa</span> ba.**
+  **<span class="spoiler" tabindex=0>Sỏa</span> ba.**
   
 - "It is night-time. So she is asleep."  
-  **<span class="spoiler">Nủaq</span> <span class="spoiler">da</span>. Tıu <span class="spoiler">nủo</span> hó da.**
+  **<span class="spoiler" tabindex=0>Nủaq</span> <span class="spoiler" tabindex=0>da</span>. Tıu <span class="spoiler" tabindex=0>nủo</span> hó da.**
   
 - "I say 'you are beautiful'."  
-  **<span class="spoiler">Kủq</span> <span class="spoiler">jí</span> mó « <span class="spoiler">Dẻ súq</span> » teo da.**
+  **<span class="spoiler" tabindex=0>Kủq</span> <span class="spoiler" tabindex=0>jí</span> mó « <span class="spoiler" tabindex=0>Dẻ súq</span> » teo da.**
   
 - "They see the apples. Those things are apples."  
-  **<span class="spoiler">Kảqgaı</span> <span class="spoiler">hó</span> shámu da. <span class="spoiler">Shảmu</span> máq da.**
+  **<span class="spoiler" tabindex=0>Kảqgaı</span> <span class="spoiler" tabindex=0>hó</span> shámu da. <span class="spoiler" tabindex=0>Shảmu</span> máq da.**

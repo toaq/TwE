@@ -42,37 +42,37 @@ title: 'Héıshıko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Mả nỏqgı mátu moq?**  
-  <span class="spoiler">"Is the honey delicious?"</span>
+  <span class="spoiler" tabindex=0>"Is the honey delicious?"</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Kỏa túzy da.**  
-  <span class="spoiler">"The soup is cold."</span>
+  <span class="spoiler" tabindex=0>"The soup is cold."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Shảo jí pîe súq cháı da.**  
-  <span class="spoiler">"I want you to drink the tea."</span>
+  <span class="spoiler" tabindex=0>"I want you to drink the tea."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Lảo súq hı rảı moq?**  
-  <span class="spoiler">"What are you waiting for?"</span>
+  <span class="spoiler" tabindex=0>"What are you waiting for?"</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Nảı bîa súq da. Keo jỉa rôe súq da.**  
-  <span class="spoiler">"Now you are sick. But in the future, you will be well."</span>
+  <span class="spoiler" tabindex=0>"Now you are sick. But in the future, you will be well."</span>
 
 ### Fill in the blanks:
 
 - "I drank the tea."  
-  **<span class="spoiler">Pủ</span> pîe jí <span class="spoiler">cháı</span> da.**
+  **<span class="spoiler" tabindex=0>Pủ</span> pîe jí <span class="spoiler" tabindex=0>cháı</span> da.**
   
 - "We like winter."  
-  **Chỏ <span class="spoiler">mýı</span> baq <span class="spoiler">kỏacao</span> da.**
+  **Chỏ <span class="spoiler" tabindex=0>mýı</span> baq <span class="spoiler" tabindex=0>kỏacao</span> da.**
   
 - "The tea is cold. But the soup is hot."  
-  **<span class="spoiler">Kỏa</span> cháı da. Keo <span class="spoiler">lỏq</span> túzy da.**
+  **<span class="spoiler" tabindex=0>Kỏa</span> cháı da. Keo <span class="spoiler" tabindex=0>lỏq</span> túzy da.**
   
 - "I will go to a friend."  
-  **<span class="spoiler">Jỉa</span> fâ jí sa <span class="spoiler">pảı</span> da.**
+  **<span class="spoiler" tabindex=0>Jỉa</span> fâ jí sa <span class="spoiler" tabindex=0>pảı</span> da.**
   
 - "Wait for me to be home."  
-  **<span class="spoiler">Lảo</span> súq <span class="spoiler">tî</span> jí búe <span class="spoiler">ba</span>.**
+  **<span class="spoiler" tabindex=0>Lảo</span> súq <span class="spoiler" tabindex=0>tî</span> jí búe <span class="spoiler" tabindex=0>ba</span>.**

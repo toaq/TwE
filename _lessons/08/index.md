@@ -41,37 +41,37 @@ title: 'Róaıko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Tủa hó sôa jí hó da.**  
-  <span class="spoiler">"They make me help them."</span>
+  <span class="spoiler" tabindex=0>"They make me help them."</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Mả zảo súq máma moq?**  
-  <span class="spoiler">"Do you know the mother?"</span>
+  <span class="spoiler" tabindex=0>"Do you know the mother?"</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Mả shảo súq fâ jí hó moq?**  
-  <span class="spoiler">"Do you want me to go to them?"</span>
+  <span class="spoiler" tabindex=0>"Do you want me to go to them?"</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Kảqgaı jí tîa kúne sófa da.**  
-  <span class="spoiler">"I see that the dog is behind the sofa."</span>
+  <span class="spoiler" tabindex=0>"I see that the dog is behind the sofa."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Dủa jí dûa jí sıa rảı da.**  
-  <span class="spoiler">"I know that I know nothing."</span>
+  <span class="spoiler" tabindex=0>"I know that I know nothing."</span>
 
 ### Fill in the blanks:
 
 - "I know that the dog likes you."  
-  **<span class="spoiler">Dủa</span> jí <span class="spoiler">chô</span> kúne súq da.**
+  **<span class="spoiler" tabindex=0>Dủa</span> jí <span class="spoiler" tabindex=0>chô</span> kúne súq da.**
   
 - "Nobody wants it to rain."  
-  **Shảo <span class="spoiler">sıa</span> pỏq <span class="spoiler">rûqshua</span> da.**
+  **Shảo <span class="spoiler" tabindex=0>sıa</span> pỏq <span class="spoiler" tabindex=0>rûqshua</span> da.**
   
 - "Make the house white."  
-  **Tủa súq <span class="spoiler">bâo</span> jío ba.**
+  **Tủa súq <span class="spoiler" tabindex=0>bâo</span> jío ba.**
   
 - "There is a person I want you to see."  
-  **Sa <span class="spoiler">pỏq</span> bı <span class="spoiler">shảo</span> jí kâqgaı súq <span class="spoiler">póq</span> da.**
+  **Sa <span class="spoiler" tabindex=0>pỏq</span> bı <span class="spoiler" tabindex=0>shảo</span> jí kâqgaı súq <span class="spoiler" tabindex=0>póq</span> da.**
   
 - "Do I know you?"  
-  **Mả <span class="spoiler">zảo</span> jí <span class="spoiler">súq</span> moq?**
+  **Mả <span class="spoiler" tabindex=0>zảo</span> jí <span class="spoiler" tabindex=0>súq</span> moq?**

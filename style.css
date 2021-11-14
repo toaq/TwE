@@ -27,6 +27,7 @@ strong .toa {
   width: 700px;
   text-align: justify;
   background-image: url("assets/linedpaper.png");
+  color: black;
   border: 1px solid green;
   border-radius: 25px;
 }
@@ -79,7 +80,6 @@ a.continue.but-dont {
 .nav-lessons {
   text-align: center;
   font-size: 16px;
-  margin-bottom: 15px;
 }
 
 .nav-lessons a[href], table a[href] {
@@ -98,15 +98,21 @@ table a[href] {
 }
 
 .spoiler {
-  color: white;
-  background-color: white;
+  color: rgba(0,0,0,0);
+  background-color: #d0e0d0;
   font-style: italic;
   border-bottom: 1px solid black;
   padding: 0 0.5em;
 }
 
-.spoiler:hover, .spoiler:focus {
-  color: inherit;
+.spoiler:hover {
+  cursor: pointer;
+  background-color: #e0e8e0;
+}
+
+.spoiler:focus {
+  background-color: #e0e8e0;
+  color: rgba(0,0,0,0.8);
 }
 
 table {
@@ -340,5 +346,41 @@ ol li:nth-child(10)::before { content: '⑩'; }
   }
   .logo img {
     width: 50%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  header img {
+    position: absolute;
+    left: 50px;
+    top: 5px;
+  }
+}
+
+header {
+  min-height: 80px;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header img {
+  height: 70px;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background-color: #333;
+  }
+  .content {
+    color: #eee;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("assets/linedpaper.png");
+  }
+  .nav-lessons a[href], table a[href] {
+    color: #80f08b;
   }
 }

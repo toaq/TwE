@@ -37,37 +37,37 @@ title: 'Héıguko chỉetoaı'
 
 - <audio controls src="ex1.mp3"></audio>
   **Mả jẻo chô súq baq ẻlu moq?**  
-  <span class="spoiler">"Is it true that you like elephants?"</span>
+  <span class="spoiler" tabindex=0>"Is it true that you like elephants?"</span>
   
 - <audio controls src="ex2.mp3"></audio>
   **Bủ lâ tu kảto bı kủo hó da.**  
-  <span class="spoiler">"It's not true that every cat is black."</span>
+  <span class="spoiler" tabindex=0>"It's not true that every cat is black."</span>
   
 - <audio controls src="ex3.mp3"></audio>
   **Dủ pîkuaı súq da.**  
-  <span class="spoiler">"It seems like you have to pee."</span>
+  <span class="spoiler" tabindex=0>"It seems like you have to pee."</span>
   
 - <audio controls src="ex4.mp3"></audio>
   **Rủaq súq sa jẻo ba.**  
-  <span class="spoiler">"You said something true."</span>
+  <span class="spoiler" tabindex=0>"You said something true."</span>
   
 - <audio controls src="ex5.mp3"></audio>
   **Chỉ hó jîq baq ảıpu da.**  
-  <span class="spoiler">"They believe that ghosts exist."</span>
+  <span class="spoiler" tabindex=0>"They believe that ghosts exist."</span>
 
 ### Fill in the blanks:
 
 - "They said that every dog is a friend."  
-  **Pủ <span class="spoiler">rûaq</span> hó <span class="spoiler">lâ</span> tu kủne bı <span class="spoiler">pảı</span> hó da.**
+  **Pủ <span class="spoiler" tabindex=0>rûaq</span> hó <span class="spoiler" tabindex=0>lâ</span> tu kủne bı <span class="spoiler" tabindex=0>pảı</span> hó da.**
   
 - "I want to know whether you like apples."  
-  **<span class="spoiler">Dủashao</span> jí <span class="spoiler">mâ</span> baq shảmu <span class="spoiler">bı</span> chỏ súq <span class="spoiler">máq</span> da.**
+  **<span class="spoiler" tabindex=0>Dủashao</span> jí <span class="spoiler" tabindex=0>mâ</span> baq shảmu <span class="spoiler" tabindex=0>bı</span> chỏ súq <span class="spoiler" tabindex=0>máq</span> da.**
   
 - "I hope that that's true."  
-  **Zảı jí <span class="spoiler">jêo</span> hóq da.**
+  **Zảı jí <span class="spoiler" tabindex=0>jêo</span> hóq da.**
   
 - "Never did I see a ghost."  
-  **Gủosıa pû <span class="spoiler">lâ</span> sa <span class="spoiler">ảıpu</span> bı <span class="spoiler">kảqgaı</span> jí hó da.**
+  **Gủosıa pû <span class="spoiler" tabindex=0>lâ</span> sa <span class="spoiler" tabindex=0>ảıpu</span> bı <span class="spoiler" tabindex=0>kảqgaı</span> jí hó da.**
   
 - "It's not the case that the elephant is inside the building."  
-  **<span class="spoiler">Bủ</span> nîe <span class="spoiler">élu</span> jío da.**
+  **<span class="spoiler" tabindex=0>Bủ</span> nîe <span class="spoiler" tabindex=0>élu</span> jío da.**
