@@ -54,7 +54,7 @@ title: 'Jóko chỉetoaı'
   <span class="spoiler" tabindex=0>"He/she/they help everyone."</span>
   
 - <audio controls src="ex3.mp3"></audio>
-  **Shỉe jí da. Tıu kủeqtua jí sa rúa da.**  
+  **Shỉe jí da. Tıu kủeqtua jí sa rủa da.**  
   <span class="spoiler" tabindex=0>"I am awake. So I collect some flowers."</span>
   
 - <audio controls src="ex4.mp3"></audio>
