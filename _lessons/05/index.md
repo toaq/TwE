@@ -9,7 +9,7 @@ title: 'Féko chỉetoaı'
 | **Sa chảq bı gỉ cháq da. [①](#fn-1) Sa chảq bı hủı cháq da.** [②](#fn-2) | Some days, they are good. Some days, they are bad.                                                                             |
 | **Óe...**                                                  | Okay...                                                                                              |
 | **Bũ tu chảq bı gỉ cháq da. [③](#fn-3)[④](#fn-4) Keo tu chảq bı pảq sa gỉ cháq da.**          | Not every day is good. But every day has something good in it (every day is such that something good is part of it).                                                                              |
-| **Ma nỏaq súq sa kủe moq?** [⑤](#fn-5)           | Did you read a book?                                                                                 |
+| **Mả nỏaq súq sa kủe moq?** [⑤](#fn-5)           | Did you read a book?                                                                                 |
 | **Sa kủe bı nỏaq há kúe da. [⑥](#fn-6) Sa kủe bı chỏ há kúe da. Keo sa kủe bı ... Ẻ, fả súq hı rảı moq?** [⑦](#fn-7)           | Some books, you read them. Some books, you enjoy them. But some books... Hey, where are you going?                                                                           |
 
 ## Notes
