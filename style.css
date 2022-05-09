@@ -40,6 +40,10 @@ audio {
   margin-left: 25px;
 }
 
+body audio { display: none; }
+body.lesson-00 audio { display: inherit; }
+body.lesson-01 audio { display: inherit; }
+
 p {
   margin: 25px 0;
 }
