@@ -42,7 +42,7 @@ audio {
 
 body audio { display: none; }
 body.lesson-00 audio { display: inherit; }
-body.lesson-01 audio { display: inherit; }
+/* Lesson 01 has audio files, but the tones are outdated. */
 
 p {
   margin: 25px 0;
