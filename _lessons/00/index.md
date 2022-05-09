@@ -49,36 +49,36 @@ Compared to the English alphabet, the letters **v**, **w** and **x** are "missin
 
 Five of the vowel letters look the same as in English, except for **ı**, which is missing the dot. The sixth vowel, written **y**, is the only unusual one from an English perspective. The pronunciations are as follows:
 
-| a | <audio controls src="../sounds/a.mp3" /> |
-| e | <audio controls src="../sounds/e.mp3" /> |
-| ı | <audio controls src="../sounds/i.mp3" /> |
-| o | <audio controls src="../sounds/o.mp3" /> |
-| u | <audio controls src="../sounds/u.mp3" /> |
-| y | <audio controls src="../sounds/y.mp3" /> |
+| a | <audio controls src="../sounds/a.mp3" /> | /a/ |
+| e | <audio controls src="../sounds/e.mp3" /> | /e/ |
+| ı | <audio controls src="../sounds/i.mp3" /> | /i/ |
+| o | <audio controls src="../sounds/o.mp3" /> | /o/ |
+| u | <audio controls src="../sounds/u.mp3" /> | /u/ |
+| y | <audio controls src="../sounds/y.mp3" /> | /ə/ |
 
 ## Consonants
 
-| b  | <audio controls src="../sounds/b.mp3" />  |
-| c  | <audio controls src="../sounds/c.mp3" />  |
-| ch | <audio controls src="../sounds/ch.mp3" /> |
-| d  | <audio controls src="../sounds/d.mp3" />  |
-| f  | <audio controls src="../sounds/f.mp3" />  |
-| g  | <audio controls src="../sounds/g.mp3" />  |
-| h  | <audio controls src="../sounds/h.mp3" />  |
-| j  | <audio controls src="../sounds/j.mp3" />  |
-| k  | <audio controls src="../sounds/k.mp3" />  |
-| l  | <audio controls src="../sounds/l.mp3" />  |
-| m  | <audio controls src="../sounds/m.mp3" />  |
-| n  | <audio controls src="../sounds/n.mp3" />  |
-| nh | <audio controls src="../sounds/nh.mp3" />  |
-| p  | <audio controls src="../sounds/p.mp3" />  |
-| r  | <audio controls src="../sounds/r.mp3" />  |
-| s  | <audio controls src="../sounds/s.mp3" />  |
-| sh | <audio controls src="../sounds/sh.mp3" /> |
-| t  | <audio controls src="../sounds/t.mp3" />  |
-| z  | <audio controls src="../sounds/z.mp3" />  |
+| b  | <audio controls src="../sounds/b.mp3" />  | /b/   |
+| c  | <audio controls src="../sounds/c.mp3" />  | /t͡sʰ/ |
+| ch | <audio controls src="../sounds/ch.mp3" /> | /t͡ɕʰ/ |
+| d  | <audio controls src="../sounds/d.mp3" />  | /d/   |
+| f  | <audio controls src="../sounds/f.mp3" />  | /f/   |
+| g  | <audio controls src="../sounds/g.mp3" />  | /g/   |
+| h  | <audio controls src="../sounds/h.mp3" />  | /h/   |
+| j  | <audio controls src="../sounds/j.mp3" />  | /d͡ʑ/  |
+| k  | <audio controls src="../sounds/k.mp3" />  | /kʰ/  |
+| l  | <audio controls src="../sounds/l.mp3" />  | /l/   |
+| m  | <audio controls src="../sounds/m.mp3" />  | /m/   |
+| n  | <audio controls src="../sounds/n.mp3" />  | /n/   |
+| nh | <audio controls src="../sounds/nh.mp3" /> | /ɲ/   |
+| p  | <audio controls src="../sounds/p.mp3" />  | /pʰ/  |
+| r  | <audio controls src="../sounds/r.mp3" />  | /ɾ/   |
+| s  | <audio controls src="../sounds/s.mp3" />  | /s/   |
+| sh | <audio controls src="../sounds/sh.mp3" /> | /ɕ/   |
+| t  | <audio controls src="../sounds/t.mp3" />  | /tʰ/  |
+| z  | <audio controls src="../sounds/z.mp3" />  | /d͡z/  |
 
-The consonant **q** is usually pronounced as English "ng", but it can change its pronunciation depending on the consonant that follows:
+The consonant **q** is usually pronounced as English "ng" (IPA /ŋ/), but it can change its pronunciation depending on the consonant that follows:
 
 * default&nbsp;pronunciation&nbsp;– before&nbsp;**k**, **g**, **l**, **m**, **n**, **r**, **f**, **h**, **s**, **sh**, and&nbsp;at&nbsp;the&nbsp;end of&nbsp;a&nbsp;breath&nbsp;group: <audio controls src="../sounds/q.mp3" />
 * before **t**, **d**, **c**, **ch**, **j**: same as **n**
