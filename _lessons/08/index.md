@@ -9,7 +9,7 @@ title: 'Róaıko chỉetoaı'
 | **Hu súq, hu súq... Je dủa jí shîe súq da.** [①](#fn-1)     | You, hey you... I know that you are awake. |
 | **Beı *jí* bı dủa jí pŷı jí da. [②](#fn-2)** | And *I*, I know that I am annoyed. |
 | **Fỏı jí da! Mỏi súq hı rảı moq?** | I am bored. What are you thinking about? |
-| **Sıa rảı. Je shỷ súq nûo jí ba.** [③](#fn-3) | Nothing. Let me sleep. |
+| **Sıa rảı. Je shỏe súq nûo jí ba.** [③](#fn-3) | Nothing. Let me sleep. |
 | **Kủaq shẻo ka.** [④](#fn-4) | I am sorry. |
 | **Gỉ núaq ba.** | Good night. |
 | **Hu súq...** | Hey you... |
