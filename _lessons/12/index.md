@@ -12,7 +12,7 @@ title: 'Héıguko chỉetoaı'
 | **Chỉ bũ jí hóq da.** | I don't believe that. |
 | **Je mả baq nỉnıbuı bı tî hó sa rỉaq moq?** | And as for aliens, are they somewhere? |
 | **Dảı hóq da. Jảq sâo jíaq da.** | That's possible. The world is very big. |
-| **Je pủ rûaq sa pỏq jîq baq ảıpu da.** [②](#fn-2) **Mỉu súq hı rảı moq?** | Some people people said that ghosts exist. What do you think? |
+| **Je pủ rûaq sa pỏq jîq baq ảıpu da.** [②](#fn-2) **Mỉu súq hı rảı moq?** | Some people said that ghosts exist. What do you think? |
 | **Sa rảı bı dủa sıa pỏq ráı da. Jí bı mỉu jí lâ baq ảıpu bı dảı jîq hó da.** [⑤](#fn-5) | There are things which nobody knows. As for me, I think that it's possible that ghosts exist. |
 | **M̉. Je mả beı *sa* rảı bı dủa súq ráı moq?** | Okay. Is there *anything* you do know? |
 | **Dủa jí pûı téoq da. Nảı tûa súq rîa kíao ba. Pỉkuaı jí da!** [⑥](#fn-6) | I know that those were a lot of questions. Now open the door. I have to pee! |
