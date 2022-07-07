@@ -66,7 +66,7 @@ title: 'Héıshıko chỉetoaı'
   **<span class="spoiler" tabindex=0>Pủ</span> pîe jí <span class="spoiler" tabindex=0>cháı</span> da.**
   
 - "We like winter."  
-  **Chỏ <span class="spoiler" tabindex=0>mýı</span> baq <span class="spoiler" tabindex=0>kỏacao</span> da.**
+  **Chỏ <span class="spoiler" tabindex=0>míy</span> baq <span class="spoiler" tabindex=0>kỏacao</span> da.**
   
 - "The tea is cold. But the soup is hot."  
   **<span class="spoiler" tabindex=0>Kỏa</span> cháı da. Keo <span class="spoiler" tabindex=0>lỏq</span> túzy da.**

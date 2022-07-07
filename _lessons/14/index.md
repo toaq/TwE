@@ -259,7 +259,7 @@ Examples:
 > **Tỉopuı élu moq?**  
   "How many are the elephants?"
 
-> **Dủa bũ súq tîopuı mýı da.**  
+> **Dủa bũ súq tîopuı míy da.**  
   "You don't know how many we are."
 
 **hıa** - *is/does what*

@@ -14,7 +14,7 @@ title: 'Héısaqko chỉetoaı'
 | **Zảı jí jîa fâ súq ní da. Zỏaıcıa jí âo chô súq ríaq da.** | I hope that you will come here in the future. I am certain that you would like the place. |
 | **Púchaq bı pủ fâ jí méı ru múaome da.** [④](#fn-4) | Yesterday, I went to the mountains and the woods. |
 | **Jíachaq bı jỉa gêq jí mí Sảmı da. Bủa mí Sảmı ní da.** | Tomorrow, I will meet Sami. Sami lives here. |
-| **Jỉa fâ mýı dóaq da. Gẻo máq da.** | We will go to the village. It is old. |
+| **Jỉa fâ míy dóaq da. Gẻo máq da.** | We will go to the village. It is old. |
 | **Jỉa tûa hó kâqgaı jí chíjıo ru (pu)sejıo da.** [⑤](#fn-5) | They will make me see the church and the museum. |
 | **Jíajoa bı jỉa rîufa jí búe da.** [⑥](#fn-6) | Next week, I will return home. |
 | **Súq bı gỉ tu rảı ba. Hỉo ka.** | As for you, may everything be well. Goodbye. |

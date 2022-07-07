@@ -15,7 +15,7 @@ title: 'Héıko chỉetoaı'
 | **Enı, sảq bé da.** [③](#fn-3)  | Here are three babies. |
 | **Chỏ bũ jí ní, hu ába da. [④](#fn-4) Dẻ bũ ní da. Baq hảbı bı hỉa moq.** [⑤](#fn-5) | I don't like those, father. They are not beautiful. How about birds? |
 | **Mmm mỏaq bũ jí mâ tỉ sa hảbı da...** [⑥](#fn-6) | Uhm, I don't remember whether there are birds... |
-| **Tıu tủa súq kâqgaı mýı káto ba.** [⑦](#fn-7) | Then show us the cats. |
+| **Tıu tủa súq kâqgaı míy káto ba.** [⑦](#fn-7) | Then show us the cats. |
 | **Kảqgaı súq ní ba. Tỉ sa kủo ru sa bảo ru sa rỷaq da. Mỉu súq hı rảı moq?** | See here. There are black ones, white ones and orange ones. What do you think? |
 | **Lỏı jí baq kảto da.**  | I hate cats. |
 | **Kủaq shẻo ka. Jỏaı jí baq hảbı ba.** | I am sorry. Let me look for birds. |
@@ -41,7 +41,7 @@ title: 'Héıko chỉetoaı'
 
 6. <a name="fn-6" /> This sentence showcases another indirect question, but instead of **hı** it uses **mâ**. **mâ**, with a rising-falling tone ![](../tones/t5.png) is the content clause version of **mả**, and can be translated as "whether". **mâ tỉ sa hảbı** "whether some birds are present".
 
-7. <a name="fn-7" /> This sentence is a great example of how much you can already achieve with the little grammar we have introduced. **Tủa súq kâqgaı mýı káto** literally means "you make it the case that we see the cats", which uses the power of paraphrase to express "you show us the cats". Using such tricks, we can express things we don't know the words for. We will  also learn easier and shorter ways to say such things soon.
+7. <a name="fn-7" /> This sentence is a great example of how much you can already achieve with the little grammar we have introduced. **Tủa súq kâqgaı míy káto** literally means "you make it the case that we see the cats", which uses the power of paraphrase to express "you show us the cats". Using such tricks, we can express things we don't know the words for. We will  also learn easier and shorter ways to say such things soon.
 
 8. <a name="fn-8" /> We see **beı** again, which adds emphasis to the following word. Recall that it is **beı** that takes the stress in spoken Toaq, often accompanied by a falling tone, while the word following **beı** remains unchanged.
 
