@@ -10,7 +10,7 @@ title: 'Héıguko chỉetoaı'
 | **Dủa bũ jí mâ jẻo hóq da.** [③](#fn-3) | I don't know whether that's true. |
 | **Je mả jẻo lâ míao bı nỉe sa pỏq míao moq?** [④](#fn-4) | And is it true that, as for the moon, some people are inside it? |
 | **Chỉ bũ jí hóq da.** | I don't believe that. |
-| **Je mả baq nỉnıbuı bı tî hó sa rỉaq moq?** | And as for aliens, are they somewhere? |
+| **Je mả baq nỉnıbuı bı tỉ hó sa rỉaq moq?** | And as for aliens, are they somewhere? |
 | **Dảı hóq da. Jảq sâo jíaq da.** | That's possible. The world is very big. |
 | **Je pủ rûaq sa pỏq jîq baq ảıpu da.** [②](#fn-2) **Mỉu súq hı rảı moq?** | Some people said that ghosts exist. What do you think? |
 | **Sa rảı bı dủa sıa pỏq ráı da. Jí bı mỉu jí lâ baq ảıpu bı dảı jîq hó da.** [⑤](#fn-5) | There are things which nobody knows. As for me, I think that it's possible that ghosts exist. |
