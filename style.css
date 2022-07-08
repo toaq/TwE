@@ -387,4 +387,7 @@ header img {
   .nav-lessons a[href], table a[href] {
     color: #80f08b;
   }
+  .fancy td {
+    background-color: #4d4d4d;
+  }
 }
