@@ -1,5 +1,6 @@
 ---
 title: 'Chıetoaı kọsaq'
+delta: true
 ---
 # **Chıetoaı kọsaq** -- 3rd Lesson
 
