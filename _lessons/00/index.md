@@ -55,7 +55,6 @@ Five of the vowel letters look the same as in English, except for **ı**, which 
 | ı | <audio controls src="../sounds/i.mp3" /> | k**ee**p |
 | o | <audio controls src="../sounds/o.mp3" /> | (Spanish) s**o**l |
 | u | <audio controls src="../sounds/u.mp3" /> | g**oo**se |
-<!-- | y | <audio controls src="../sounds/y.mp3" /> | comm**a** | -->
 
 ## Consonants
 
