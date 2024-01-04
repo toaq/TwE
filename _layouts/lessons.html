@@ -27,12 +27,15 @@
         {% for lesson in site.lessons %}
           <a {% if page != lesson %} href="..{{ lesson.url | remove: 'index' }}" {% endif %}>{{ lesson.url | remove: 'index' | remove: '/' | replace: '00', 'Intro' }}</a> {% unless forloop.last %}·{% endunless %}
         {% endfor %}
-        </div>    
+        </div>
     </header>
+    {% unless page.delta %}
     <div style="max-width:30em; text-align:center; margin:1em auto; padding:2em; border:2px dashed #ff6600; background:#ff660010">
-      This tutorial is for the older <a href="https://toaq.me/Versions">Gamma version</a> of the language.<br>
+      This lesson is for the older <a href="https://toaq.me/Versions">Gamma version</a> of the language.<br>
+      It has not yet been updated for Toaq Delta.<br>
       A description of the current Toaq Delta is available <a href="https://toaq.net/">here</a>.
     </div>
+    {% endif %}
     <div class="content">
       <main>
         {{content}}
