@@ -1,7 +1,7 @@
 ---
-title: 'Héıjoko chỉetoaı'
+title: 'Héıjoko chıetoaı'
 ---
-# **Héıjoko chỉetoaı** -- Lesson 14
+# **Héıjoko chıetoaı** -- Lesson 14
 
 Congratulations. You have reached the second review lesson. Here's a summary of what you have learned since the last review lesson.
 
@@ -9,31 +9,31 @@ Congratulations. You have reached the second review lesson. Here's a summary of 
 
 The most important addition in the last six lessons was the rising-falling tone ![](../tones/t5.png). This tone creates what we call *content clauses*. A content clause is a sentence that is turned into noun, such that it can be used inside another sentence. We can also call them *that*-clauses, because they often start with "that" in English.
 
-> **Tỉa súq jío da.**  
+> **Tıa súq jío da.**
   "You are behind the building."
 
-> **tîa súq jío**  
+> **tîa súq jío**
   "that you are behind the building"
-  
-> **Dủa jí tîa súq jío da.**  
+
+> **Dua jí tîa súq jío da.**
   "I know *that you are behind the building*."
 
 A possible mnemonic for the rising-falling tone ![](../tones/t5.png) is that it's rising because it creates a noun (![](../tones/t2.png)), and falling because it contains a sentence and sentences begin with verb (![](../tones/t4.png)).
 
 Instead of using the rising-falling tone ![](../tones/t5.png) on the verb of a sentence to turn the sentence into a noun, it is also possible to use the word **lâ** in place of the bare ![](../tones/t5.png). The following two sentences are equivalent:
 
-> **zâo súq jí**  
+> **zâo súq jí**
   "that you know me"
 
-> **lâ zảo súq jí**  
+> **lâ zao súq jí**
   "that you know me"
 
 Using **lâ** becomes necessary when the content clause does not begin with a verb. This is the case when there is at least one noun in the topic position of the content clause:
 
-> **lâ sa rảı bı shảo jí dûa súq ráı**  
+> **lâ sa raı bı shao jí dûa súq ráı**
   "that there is something I want you to know"
-  
-> **lâ líqfu bı lỏı hó baq kảto**  
+
+> **lâ líqfu bı loı hó baq kato**
   "that as for the daughter, she hates cats"
 
 Otherwise, one is free to choose between **lâ** and a bare rising-falling tone ![](../tones/t5.png).
@@ -117,17 +117,17 @@ Words like **sa**, **hı**, and **baq** are grouped together under the category 
 
 Quantifiers and determiners perform what is called *binding* of the following expression. This is similar to how variables work in mathematics. Once introduced, a variable like X means the same thing wherever it appears, until it is redefined. A Toaq variable gets bound by a quantifier/determiner followed by a falling tone ![](../tones/t4.png) expression and then re-used via the rising tone ![](../tones/t2.png).
 
-> **Sa rảı bı dủa jí chô súq ráı da**  
-  "[There exists] some thing (X), I know that you like the thing (X)."  
+> **Sa raı bı dua jí chô súq ráı da**
+  "[There exists] some thing (X), I know that you like the thing (X)."
   "There is something I know you like."
 
-> **Dủa jí chô súq sa rảı da.**  
+> **Dua jí chô súq sa raı da.**
   "I know that there is something you like."
 
-> **Hı rảı bı dủa súq chô jí ráı moq?**  
+> **Hı raı bı dua súq chô jí ráı moq?**
   "Which thing (X) [is such that] you know that I like the thing (X)?"
 
-> **Mả dủa súq chô jí hı rảı moq?**  
+> **Ma dua súq chô jí hı raı moq?**
   "Do you know what I like?"
 
 ## Names and quotes
@@ -136,43 +136,43 @@ The word **mı** is placed before words to turn them into name verbs. **mı X** 
 
 As the main verb of a sentence:
 
-> **Mỉ Sảra hó da.**  
-  "They are a Sara."  
+> **Mı Sara hó da.**
+  "They are a Sara."
   "Their name is Sara."
 
 As a rising tone ![](../tones/t2.png) noun:
 
-> **Tỉ mí Tỏmı hı rảı moq?**  
+> **Tı mí Tomı hı raı moq?**
   "Where is Tommy?"
 
 As the verb of a content clause:
 
-> **Dủa jí mî Sảra súq da.**  
-  "I know that you are a Sara."  
+> **Dua jí mî Sara súq da.**
+  "I know that you are a Sara."
   "I know that your name is Sara."
 
 After quantifiers and determiners:
 
-> **Chỏ tu mỉ Jủlıa baq rủa da.**  
+> **Cho tu mı Julıa baq rua da.**
   "Every Julia likes flowers."
 
-> **Nỉe hı mỉ Dẻreq kúa moq?**  
+> **Nıe hı mı Dereq kúa moq?**
   "Which Derren is inside the room?"
 
 The word **shu** behaves similarly, quoting the following word, but unlike **mı**, it refers to the word itself. **shu X** means "to be the word X".
 
-> **Dẻ shú rỉaq da.**  
-  "The word 'rỉaq' (place) is beautiful."
+> **De shú rıaq da.**
+  "The word 'rıaq' (place) is beautiful."
 
-> **Mả pủ kûq súq shú rủa moq?**  
-  "Did you say the word 'rủa' (flower)?"
+> **Ma pu kûq súq shú rua moq?**
+  "Did you say the word 'rua' (flower)?"
 
 For the sake of completeness, the way to quote full text (i.e., direct speech) is given here as well, because even though it only appeared in lesson 4, it wasn't covered in the previous review lesson. Full text quotes are done by wrapping the quoted text in **mo … teo**. The result is, as with **mı** and **shu**, a verb: "to be the quoted text":
 
-> **Pủ kûq jí mó« Chỏ jí súq da »teo da.**  
+> **Pu kûq jí mó« Cho jí súq da »teo da.**
   "I said 'I like you'."
 
-> **Kủq há mó« Kủaq kỉe ka »teo ba.**  
+> **Kuq há mó« Kuaq kıe ka »teo ba.**
   "One should say 'Thank you'."
 
 Full text quotes will be coming up more frequently in future lessons.
@@ -192,16 +192,16 @@ Toaq expresses tense via ordinary verbs. No special grammar is needed.
 
 Examples:
 
-> **Nảı chûq jí da.**  
-  "That I eat is the case now."  
+> **Naı chûq jí da.**
+  "That I eat is the case now."
   "(Now) I eat."
 
-> **Pủ kâqgaı hó sa jủa da.**  
-  "That they see something strange was the case in the past."  
+> **Pu kâqgaı hó sa jua da.**
+  "That they see something strange was the case in the past."
   "They saw something strange."
 
-> **Jỉa fâ jí méı da.**  
-  "That I go to the mountain will be the case in the future"  
+> **Jıa fâ jí méı da.**
+  "That I go to the mountain will be the case in the future"
   "I will go to the mountain."
 
 ## Questions and indirect questions
@@ -212,10 +212,10 @@ These are the question words introduced so far:
   <table class="fancy">
     <tr><th colspan="2">Question words</th></tr>
     <tr><td><strong>hı X</strong></td><td>which X, what X</td></tr>
-    <tr><td><strong>Mả ... moq?<br>mâ ...</strong></td><td>Is it true that ...?<br>whether ...</td></tr>
-    <tr><td><strong>Tỉo … moq?<br>tîo ...</strong></td><td>How much is ... the case?<br>how much ... is the case</td></tr>
-    <tr><td><strong>Tỉopuı X moq?</strong></td><td>How numerous are X?</td></tr>
-    <tr><td><strong>Hỉa X moq?</strong></td><td>What is X? What are X? What does X do? What verb is true of X?</td></tr>
+    <tr><td><strong>Ma ... moq?<br>mâ ...</strong></td><td>Is it true that ...?<br>whether ...</td></tr>
+    <tr><td><strong>Tıo … moq?<br>tîo ...</strong></td><td>How much is ... the case?<br>how much ... is the case</td></tr>
+    <tr><td><strong>Tıopuı X moq?</strong></td><td>How numerous are X?</td></tr>
+    <tr><td><strong>Hıa X moq?</strong></td><td>What is X? What are X? What does X do? What verb is true of X?</td></tr>
   </table>
 </div>
 
@@ -223,82 +223,82 @@ Examples:
 
 **hı** - *which*
 
-> **Pỉe súq hı rảı moq?**  
+> **Pıe súq hı raı moq?**
   "What (thing) are you drinking?"
 
-> **Hı rỉaq bı shảo súq fâ súq ríaq moq?**  
+> **Hı rıaq bı shao súq fâ súq ríaq moq?**
   "Which place [is such that] you want to go to the place?"
 
-> **Mỏaq jí tî kúne hı kủa da.**  
+> **Moaq jí tî kúne hı kua da.**
   "I remember in which room the dog is."
 
 **ma** - *whether*
 
-> **Mả nủo súq moq?**  
+> **Ma nuo súq moq?**
   "Are you asleep?"
 
-> **Dủa máma mâ jảı bé da.**  
+> **Dua máma mâ jaı bé da.**
   "The mother knows whether the baby is happy."
 
-> **Mả mỏaq súq tî káto hı kủa moq?**  
+> **Ma moaq súq tî káto hı kua moq?**
   "Do you remember in which room the cat is?"
 
 **tıo** - *how (much)*
 
-> **Tỉo sảo gúa moq?**  
+> **Tıo sao gúa moq?**
   "How big is the country?"
 
-> **Dủa bũ súq tîo dẻ súq da.**  
+> **Dua bũ súq tîo de súq da.**
   "You don't know how beautiful you are."
 
-> **Mả mỏaq sa tỉ tîo nỏqgı baq mảtu moq?**  
+> **Ma moaq sa tı tîo noqgı baq matu moq?**
   "Does anyone here remember how delicious honey is?"
 
 **tıopuı** - *how numerous*
 
-> **Tỉopuı élu moq?**  
+> **Tıopuı élu moq?**
   "How many are the elephants?"
 
-> **Dủa bũ súq tîopuı míy da.**  
+> **Dua bũ súq tîopuı míy da.**
   "You don't know how many we are."
 
 **hıa** - *is/does what*
 
-> **Hỉa ní moq?**  
+> **Hıa ní moq?**
   "What's this?"
 
-> **Dủashao hó hîa ní da.**  
+> **Duashao hó hîa ní da.**
   "They want to know what this is."
 
 ## Sentence enders: ka and nha
 
 Like **da**, **moq**, and **ba**, the word **ka** is placed at the end of a sentence. Its function is to mark a sentence as being true by virtue of being uttered, such as in declarations or pronouncements. It is best translated as "hereby".
 
-> **Hỉo ka.**  
-  "Hereby there's greeting."  
+> **Hıo ka.**
+  "Hereby there's greeting."
   "Hello."
 
-> **Hỉo jí ka.**  
-  "I hereby greet."  
+> **Hıo jí ka.**
+  "I hereby greet."
   "Hello."
 
-> **Kủaq kỉe ka.**  
-  "Hereby there's expressing gratefulness."  
+> **Kuaq kıe ka.**
+  "Hereby there's expressing gratefulness."
   "Thank you."
 
-> **Kủaq shẻo ka**  
-  "Hereby there's expressing regret."  
+> **Kuaq sheo ka**
+  "Hereby there's expressing regret."
   "I'm sorry.", "I apologize."
 
-> **Nảı chêo sẻo súq ka.**  
+> **Naı chêo seo súq ka.**
   "You are now married to each other."
 
 The other new sentence ender we saw is **nha**, which marks a sentence as not an assertion of a factual truth, but a promise that the speaker intends to fulfill.
 
-> **Mỏaq jí hóq nha.**
+> **Moaq jí hóq nha.**
   "(I promise) I'll remember it."
 
-> **Tảı múy nha.**
+> **Taı múy nha.**
   "(I promise) We'll succeed."
 
 ---

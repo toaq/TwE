@@ -1,7 +1,7 @@
 ---
-title: 'Díaıko chỉetoaı'
+title: 'Díaıko chıetoaı'
 ---
-# **Díaıko chỉetoaı** -- Lesson 7
+# **Díaıko chıetoaı** -- Lesson 7
 
 Congratulations, you have reached the first review lesson. This lesson does not contain anything new. Instead, it summarizes the material covered in the previous six lessons and helps you organize and consolidate it.
 
@@ -9,7 +9,7 @@ Congratulations, you have reached the first review lesson. This lesson does not 
 
 It is important that you learn to hear and pronounce the tones correctly. So far, you have seen (or heard) the falling tone ![](../tones/t4.png) and the rising tone ![](../tones/t2.png). All of these tones exist in English, too:
 
-The falling tone ![](../tones/t4.png) sounds like the "go!" in "ready, set, GO!". Conveniently, "go" is a verb, and the falling tone is the verb tone. 
+The falling tone ![](../tones/t4.png) sounds like the "go!" in "ready, set, GO!". Conveniently, "go" is a verb, and the falling tone is the verb tone.
 
 The rising tone ![](../tones/t2.png) sounds like "huh?" or "what?" and it makes nouns.
 
@@ -25,66 +25,66 @@ Sentence prefixes ("but", "so", ...) are optional.
 
 When there is a noun in topic position, the verb of the sentence must be preceded by the particle **bı**.
 
-## The purpose of an utterance 
+## The purpose of an utterance
 
 The particles **da**, **ba**, **moq** are used to indicate the aim of an utterance. They let us distinguish statements from questions from commands.
 
 **da** makes assertions:
 
-> **Bủa hó sa jỉo da.**  
+> **Bua hó sa jıo da.**
   "They live in a building."
 
-> **Chỏ jí súq da.**  
+> **Cho jí súq da.**
   "I like you."
 
 **ba** makes commands, wishes, and suggestions:
 
-> **Chủq múy ba.**  
+> **Chuq múy ba.**
   "Let us eat."
 
-> **Nủo déo ba.**  
+> **Nuo déo ba.**
   "May the children sleep."
 
 **moq** makes questions:
 
-> **Mả kảqgaı súq kúne moq?**  
+> **Ma kaqgaı súq kúne moq?**
   "Do you see the dog?"
 
-> **Gỉ hı shảmu moq.**  
+> **Gı hı shamu moq.**
   "Which apples are good?"
 
 ## Everything is a verb
 
 By now, you have heard a few times that things that would be nouns or adjectives in English are actually verbs in Toaq. What is really meant by that is that the words that carry meaning in Toaq (as opposed to words that mainly give structure to a sentence, like **keo**, **bı**, or **da**) are verbal in nature. Grammatically, they only assume their role as a verb when they carry a falling tone ![](../tones/t4.png) or as a noun when they carry the rising tone ![](../tones/t2.png). Before they receive a tone, they are what a linguist would call *contentives*, which comes from the fact that their primary property is that they have semantic content (unlike function words) — the are the containers of meaning.
 
-In English, you say "this is a dog". In Toaq, you say "this dogs". 
+In English, you say "this is a dog". In Toaq, you say "this dogs".
 
 Below are examples showing how things which would be verbs, adjectives or nouns in English are all be expressed by contentives (which are turned into verbs via the falling tone ![](../tones/t4.png)) in Toaq:
 
-> **Chủq jí da**  
+> **Chuq jí da**
   "I eat."
 
-> **Nủı shámu da**  
+> **Nuı shámu da**
   "The apple is small." (lit. "The apple smalls")
 
-> **Kủne ní da**  
+> **Kune ní da**
   "This is a dog." (lit. "This dogs")
 
 ## Making nouns
 
-So far, you have encountered two ways of making nouns out of contentives: 1) using a rising tone ![](../tones/t2.png), and 2) using 
+So far, you have encountered two ways of making nouns out of contentives: 1) using a rising tone ![](../tones/t2.png), and 2) using
 **sa**, **tu**, or **hı** followed by a verb:
 
-> **póq**  
+> **póq**
   "the person(s)"
 
-> **sa rủa**  
+> **sa rua**
   "a flower, some flowers"
 
-> **tu bảo**  
+> **tu bao**
   "every white thing, all white things"
 
-> **hı jỉo**  
+> **hı jıo**
   "which building(s)"
 
 Nouns in Toaq are not marked for grammatical number. That is, whether an expression refers to one or more things, its form doesn’t change.
@@ -113,18 +113,18 @@ Toaq's pronouns distinguish neither grammatical number nor grammatical gender. H
 
 Toaq makes a distinction between different senses of "we", depending on whether it includes the listener or a third party:
 
-> **Chủq múy ba.**  
+> **Chuq múy ba.**
   "Let us eat."
 
-> **Chỏ míy súq da.**  
+> **Cho míy súq da.**
   "We like you."
 
 All of these pronouns are contentives, which means they can be used as verbs:
 
-> **Jỉ ní da.**  
+> **Jı ní da.**
   "This is me."
 
-> **Sủq núo da.**  
+> **Suq núo da.**
   "The one who sleeps is you."
 
 ## Roots and compounds
@@ -133,7 +133,7 @@ A lexical distinction is made between root words with more than syllable on the 
 
 When applying a tone to a word with more than one syllable, the tone contour is spread out over the whole word. (If the word is really long, our voice can only keep rising/falling for so long, so it's okay to flatten out past a certain point.)
 
-We learned that care must be taken to pronounce the neutral tone in a way that "breaks" the previous word's tone contour. This way, we will not accidentally form one long word **kủneda** when we want to say **Kủne da.**
+We learned that care must be taken to pronounce the neutral tone in a way that "breaks" the previous word's tone contour. This way, we will not accidentally form one long word **kuneda** when we want to say **Kune da.**
 
 These are the roots and compounds introduced so far, in chronological order.
 
@@ -178,10 +178,10 @@ The suffix **-ko** is attached to any number to create an ordinal number: **shı
 
 Toaq’s cardinal numbers are verbs that describe the numerosity of the referents of an expression:
 
-> **Gủ múy da.**  
+> **Gu múy da.**
   "We (you & I) are two."
 
-> **Sảq shámu da.**  
+> **Saq shámu da.**
   "The apples are three in number."
 
 It is not necessary to memorize any of this. If you feel like practicing the numbers, you can click on a random lesson number and check what its Toaq translation is.
