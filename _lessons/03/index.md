@@ -1,8 +1,8 @@
 ---
-title: 'Chıetoaı kọsaq'
+title: 'Chíetoaı kọsaq'
 delta: true
 ---
-# **Chıetoaı kọsaq** -- 3rd Lesson
+# **Chíetoaı kọsaq** -- 3rd Lesson
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
