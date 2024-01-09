@@ -6,7 +6,7 @@ delta: true
 
 Congratulations. You have reached the second review lesson. Here's a summary of what you have learned since the last review lesson.
 
-## Content clauses and ꝡä
+## Content clauses
 
 The most important addition in the last six lessons was the particle **ꝡä**. This particle creates what we call *content clauses*. A content clause is a sentence that is turned into noun, such that it can be used inside another sentence. We can also call them *that*-clauses, because they often start with "that" in English.
 
