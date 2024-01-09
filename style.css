@@ -146,13 +146,14 @@ table:not(.sentences) td, table:not(.sentences) th {
 
 
 .sentences td::before {
-  content: counter(sentence) "— ";
+  content: counter(sentence) ". ";
   font-weight: normal;
   position: relative;
   display: block;
   height: 0px;
   overflow: visible;
-  left: -1.5em;
+  right: calc(100% + 0.25em);
+  text-align: end;
 }
 
 .sentences tr {
