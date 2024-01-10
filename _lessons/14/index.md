@@ -6,7 +6,7 @@ delta: true
 
 Congratulations. You have reached the second review lesson. Here's a summary of what you have learned since the last review lesson.
 
-## Content clauses
+## Content clauses and **ꝡä**
 
 The most important addition in the last six lessons was the particle **ꝡä**. This particle creates what we call *content clauses*. A content clause is a sentence that is turned into noun, such that it can be used inside another sentence. We can also call them *that*-clauses, because they often start with "that" in English.
 
@@ -89,7 +89,7 @@ And finally, these are all the pairs of opposites you already know:
   </table>
 </div>
 
-## determiners
+## Determiners
 
 Words like **sá**, **hí**, and **báq** are grouped together under the category of *determiners*. This is a list of the ones seen so far:
 
@@ -259,7 +259,7 @@ Examples:
 > **Duashao hó, ꝡä hıa ní da.**
   "They want to know what this is."
 
-## Sentence enders: ka and nha
+## Sentence enders: **ka** and **nha**
 
 Like **da**, **móq**, and **ba**, the word **ka** is placed at the end of a sentence. Its function is to mark a sentence as being true by virtue of being uttered, such as in declarations or pronouncements. It is best translated as "hereby".
 

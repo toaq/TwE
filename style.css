@@ -229,7 +229,7 @@ h1 {
 }
 
 h2, h3 {
-  font-family: Sofia;
+  font-family: "Noto Serif";
   line-height: 100%;
 }
 
@@ -247,7 +247,7 @@ h3 { font-size: 20px; padding-top: 5px; margin-top: 25px; }
 hr {
   border: 0;
   margin: 25px 0;
-  font-family: Sofia, sans-serif;
+  font-family: "Noto Serif", sans-serif;
 }
 
 h2::before, hr::before {
