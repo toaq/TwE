@@ -133,7 +133,7 @@ This page offers an overview of all the words taught in the course, grouped by p
 | moaqshaı | forget | [12](../12) |
 | mıao | moon | [12](../12) |
 | sahu | is false | [12](../12) |
-| nuımpoq | ? | [12](../12) |
+| nuımpoq | alien | [12](../12) |
 | rıaq | place | [12](../12), [13](../13) |
 | sao | big | [12](../12) |
 | jıaq | world | [12](../12) |
@@ -244,12 +244,12 @@ This page offers an overview of all the words taught in the course, grouped by p
 | oaı | uh-oh | [06](../06) |
 | kushe | sorry | [08](../08), [10](../10) |
 | jadı | hi | [09](../09) |
-| nho | yes? | [09](../09) |
+| nho | yes | [09](../09) |
 | obe | oh | [09](../09) |
 | kıjı | thanks | [09](../09), [10](../10), [11](../11) |
 | shadı | welcome | [10](../10) |
 | enı | here | [10](../10), [11](../11) |
-| em | huh? | [10](../10) |
+| em | hmm | [10](../10) |
 | aıka | alright | [10](../10) |
 
 ## Polarity

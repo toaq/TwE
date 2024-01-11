@@ -392,3 +392,13 @@ header img {
     background-color: #4d4d4d;
   }
 }
+
+.lesson-vocab table td, .lesson-vocab table th {
+  padding: 4px 1em;
+  height: unset;
+}
+
+.lesson-vocab table th {
+  font-weight: bold;
+  text-align: left
+}

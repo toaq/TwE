@@ -25,7 +25,7 @@
       <div>Toaq with Ease</div>
       <div class="nav-lessons">
         {% for lesson in site.lessons %}
-          <a {% if page != lesson %} href="..{{ lesson.url | remove: 'index' }}" {% endif %}>{{ lesson.url | remove: 'index' | remove: '/' | replace: '00', 'Intro' }}</a> {% unless forloop.last %}·{% endunless %}
+          <a {% if page != lesson %} href="..{{ lesson.url | remove: 'index' }}" {% endif %}>{{ lesson.url | remove: 'index' | remove: '/' | replace: '00', 'Intro' | capitalize }}</a> {% unless forloop.last %}·{% endunless %}
         {% endfor %}
         </div>
     </header>
