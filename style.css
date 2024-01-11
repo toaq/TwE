@@ -86,7 +86,7 @@ a.continue.but-dont {
   font-size: 16px;
 }
 
-.nav-lessons a[href], table a[href] {
+.content a[href], .nav-lessons a[href], table a[href] {
   color: #00802b;
 }
 
@@ -94,6 +94,10 @@ a.continue.but-dont {
 .nav-lessons a[href]:active, table a[href]:active,
 .nav-lessons a[href]:focus,  table a[href]:focus {
   color: inherit;
+}
+
+.content a[href]:hover {
+  color: purple;
 }
 
 table a[href] {
@@ -385,8 +389,11 @@ header img {
     color: #eee;
     background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("assets/linedpaper.png");
   }
-  .nav-lessons a[href], table a[href] {
+  .nav-lessons a[href], table a[href], .content a {
     color: #80f08b;
+  }
+  .content a:hover {
+    color: #d080ff;
   }
   .fancy td {
     background-color: #4d4d4d;
