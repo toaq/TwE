@@ -68,7 +68,7 @@ footer.navigation {
   text-align: center;
 }
 
-a.continue {
+.content a[href].continue {
   background-color: #00802b;
   color: white;
   padding: 25px;
@@ -77,7 +77,12 @@ a.continue {
   display: inline-block;
 }
 
-a.continue.but-dont {
+.content a[href].continue:hover {
+  background-color: #00902b;
+  color: white;
+}
+
+.content a.continue.but-dont {
   background-color: gray;
 }
 
