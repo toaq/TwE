@@ -53,4 +53,4 @@ See also: <https://toaq.me/Pronoun>
 
 Toaq's grammar is not very big, and this course has covered most of the essentials. We didn't learn about certain common constructs, like adjectives, adverbs, or serial verbs. The wiki has an [overview of the grammar](https://toaq.me/Grammar_overview) that touches on these concepts. They are described in full in the [reference grammar](https://toaq.net/refgram/).
 
-You can round out your vocabulary by reading the [cheat sheet](https://toaq.me/Cheat_sheet) or browsing [Toadua](https://toaq.me/Toadua). Or you can come talk to us on [Discord](https://toaq.me/Discord). If you made it this far, I'm sure you can form more sentences than you think! **Laojaı íme, ꝡä choaqfa súq íme da.** ![Toaq-heart](../assets/toaqhua.png){: height="20" }
+You can round out your vocabulary by reading the [cheat sheet](https://toaq.me/Cheat_sheet) or browsing [Toadua](https://toaq.me/Toadua). Or you can come talk to us on [Discord](https://toaq.me/Discord). If you made it this far, I'm sure you can form more sentences than you think! **Laojaı íme, ꝡä choaqfa súq íme da.** ![Toaq-heart](../tones/toaqhua.png){: height="20" }
