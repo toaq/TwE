@@ -11,7 +11,7 @@ delta: true
 | **Ina...**                                                  | Okay...                                                                                              |
 | **Sá chaq nä bu gı cháq da. [③](#fn-3)[④](#fn-4) Keo tú chaq nä paq sá gı cháq da.**          | Some days aren't good. But every day has something good in it (every day is such that something good is part of it).                                                                              |
 | **Ma noaq súq sá kue móq?** [⑤](#fn-5)           | Did you read a book?                                                                                 |
-| **Sá kue nä noaq há kúe da. [⑥](#fn-6) Sá kue nä cho há kúe da. Keo sá kue nä ... oe, fa súq hí raı móq?** [⑦](#fn-7)           | Some books, you read them. Some books, you enjoy them. But some books... Hey, where are you going?                                                                           |
+| **Sá kue nä noaq há kúe da. [⑥](#fn-6) Sá kue nä cho há kúe da. Kéo sá kue nä ... oe, fa súq hí raı móq?** [⑦](#fn-7)           | Some books, you read them. Some books, you enjoy them. But some books... Hey, where are you going?                                                                           |
 
 ## Notes
 
