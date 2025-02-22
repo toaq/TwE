@@ -9,8 +9,8 @@ delta: true
 {: .sentences}
 | **Ruqshua da.**  [①](#fn-1)[②](#fn-2) | It's raining.          |
 | **Kéo choa da.** [③](#fn-3)           | But there is talking.  |
-| **Rú hıaı da.**  [③](#fn-4)           | And there is laughing. |
-| **De cháq da.**  [④](#fn-5)[⑤](#fn-6) | It's a beautiful day.  |
+| **Rú hıaı da.**  [④](#fn-4)           | And there is laughing. |
+| **De cháq da.**  [⑤](#fn-5)[⑥](#fn-6) | It's a beautiful day.  |
 
 ## Notes
 
