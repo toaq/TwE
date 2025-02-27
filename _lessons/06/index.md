@@ -21,7 +21,7 @@ delta: true
 
 ## Notes
 
-1. <a name="fn-1" /> **kune** "dog" is a root word with more than one syllable. We met another such root in Lesson 4. An interesting point worth appreciating here again is that the words for "dog" and "apple" are verbs in Toaq. **kune** means "to be a dog", **shamu** "to be an apple". The noun meanings are derived from these verbs, either via a rising tone ![](../tones/d2.png) (**kúne** "the dog(s)", **shamu** "the apple(s)") or via **sá** (**sá kune** "some dog(s)", **sá shamu** "some apple(s)") or **tú** (**tú kune** "every dog", **tú shamu** "every apple").
+1. <a name="fn-1" /> **kune** "dog" is a root word with more than one syllable. We met another such root in Lesson 4. An interesting point worth appreciating here again is that the words for "dog" and "apple" are verbs in Toaq. **kune** means "to be a dog", **shamu** "to be an apple". The noun meanings are derived from these verbs, either via a rising tone ![](../tones/d2.png) (**kúne** "the dog(s)", **shámu** "the apple(s)") or via **sá** (**sá kune** "some dog(s)", **sá shamu** "some apple(s)") or **tú** (**tú kune** "every dog", **tú shamu** "every apple").
 
 2. <a name="fn-2" /> **hóı** is a so-called *vocative marker*. It is placed in front of a noun and indicates that the noun is the party being addressed by the speaker. Here, it is mother (**máma**) who is being addressed.
 
