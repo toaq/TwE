@@ -194,7 +194,7 @@ This page offers an overview of all the words taught in the course, grouped by p
 | níjao | that | [03](../03) |
 | tú | each | [04](../04), [05](../05), [06](../06), [11](../11), [13](../13) |
 | hí | which | [05](../05), [06](../06), [08](../08), [09](../09), [10](../10), [12](../12) |
-| sıa | no | [08](../08), [12](../12) |
+| sía | no | [08](../08), [12](../12) |
 | báq | in general | [10](../10), [11](../11), [12](../12) |
 
 ## Pronoun
@@ -282,7 +282,7 @@ This page offers an overview of all the words taught in the course, grouped by p
 
 | Word | Meaning | Lessons |
 | --- | --- | --- |
-| beı | contrastive focus | [08](../08), [10](../10), [12](../12) |
+| béı | contrastive focus | [08](../08), [10](../10), [12](../12) |
 
 ## Name Verb
 
@@ -316,3 +316,4 @@ This page offers an overview of all the words taught in the course, grouped by p
 | Word | Meaning | Lessons |
 | --- | --- | --- |
 | chum | -ing | [13](../13) |
+
