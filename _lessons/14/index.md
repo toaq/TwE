@@ -292,4 +292,4 @@ The other new sentence ender we saw is **nha**, which marks a sentence as not an
 
 ---
 
-You are now ready to take on lessons 15 to 21. Make sure to take it slow and give the language time to sink in. You've already come a long way!
+You are now ready to take on lessons 15 to 21. Make sure to take it slow and give the language time to sink in. It is recommended to talk with other Toaq speakers and translate pieces of text (especially texts that mean something to you or really like) so you can *really* etch the language in your brain. You've already come a long way!
